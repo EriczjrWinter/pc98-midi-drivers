@@ -19,7 +19,13 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # 允许的文件类型（其余一律视为可疑）
 OK_EXT = {'.py', '.md', '.json', '.csv', '.txt', '.yml', '.yaml', '.cfg',
-          '.toml', '.gitignore', '.gitattributes', '.png', '.jpg', ''}
+          '.toml', '.gitignore', '.gitattributes', '.png', '.jpg'}
+
+# 上传时排除的文件（只在本地维护，不适合公开）
+# - docs/NEXT.md 是给下一个会话看的交接文档，时效性强，会很快过时
+SKIP = {
+    'docs/NEXT.md',
+}
 
 
 def tracked():
@@ -31,6 +37,16 @@ def tracked():
     return [f for f in out.stdout.splitlines() if f.strip()]
 
 
+def untracked():
+    """未跟踪但不该被忽略的文件——它们不会进上传版，要单独提醒。"""
+    out = subprocess.run(['git', 'ls-files', '--others',
+                          '--exclude-standard'], cwd=ROOT,
+                         capture_output=True, text=True)
+    if out.returncode != 0:
+        return []
+    return [f for f in out.stdout.splitlines() if f.strip()]
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--out', default=ROOT + '-upload')
@@ -38,13 +54,35 @@ def main():
     a = ap.parse_args()
 
     files = tracked()
-    print('git 跟踪的文件:', len(files))
+    skipped = [f for f in files if f in SKIP]
+    files = [f for f in files if f not in SKIP]
+    print('git 跟踪的文件:', len(tracked()))
+    if skipped:
+        print('按 SKIP 排除:', ', '.join(skipped))
+    print('实际导出:', len(files))
+
+    # 未跟踪的源码/文档不会进上传版——这是最容易「漏东西」的地方
+    loose = [f for f in untracked()
+             if os.path.splitext(f)[1].lower() in ('.py', '.md', '.json', '.txt')]
+    if loose:
+        print('\n！以下文件未跟踪，不会进上传版（先 git add）:')
+        for f in loose[:20]:
+            print('   ', f)
+        print('   共 %d 个。' % len(loose))
 
     bad = []
+    bare = []
     for f in files:
-        e = os.path.splitext(f)[1].lower()
-        if e not in OK_EXT:
+        base = os.path.basename(f)
+        e = base.lower() if base.startswith('.') else os.path.splitext(base)[1].lower()
+        if not e:
+            bare.append(f)          # 无扩展名的文件：只提示，不拦
+        elif e not in OK_EXT:
             bad.append(f)
+    if bare:
+        print('\n无扩展名的跟踪文件（确认不是驱动本体）:')
+        for f in bare:
+            print('   ', f)
     if bad:
         print('\n！以下文件类型可疑（可能是数据或驱动本体）:')
         for f in bad[:20]:

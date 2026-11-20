@@ -26,10 +26,15 @@ PC-98 のゲーム音楽の多くは「**データ + ドライバ**」という�
 | [**MS.COM**](drivers/mscom/) | LEAF | ドライバ実行 | 雀鬼 / Filsnown | ✅ **61 曲** |
 | [**MMD**](drivers/mmd/) | KAJA（23 社） | 静的解析 | 94 作品 | ✅ **35 曲**（1 作品を検証） |
 | [**MSDRV4**](drivers/msdrv/) | 黒パッケージ | 静的（部分） | 殻の中の小鳥 | ⚠ 形式 7 割、エミュは DOS 環境で停止 |
-| [**MDRV98**](drivers/dofmdx/) | D.O. | ドライバ実行（進行中） | 79 作品 | ⚠ ロード/検出/API は解明、再生ループのみ未 |
+| [**MDRV98**](drivers/dofmdx/) | D.O. / ZyX | ドライバ実行 + 取り出し | 単体ドライバ 6 パック | ✅ **117 曲**（GS / MT-32） |
 | [**Alice Soft**](companies/alicesoft/) | Alice Soft | エンジン実行 | 二律背反 | ✅ 21 曲（Windows 側） |
 
-**合計 168 曲**の MIDI と、各ドライバの解析記録。
+**合計 285 曲**の MIDI と、各ドライバの解析記録。
+
+> **MDRV98 がカバーするのは一部だけ。** 同じドライバには 3 つの形態があります：
+> 単体ドライバ（`DOFMD_98.BIN` + `MDRV98`/`ZYXMD`）は **6 パック**で解決済み（117 曲）、
+> `DOFMDX98.COM` + ゲーム EXE（**32 作品**）と `MDRV98.COM` + `mlp_hoot`（**28 パック**）は未解決。
+> 詳細は [drivers/dofmdx](drivers/dofmdx/)。
 
 > Alice Soft は PC-98 ドライバではありません。MIDI の出口は Windows 版の
 > exe の中にあり、PC-98 側の `MAKO` は FM 専用です。詳細は該当ディレクトリへ。
@@ -128,7 +133,7 @@ drivers/
   mmd/           KAJA の MMD —— 静的解析、23 社
   mscom/         LEAF の MS.COM —— ドライバ実行
   msdrv/         黒パッケージ MSDRV4 —— 形式解析 + 部分エミュ
-  dofmdx/        D.O. MDRV98 —— 進行中
+  dofmdx/        D.O. MDRV98 —— 取り出し（mdrvcap パッケージ）
 docs/
   DRIVER-INVENTORY.md   246 個のドライバ一覧
   CATALOG.md            A/B/C/D 分類の考え方
@@ -155,7 +160,9 @@ tools/           ダウンロード、分類、クラスタリング、照合、
 
 ## 次の作業
 
-- [ ] `DOFMDX98`（79 作品）—— 入口はすべて解明、再生ループのみ未
+- [ ] `DOFMDX98.COM` ルート（32 作品）—— 774 バイトの DOS ローダ + ゲーム EXE
+- [ ] `MDRV98.COM` + `mlp_hoot` ルート（28 パック）—— `.MUS` データ
+- [ ] ZyX の単体パック 3 つ（`gbakuten_98` / `kyouiku_98` / `laidi1_98`）は未出力
 - [ ] `FUGAM_98`（53 作品）—— データは暗号化されている模様
 - [ ] `MSDRV4` —— DOS 環境エミュレーションの強化が必要
 - [ ] ロングテール：1 作品専用のドライバ 204 個

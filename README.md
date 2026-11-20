@@ -22,10 +22,15 @@ PC-98 的游戏音乐，很多是「**数据 + 驱动**」的结构：数据只�
 | [**MS.COM**](drivers/mscom/) | LEAF | 运行驱动 | 雀鬼 / Filsnown | ✅ **61 首** |
 | [**MMD**](drivers/mmd/) | KAJA（跨 23 家） | 静态解析 | 94 部 | ✅ **35 首**（1 部验证） |
 | [**MSDRV4**](drivers/msdrv/) | 黒パッケージ | 静态（部分） | 殻の中の小鳥 | ⚠ 格式七成，仿真卡在 DOS 环境 |
-| [**MDRV98**](drivers/dofmdx/) | D.O. | 运行驱动（进行中） | 79 部 | ⚠ 装载/硬件检测/API 全解，差播放循环 |
+| [**MDRV98**](drivers/dofmdx/) | D.O. / ZyX | 运行驱动 + 抓包 | 独立驱动 6 包 | ✅ **117 首**（GS / MT-32 各一套） |
 | [**Alice Soft**](companies/alicesoft/) | Alice Soft | 跑引擎 | 二律背反 | ✅ 21 首（Windows 侧） |
 
-**合计 168 首 MIDI**，加上驱动分析文档。
+**合计 285 首 MIDI**，加上驱动分析文档。
+
+> **MDRV98 只覆盖了一小部分。** 同一个驱动家族有三种打包方式：
+> 独立驱动（`DOFMD_98.BIN` + `MDRV98`/`ZYXMD`）只有 **6 个包**，已经跑通（117 首）；
+> `DOFMDX98.COM` + 游戏 EXE 的 **32 部**、`MDRV98.COM` + `mlp_hoot` 的 **28 包**都还没解。
+> 详见 [drivers/dofmdx](drivers/dofmdx/)。
 
 > Alice Soft 那条不是 PC-98 驱动——它的 MIDI 出口在 Windows 版 exe 里，
 > PC-98 侧的 `MAKO` 是纯 FM。详见该目录。
@@ -86,6 +91,8 @@ python tools/hoot_download.py --go --jobs 8
    - MIDI → 接口板数据口（PC-98 常见 `0xE0D0`）
    - FM → OPNA 寄存器口（`0x188` / `0x388`）
 4. **接管定时器** ← 「不用实时等」的关键
+   - 有的驱动自己挂钩件定时器（MDRV98 就是：声卡 Timer B 中断，
+     一次中断 = **4.908 ms**，用两份 Win95 参考反解出来的）
 5. **收字节 → 拼 MIDI**
 
 ### 反复踩到的坑
@@ -96,8 +103,9 @@ python tools/hoot_download.py --go --jobs 8
 | `IN` 的 hook 不返回值 | `'NoneType' cannot be interpreted` | 回调里 `return value` |
 | 定时器被驱动改写 | 快慢不对，且**每首不同** | 记录 `out 0x77/0x71`，逐 tick 换算 |
 | 时钟频率搞错 | 快/慢 20–30%，不报错 | PC-98 的 8253 是 **2.4576 MHz** |
-| 循环曲目 | 导出好几遍 | 字节流周期检测 |
+| 循环曲目 | 导出好几遍 | 字节流周期检测——但**段落重复 ≠ 整首循环**，有参考就用参考定长 |
 | **同名不同构建** | 换游戏就崩 | **按内容哈希区分**，不看文件名 |
+| 装中断不走 `INT 21h/25h` | 搜 `INT 21h`/IVT 写入一无所获 | 老驱动用 `mov ds,0` + 绝对地址直接写 IVT（MDRV98 就是这样漏的） |
 
 ### 一条重要的经验
 
@@ -120,7 +128,7 @@ drivers/
   mmd/           KAJA 的 MMD —— 静态解析，跨 23 家会社
   mscom/         LEAF 的 MS.COM —— 运行驱动
   msdrv/         黒パッケージ MSDRV4 —— 格式分析 + 部分仿真
-  dofmdx/        D.O. MDRV98 —— 进行中
+  dofmdx/        D.O. MDRV98 —— 逆向文档 + mdrvcap（抓包 / 导出）
 docs/
   DRIVER-INVENTORY.md   246 个驱动的全清单
   CATALOG.md            A/B/C/D 分类方案
@@ -144,10 +152,14 @@ tools/           下载、分诊、聚类、对照、转换
 | `vndb_win95.py` | 查 VNDB 判断有没有 Windows 版 |
 | `scan_collection.py` | 清点本地收藏 |
 | `triage2.py` | 给每个包找出真正的驱动文件 |
+| `drivers/dofmdx/src/mdrvcap/` | MDRV98 抓包导出（表 B + Timer B → SMF） |
 
 ## 下一步
 
-- [ ] `DOFMDX98`（79 部）—— 入口全部解明，差播放循环
+- [ ] `MDRV98` 的 `DOFMDX98.COM` 路线（32 部，D.O. 18 / ZyX 5 / FOSTER 8 / 姫屋 1）——
+      774 字节 DOS 装载器 + 游戏 EXE，驱动在 EXE 里，未解
+- [ ] `MDRV98` 的 `MDRV98.COM` + `mlp_hoot` 路线（28 包，`.MUS` 数据），未解
+- [ ] 独立驱动路线还剩 3 个 ZyX 包（`gbakuten_98` / `kyouiku_98` / `laidi1_98`）没导
 - [ ] `FUGAM_98`（53 部）—— 数据疑似加密
 - [ ] `MSDRV4` —— 需要更完整的 DOS 环境仿真
 - [ ] 长尾：204 个一对一驱动

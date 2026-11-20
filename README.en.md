@@ -25,10 +25,15 @@ and get the music out.
 | [**MS.COM**](drivers/mscom/) | LEAF | Run driver | Night Janki / Filsnown | ✅ **61 tracks** |
 | [**MMD**](drivers/mmd/) | KAJA (23 companies) | Static parse | 94 titles | ✅ **35 tracks** (1 title verified) |
 | [**MSDRV4**](drivers/msdrv/) | Black Package | Static (partial) | Kara no Naka no Kotori | ⚠ format ~70%, emulation stuck on DOS env |
-| [**MDRV98**](drivers/dofmdx/) | D.O. | Run driver (WIP) | 79 titles | ⚠ load/detect/API all solved, playback loop missing |
+| [**MDRV98**](drivers/dofmdx/) | D.O. / ZyX | Run driver + capture | 6 standalone packs | ✅ **117 tracks** (GS / MT-32) |
 | [**Alice Soft**](companies/alicesoft/) | Alice Soft | Run engine | AmbivalenZ | ✅ 21 tracks (Windows side) |
 
-**168 MIDI tracks in total**, plus the driver analysis documents.
+**285 MIDI tracks in total**, plus the driver analysis documents.
+
+> **MDRV98 only covers a small slice.** The same driver family ships in three forms:
+> standalone driver (`DOFMD_98.BIN` + `MDRV98`/`ZYXMD`) in **6 packs** — solved, 117 tracks;
+> `DOFMDX98.COM` + game EXE (**32 titles**) and `MDRV98.COM` + `mlp_hoot` (**28 packs**)
+> are still unsolved. See [drivers/dofmdx](drivers/dofmdx/).
 
 > The Alice Soft entry is not a PC-98 driver — its MIDI output lives in the Windows
 > executable, and the PC-98 `MAKO` is FM-only. See that directory for details.
@@ -127,7 +132,7 @@ drivers/
   mmd/           KAJA's MMD — static parser, 23 companies
   mscom/         LEAF's MS.COM — run the driver
   msdrv/         Black Package MSDRV4 — format analysis + partial emulation
-  dofmdx/        D.O. MDRV98 — work in progress
+  dofmdx/        D.O. MDRV98 — capture & export (mdrvcap package)
 docs/
   DRIVER-INVENTORY.md    full list of 246 drivers
   CATALOG.md             A/B/C/D classification scheme
@@ -154,7 +159,9 @@ tools/           download, triage, clustering, cross-reference, conversion
 
 ## Next
 
-- [ ] `DOFMDX98` (79 titles) — every entry point solved, only the playback loop missing
+- [ ] The `DOFMDX98.COM` route (32 titles) — 774-byte DOS loader + game EXE, driver packed inside
+- [ ] The `MDRV98.COM` + `mlp_hoot` route (28 packs) — `.MUS` data
+- [ ] 3 ZyX standalone packs (`gbakuten_98` / `kyouiku_98` / `laidi1_98`) not exported yet
 - [ ] `FUGAM_98` (53 titles) — data appears to be encrypted
 - [ ] `MSDRV4` — needs a more complete DOS environment emulation
 - [ ] The long tail: 204 one-off drivers
