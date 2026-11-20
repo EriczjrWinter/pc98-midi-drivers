@@ -1,0 +1,44 @@
+{
+ "_说明": "人工确认的音乐来源。这些信息自动扫描扫不出来，手动维护后由 apply_manual.py 合并进 catalog。",
+ "_字段": {
+  "title": "对应 catalog/win95.json 里的 title（原样）",
+  "folder": "本地目录名（D:\\music\\90S Galgame music 下）",
+  "midi": "该目录里的 MIDI 文件数",
+  "platform": "版本平台",
+  "note": "备注"
+ },
+ "sources": [
+  {
+   "title": "V.G.",
+   "company": "giga",
+   "folder": "[961122][戯画]V.G. PerfectCollection",
+   "midi": 70,
+   "platform": "Win95",
+   "note": "V.G. PerfectCollection，含 VG_OP1.MID / VG00_GS.MID …"
+  },
+  {
+   "title": "BRIGANTY The roots of darkness",
+   "company": "giga",
+   "folder": "[951027] ブリガンティ",
+   "midi": 10,
+   "platform": "Win95",
+   "note": "BZM001.MID …"
+  },
+  {
+   "title": "Harlem Blade ~The Greatest of All Time.~",
+   "company": "giga",
+   "folder": "黎明圣记",
+   "midi": 31,
+   "platform": "Win95",
+   "note": "目录名是中文译名「黎明圣记」，实际是 Harlem Blade"
+  },
+  {
+   "title": "STEAM-HEART'S",
+   "company": "giga",
+   "folder": "STEAM-HEARTS_Perfect Collection",
+   "midi": 65,
+   "platform": "Win95",
+   "note": "Perfect Collection"
+  }
+ ]
+}

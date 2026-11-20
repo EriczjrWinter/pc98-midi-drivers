@@ -34,7 +34,9 @@
     "13cm"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Angel Night: Yamiyo wo Kakeru Tenshitachi no Monogatari (���񂶂��遙�Ȃ��� �`�Ŗ���Ă���V�g�����̕���`) (SC-55)",
@@ -57,7 +59,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Angel Night: Yamiyo wo Kakeru Tenshitachi no Monogatari (���񂶂��遙�Ȃ��� �`�Ŗ���Ă���V�g�����̕���`) (Vermouth)",
@@ -80,7 +84,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "GaoGao! 3rd Wild Force Overture (GAOGAO! 3rd ���C���h�t�H�[�X) (SC-55)",
@@ -103,7 +109,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "GaoGao! 3rd Wild Force Overture (GAOGAO! 3rd ���C���h�t�H�[�X) (Vermouth)",
@@ -126,7 +134,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "GaoGao! 4th Canaan (GAOGAO! 4th �J�i�� �`�񑩂̒n�`) (SC-55)",
@@ -149,7 +159,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "GaoGao! 4th Canaan (GAOGAO! 4th �J�i�� �`�񑩂̒n�`) (Vermouth)",
@@ -172,7 +184,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Lilith (�����X) (SC-55)",
@@ -195,7 +209,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Lilith (�����X) (Vermouth)",
@@ -218,7 +234,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Waku Waku Mahjong Panic 2: Koku Shimusou (�킭�킭�����p�j�b�N! 2 �`�������z�`) (SC-55)",
@@ -241,7 +259,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Waku Waku Mahjong Panic 2: Koku Shimusou (�킭�킭�����p�j�b�N! 2 �`�������z�`) (Vermouth)",
@@ -264,7 +284,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Waku Waku Mahjong Panic: Shikigami Denshou (�킭�킭�����p�j�b�N! �`���_�`���`) (SC-55)",
@@ -287,7 +309,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Waku Waku Mahjong Panic: Shikigami Denshou (�킭�킭�����p�j�b�N! �`���_�`���`) (Vermouth)",
@@ -310,7 +334,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Charm 2: Niji Shoku no Kaze (�V�������Q �`���F�̕��`) (SC-55)",
@@ -333,7 +359,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Charm 2: Niji Shoku no Kaze (�V�������Q �`���F�̕��`) (Vermouth)",
@@ -356,7 +384,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Charm2 -虹色の風-",
@@ -379,7 +409,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "麻雀幻想曲II",
@@ -418,7 +450,9 @@
     "Active"
    ]
   },
-  "conf": 0.83
+  "conf": 0.83,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "麻雀幻想曲III",
@@ -455,7 +489,9 @@
     "Active"
    ]
   },
-  "conf": 0.77
+  "conf": 0.77,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "瑠璃色の雪",
@@ -489,7 +525,9 @@
     "AIL"
    ]
   },
-  "conf": 0.59
+  "conf": 0.59,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Last Guardian2 ～黄泉の封印～",
@@ -511,7 +549,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Russian Mahjong Horosho (�낵���� �}�[�W���� �n���V���[!) (SC-55)",
@@ -534,7 +574,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Russian Mahjong Horosho (�낵���� �}�[�W���� �n���V���[!) (Vermouth)",
@@ -557,7 +599,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ろしあん マ～ジャン ハラショー!",
@@ -591,7 +635,9 @@
     "Apple Pie"
    ]
   },
-  "conf": 0.96
+  "conf": 0.96,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "夢幻夜想曲",
@@ -631,7 +677,9 @@
     "apricot"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "STAR CRUISER II - The Odysseus project -",
@@ -656,7 +704,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "A列車で行こう 復刻版",
@@ -681,7 +731,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "A列車で行こうIII HD専用版",
@@ -705,7 +757,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "A列車で行こうIII MV -Memorial Version-",
@@ -729,7 +783,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "A列車で行こうIV",
@@ -754,7 +810,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "HR2",
@@ -787,7 +845,9 @@
     "TRiNE"
    ]
   },
-  "conf": 0.11
+  "conf": 0.11,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Lunatic Dawn",
@@ -823,7 +883,9 @@
     "Studio-Sakura"
    ]
   },
-  "conf": 0.06
+  "conf": 0.06,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Lunatic Dawn 2",
@@ -846,7 +908,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "トキオ 東京都第24区",
@@ -870,7 +934,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "トキオ2 開拓移民募集中!",
@@ -893,7 +959,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ローマは一日にしてならず",
@@ -916,7 +984,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "合戦関ヶ原",
@@ -939,7 +1009,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "天下御免",
@@ -975,7 +1047,9 @@
     "BaseSon"
    ]
   },
-  "conf": 0.67
+  "conf": 0.67,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "栄冠は君に3 高校野球全国大会",
@@ -1000,7 +1074,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "機甲師団II",
@@ -1024,7 +1100,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "LOGiN DISK&amp;BOOKシリーズ マンハッタン・レクイエム 闇に翔ぶ天使たち",
@@ -1047,7 +1125,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "PLANETS OF DRAGON",
@@ -1080,7 +1160,9 @@
     "ASCII Corporation"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "偽典・女神転生 東京黙示録",
@@ -1103,7 +1185,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "SATYR",
@@ -1137,7 +1221,9 @@
     "AyPio"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "SEX2",
@@ -1174,7 +1260,9 @@
     "STONE HEADS Co., Ltd."
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Sorcer Kingdom",
@@ -1210,7 +1298,9 @@
     "AyPio"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "PIAS",
@@ -1247,7 +1337,9 @@
     "Birdy Soft"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Ekudorado -Kingdom Inside of a Mirror- (�G�N�h���[�h �`���̒��̉����`)",
@@ -1270,7 +1362,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Ekudorado -Kingdom Inside of a Mirror- (�G�N�h���[�h �`���̒��̉����`) (SC-55)",
@@ -1293,7 +1387,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Ekudorado -Kingdom Inside of a Mirror- (�G�N�h���[�h �`���̒��̉����`) (Vermouth)",
@@ -1316,7 +1412,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Get! (�Q�b�g�I)",
@@ -1339,7 +1437,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Get! (�Q�b�g�I) (SC-55)",
@@ -1362,7 +1462,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Get! (�Q�b�g�I) (Vermouth)",
@@ -1385,7 +1487,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Kara no Naka no Kotori (�k�̒��̏���)",
@@ -1408,7 +1512,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Kara no Naka no Kotori (�k�̒��̏���) (SC-55)",
@@ -1431,7 +1537,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Kara no Naka no Kotori (�k�̒��̏���) (Vermouth)",
@@ -1454,7 +1562,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Miwaku no Chousho (���f�̒���)",
@@ -1477,7 +1587,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Miwaku no Chousho (���f�̒���) (SC-55)",
@@ -1500,7 +1612,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Miwaku no Chousho (���f�̒���) (Vermouth)",
@@ -1523,7 +1637,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "GET!",
@@ -1561,7 +1677,9 @@
     "D.O."
    ]
   },
-  "conf": 0.11
+  "conf": 0.11,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "エクドラード 鏡の中の王国",
@@ -1596,7 +1714,9 @@
     "BLACK PACKAGE"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "殻の中の小鳥",
@@ -1632,7 +1752,9 @@
     "BLACK PACKAGE"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "魅惑の調書",
@@ -1667,7 +1789,9 @@
     "BLACK PACKAGE"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ストリート麻雀2",
@@ -1700,7 +1824,9 @@
     "Blucky"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "轢愛",
@@ -1734,7 +1860,9 @@
     "Blucky"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "NoochIII 最後の性戦",
@@ -1757,7 +1885,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Ribbon",
@@ -1791,7 +1921,9 @@
     "Softhouse Bonbee Bonbon"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "たまご料理",
@@ -1825,7 +1957,9 @@
     "Softhouse Bonbee Bonbon"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "銀河英雄伝説III",
@@ -1851,7 +1985,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "銀河英雄伝説III SP",
@@ -1875,7 +2011,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "銀河英雄伝説IV",
@@ -1901,7 +2039,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "銀河英雄伝説IV EX",
@@ -1927,7 +2067,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "FRONTIER UNIVERSE",
@@ -1954,7 +2096,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Don't Call Me Amy! (�G�C�~�[�ƌĂ΂Ȃ��ł�) (SC-55)",
@@ -1977,7 +2121,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Don't Call Me Amy! (�G�C�~�[�ƌĂ΂Ȃ��ł�) (Vermouth)",
@@ -2000,7 +2146,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "麻雀スポーツライン",
@@ -2024,7 +2172,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "FILE:0 ゴーストキラー・神村 麗",
@@ -2058,7 +2208,9 @@
     "Colossus"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "リィナ☆クリスタル ADVENTURE OF LIENA",
@@ -2081,7 +2233,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "エイミーと呼ばないでっ",
@@ -2119,7 +2273,9 @@
     "C's Ware"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Oh! Kitsunesama (Oh!���˂��܁�) (SC-55)",
@@ -2142,7 +2298,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Oh! Kitsunesama (Oh!���˂��܁�) (Vermouth)",
@@ -2165,7 +2323,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Oh!きつねさま☆",
@@ -2199,7 +2359,9 @@
     "Curott"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "The Incredible Machine",
@@ -2222,7 +2384,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "V.R.デート 五月倶楽部",
@@ -2261,7 +2425,9 @@
     "desire"
    ]
   },
-  "conf": 0.67
+  "conf": 0.67,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "せいんと☆だいありぃ ～聖ちゃんの日記～",
@@ -2294,7 +2460,9 @@
     "desire"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "夕霧 …人形師の遺産…",
@@ -2328,7 +2496,9 @@
     "desire"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Marine Rouge",
@@ -2362,7 +2532,9 @@
     "DISCOVERY"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Mirage",
@@ -2398,7 +2570,9 @@
     "Regista Co.,Ltd."
    ]
   },
-  "conf": 0.32
+  "conf": 0.32,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Mirage2 トリーXニートXローンの大冒険",
@@ -2427,7 +2601,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "RED",
@@ -2472,7 +2648,9 @@
     "TYPE-MOON"
    ]
   },
-  "conf": 0.12
+  "conf": 0.12,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Sweet Emotion",
@@ -2512,7 +2690,9 @@
     "DISCOVERY"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Valkyrie The Power Beauties",
@@ -2544,7 +2724,9 @@
     "DISCOVERY"
    ]
   },
-  "conf": 0.5
+  "conf": 0.5,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "チャクラ",
@@ -2568,7 +2750,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "淫従の堕天使",
@@ -2603,7 +2787,9 @@
     "DISCOVERY"
    ]
   },
-  "conf": 0.35
+  "conf": 0.35,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Branmarker2",
@@ -2643,7 +2829,9 @@
     "D.O."
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "CD-ROM 美少女コレクション -遊ディスク スペシャル-",
@@ -2680,7 +2868,9 @@
     "D.O."
    ]
   },
-  "conf": 0.11
+  "conf": 0.11,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "クライスイーパー",
@@ -2716,7 +2906,9 @@
     "D.O."
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "クリスタルリナール -逢魔の迷宮-",
@@ -2752,7 +2944,9 @@
     "D.O."
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "サイバノイドアルファ",
@@ -2789,7 +2983,9 @@
     "D.O."
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ディーオー監修プレミアムボックス Touch My Heart",
@@ -2816,7 +3012,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ルージュの伝説",
@@ -2855,7 +3053,9 @@
     "D.O."
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "全日本美少女麻雀選手権大会 ハートでロン!!",
@@ -2883,7 +3083,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "妖獣戦記2 ～黎明の戦士たち～",
@@ -2922,7 +3124,9 @@
     "D.O."
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "星の砂物語3",
@@ -2962,7 +3166,9 @@
     "D.O."
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "遊ディスクVol.4 クリスタルリナール お楽しみディスク",
@@ -2984,7 +3190,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "遊ディスクVol.6 ハートでロン!! MIDNIGHT編",
@@ -3009,7 +3217,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "遊ディスクVol.8 サイバノイドアルファ 遊ディスク版",
@@ -3034,7 +3244,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "雑音領域",
@@ -3073,7 +3285,9 @@
     "D.O."
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "FLASH POINT",
@@ -3094,7 +3308,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "東方封魔録(SC-88) (Amusement Makers)",
@@ -3117,7 +3333,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "うきうきアイランド",
@@ -3151,7 +3369,9 @@
     "Fairy Dust Co., Ltd."
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "こうかん日記",
@@ -3187,7 +3407,9 @@
     "P's PSYTEC Co., Ltd."
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "こうかん日記第II章 ～聖夜をあなたと～",
@@ -3210,7 +3432,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "エスカレーション'95 ～お姉さまって呼んでいいですか?～",
@@ -3243,7 +3467,9 @@
     "Melody"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "レモンエンジェル",
@@ -3278,7 +3504,9 @@
     "C-Class"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "赤い水晶の瞳",
@@ -3312,7 +3540,9 @@
     "Fairy Dust Co., Ltd."
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "超次元伝説RALL III ～覚醒編～",
@@ -3335,7 +3565,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "魔人形",
@@ -3370,7 +3602,9 @@
     "Synchro-ni-City"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Brandish VT",
@@ -3390,7 +3624,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Brandish VT 体験版付デモDISK",
@@ -3410,7 +3646,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "朱紅い雫 - THE LEGEND OF HEROES IV -(初回版)",
@@ -3430,7 +3668,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "朱紅い雫 - THE LEGEND OF HEROES IV -(後期版)",
@@ -3450,7 +3690,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Area 88: Ikkakujou no Kiseki (�G���A�W�W ��p�b�̋O��) (SC-55)",
@@ -3474,7 +3716,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Area 88: Ikkakujou no Kiseki (�G���A�W�W ��p�b�̋O��) (Vermouth)",
@@ -3498,7 +3742,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Mobile Suit Gundam: Stardust Operation (�@����m�K���_��0083 �X�^�[�_�X�g�I�y���[�V����) (SC-55)",
@@ -3521,7 +3767,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Mobile Suit Gundam: Stardust Operation (�@����m�K���_��0083 �X�^�[�_�X�g�I�y���[�V����) (Vermouth)",
@@ -3544,7 +3792,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "エリア88 一角獣の軌跡",
@@ -3568,7 +3818,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "機動戦士ガンダム スターダスト・オペレーション",
@@ -3591,7 +3843,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "さよならの向こう側",
@@ -3626,7 +3880,9 @@
     "HuneX"
    ]
   },
-  "conf": 0.69
+  "conf": 0.69,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "タイムストリッパー真子ちゃん",
@@ -3664,7 +3920,9 @@
     "Foster"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "拘束超人",
@@ -3701,7 +3959,9 @@
     "Foster"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "花の記憶 ～第二章～",
@@ -3739,7 +3999,9 @@
     "Foster"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "GAOGAO! 3rd ワイルドフォース",
@@ -3772,7 +4034,9 @@
     "Four-Nine"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "GAOGAO! 4th カナン ～約束の地～",
@@ -3795,7 +4059,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "えんじぇる☆ないと ～闇夜を翔ける天使たちの物語～",
@@ -3828,7 +4094,9 @@
     "Four-Nine"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "わくわく麻雀パニック! 式･神･伝･承",
@@ -3863,7 +4131,9 @@
     "Four-Nine"
    ]
   },
-  "conf": 0.9
+  "conf": 0.9,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "わくわく麻雀パニック!2 刻視夢想",
@@ -3898,7 +4168,9 @@
     "Four-Nine"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "リリス",
@@ -3935,7 +4207,9 @@
     "Black Lilith"
    ]
   },
-  "conf": 0.24
+  "conf": 0.24,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "FRONTIER",
@@ -3968,7 +4242,9 @@
     "Frontier"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "RONDO -ロンド-",
@@ -4001,7 +4277,9 @@
     "Item"
    ]
   },
-  "conf": 0.28
+  "conf": 0.28,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Amaranth II",
@@ -4027,7 +4305,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Amaranth II ミュージックディスク",
@@ -4052,7 +4332,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Amaranth III",
@@ -4077,7 +4359,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Amaranth IV",
@@ -4100,7 +4384,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Amaranth KH ～シュテラール王国建国譚～",
@@ -4123,7 +4409,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Oerstedia",
@@ -4147,7 +4435,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Oerstedia(",
@@ -4170,7 +4460,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ま～ぷる・まぢっく",
@@ -4194,7 +4486,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "新世紀興亡史 デッドフォース",
@@ -4219,7 +4513,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "覇皇雀戦鬼",
@@ -4242,7 +4538,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "風雅セレクション① ～カルカッタ～",
@@ -4266,7 +4564,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "風雅セレクション① ～メイズクエスト～",
@@ -4290,7 +4590,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "PRINCESS MAKER 2",
@@ -4317,7 +4619,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ふしぎの海のナディア - THE SECRET OF THE BLUE WATER -",
@@ -4353,7 +4657,9 @@
     "Hudson Soft"
    ]
   },
-  "conf": 0.95
+  "conf": 0.95,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ふしぎの海のナディア MUSIC FLOPPY DISK",
@@ -4379,7 +4685,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "雀皇登龍門II",
@@ -4403,7 +4711,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "BRIGANTY The roots of darkness",
@@ -4423,9 +4733,9 @@
    "FMP3.COM",
    "TGLFMP2.COM"
   ],
-  "win_midi": null,
-  "source": null,
-  "status": "A",
+  "win_midi": true,
+  "source": "[951027] ブリガンティ",
+  "status": "C",
   "vndb": {
    "id": "v10651",
    "title": "Briganty ~The Roots of Darkness~",
@@ -4438,7 +4748,11 @@
     "GIGA"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 10,
+  "platform_note": "Win95",
+  "note": "BZM001.MID …"
  },
  {
   "title": "Harlem Blade ~The Greatest of All Time.~",
@@ -4458,9 +4772,9 @@
    "FMP3.COM",
    "TGLFMP2.COM"
   ],
-  "win_midi": null,
-  "source": null,
-  "status": "A",
+  "win_midi": true,
+  "source": "黎明圣记",
+  "status": "C",
   "vndb": {
    "id": "v6568",
    "title": "Harlem Blade ~The Greatest of All Time.~",
@@ -4473,7 +4787,11 @@
     "GIGA"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 31,
+  "platform_note": "Win95",
+  "note": "目录名是中文译名「黎明圣记」，实际是 Harlem Blade"
  },
  {
   "title": "STEAM-HEART'S",
@@ -4493,11 +4811,15 @@
    "FMP3.COM",
    "TGLFMP2.COM"
   ],
-  "win_midi": null,
-  "source": null,
-  "status": "A",
+  "win_midi": true,
+  "source": "STEAM-HEARTS_Perfect Collection",
+  "status": "C",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 65,
+  "platform_note": "Win95",
+  "note": "Perfect Collection"
  },
  {
   "title": "STEAM-HEART'S(SC-55)",
@@ -4520,7 +4842,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "STEAM-HEART'S(SC-55mkII)",
@@ -4543,7 +4867,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "V.G.",
@@ -4565,9 +4891,9 @@
    "FMP3.COM",
    "TGLFMP2.COM"
   ],
-  "win_midi": null,
-  "source": null,
-  "status": "A",
+  "win_midi": true,
+  "source": "[961122][戯画]V.G. PerfectCollection",
+  "status": "C",
   "vndb": {
    "id": "v404",
    "title": "Muv-Luv Supplement",
@@ -4580,7 +4906,11 @@
     "âge"
    ]
   },
-  "conf": 0.11
+  "conf": 0.11,
+  "other_midi": null,
+  "local_midi": 70,
+  "platform_note": "Win95",
+  "note": "V.G. PerfectCollection，含 VG_OP1.MID / VG00_GS.MID …"
  },
  {
   "title": "V.G.II ～姫神舞闘譚～",
@@ -4604,7 +4934,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "BIBLE MASTER 2 - THE CHAOS OF AGLIA -",
@@ -4624,7 +4956,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "DIFFERENT REALM -久遠の賢者-",
@@ -4644,7 +4978,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "RAGNAR0KKR",
@@ -4664,7 +5000,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ZAVAS II -メヒテの大予言-",
@@ -4687,7 +5025,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "アルヴァリーク冒険記",
@@ -4707,7 +5047,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "エテミブル ～天壌無窮～(SC-55)",
@@ -4727,7 +5069,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "真倭伝 -覇刀の章-",
@@ -4761,7 +5105,9 @@
     "Great"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Sela",
@@ -4797,7 +5143,9 @@
     "Innocent Grey"
    ]
   },
-  "conf": 0.12
+  "conf": 0.12,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "μ ～Myuu～",
@@ -4820,7 +5168,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "憂楼 Transient Sands",
@@ -4854,7 +5204,9 @@
     "Hervest"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Ash (�A�b�V��)",
@@ -4879,7 +5231,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Ash (�A�b�V��) (SC-55)",
@@ -4902,7 +5256,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Ash (�A�b�V��) (Vermouth)",
@@ -4925,7 +5281,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Bacta 2 (�o�N�^�Q)",
@@ -4950,7 +5308,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Bacta 2 (�o�N�^�Q) (SC-55)",
@@ -4973,7 +5333,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Bacta 2 (�o�N�^�Q) (Vermouth)",
@@ -4996,7 +5358,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "D'Ark Gaiden (�f�B�[�E�A�[�N �O�`)",
@@ -5021,7 +5385,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "De.Fana (�f�E�t�@�[�i) (SC-55)",
@@ -5044,7 +5410,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "De.Fana (�f�E�t�@�[�i) (Vermouth)",
@@ -5067,7 +5435,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Nana Eiyuu Monogatari (���p�Y����) (SC-55)",
@@ -5090,7 +5460,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Nana Eiyuu Monogatari (���p�Y����) (Vermouth)",
@@ -5113,7 +5485,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Youthful Eager Stories (SC-55)",
@@ -5136,7 +5510,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Youthful Eager Stories (Vermouth)",
@@ -5159,7 +5535,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Youthful Eager Stories! HG (SC-55)",
@@ -5182,7 +5560,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Youthful Eager Stories! HG (Vermouth)",
@@ -5205,7 +5585,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Zenith (�[�j�X) (SC-55)",
@@ -5228,7 +5610,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Zenith (�[�j�X) (Vermouth)",
@@ -5251,7 +5635,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Ash.",
@@ -5299,7 +5685,9 @@
     "Regista Co.,Ltd."
    ]
   },
-  "conf": 0.36
+  "conf": 0.36,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Bacta2",
@@ -5336,7 +5724,9 @@
     "Himeya Soft"
    ]
   },
-  "conf": 0.35
+  "conf": 0.35,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "D'Ark外伝",
@@ -5361,7 +5751,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "De.FaNa",
@@ -5397,7 +5789,9 @@
     "Himeya Soft"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "YES!",
@@ -5432,7 +5826,9 @@
     "TWOFIVE Inc."
    ]
   },
-  "conf": 0.17
+  "conf": 0.17,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "YES! HG",
@@ -5467,7 +5863,9 @@
     "Himeya Soft"
    ]
   },
-  "conf": 0.3
+  "conf": 0.3,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ZENITH",
@@ -5503,7 +5901,9 @@
     "Himeya Soft"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "七英雄物語",
@@ -5538,7 +5938,9 @@
     "Himeya Soft"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "PP DISK No.01",
@@ -5561,7 +5963,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "PP DISK No.02",
@@ -5584,7 +5988,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "PP DISK No.03",
@@ -5607,7 +6013,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "VASTNESS ～空虚の生贄達～",
@@ -5632,7 +6040,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "The 7colors (�Z�u���J���[�Y)",
@@ -5656,7 +6066,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "THE 7colors",
@@ -5680,7 +6092,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Paracelsus no Maken (�p���P���X�X�̖���) (MIDI)",
@@ -5704,7 +6118,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "パラケルススの魔剣(MIDI)",
@@ -5728,7 +6144,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "龍王三國志",
@@ -5752,7 +6170,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "龍王三國志 パワーボックス",
@@ -5776,7 +6196,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "龍王三國志 パワーボックス(OPN+GM)",
@@ -5800,7 +6222,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "龍王三國志(OPN+GM)",
@@ -5824,7 +6248,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "くるみちゃんにんじゃあ",
@@ -5857,7 +6283,9 @@
     "Studio Jikkenshitsu"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ばにぃはんたぁ零",
@@ -5892,7 +6320,9 @@
     "Studio Jikkenshitsu"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ぷりんせすでんじゃあ",
@@ -5929,7 +6359,9 @@
     "Studio Jikkenshitsu"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "学園トライアングル",
@@ -5952,7 +6384,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "機械じかけのマリアン",
@@ -5989,7 +6423,9 @@
     "Studio Jikkenshitsu"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ファルアディア",
@@ -6012,7 +6448,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ADVANCED POWER DoLLS 2",
@@ -6035,7 +6473,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "POWER DoLLS",
@@ -6058,7 +6498,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "POWER DoLLS 2",
@@ -6081,7 +6523,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "POWER DoLLS 2 DASH",
@@ -6104,7 +6548,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "POWER DoLLS 2 Premium Disk",
@@ -6127,7 +6573,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "POWER DoLLS S-Premium Disk",
@@ -6150,7 +6598,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "FIRST QUEEN IV -バルシア戦記-(SC-55)",
@@ -6170,7 +6620,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "STAR STRIDERS",
@@ -6193,7 +6645,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "アイドルプロジェクト2",
@@ -6226,7 +6680,9 @@
     "KSS Inc."
    ]
   },
-  "conf": 0.96
+  "conf": 0.96,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "竜機伝承 -ドラグーン-",
@@ -6263,7 +6719,9 @@
     "Zero System"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "DR^2ナイト雀鬼",
@@ -6296,7 +6754,9 @@
     "Leaf"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Filsnown ～光と刻～",
@@ -6319,7 +6779,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "痕 -きずあと-",
@@ -6356,7 +6818,9 @@
     "Leaf"
    ]
   },
-  "conf": 0.33
+  "conf": 0.33,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "雫 -しずく-",
@@ -6394,7 +6858,9 @@
     "Leaf"
    ]
   },
-  "conf": 0.4
+  "conf": 0.4,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Libido7",
@@ -6432,7 +6898,9 @@
     "LIBIDO"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Shinc",
@@ -6467,7 +6935,9 @@
     "Cybele"
    ]
   },
-  "conf": 0.2
+  "conf": 0.2,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "なる麻雀",
@@ -6504,7 +6974,9 @@
     "LIBIDO"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "THE KNIGHTS アヴァロンの騎士",
@@ -6528,7 +7000,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "THE KNIGHTS2 何処からか来る小さな光",
@@ -6552,7 +7026,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "KO世紀ビースト三獣士 ガイアの復活",
@@ -6573,7 +7049,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "KO世紀ビースト三獣士 ラスタークの女王",
@@ -6594,7 +7072,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "SOLFLEET 太陽系連邦興隆記",
@@ -6618,7 +7098,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "宇宙の騎士テッカマンブレード オービタルリング奪回作戦",
@@ -6642,7 +7124,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Hyper Securities -Kin Mirai Bishoujo Police Nishi- (�͂��ς��Z�L�����e�B�[�Y) (SC-55)",
@@ -6666,7 +7150,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Hyper Securities -Kin Mirai Bishoujo Police Nishi- (�͂��ς��Z�L�����e�B�[�Y) (Vermouth)",
@@ -6690,7 +7176,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "はいぱぁセキュリティーズ",
@@ -6714,7 +7202,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "NIGHT SLAVE",
@@ -6748,7 +7238,9 @@
     "Melody"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "暗闇",
@@ -6781,7 +7273,9 @@
     "WITCHCRAFT inc."
    ]
   },
-  "conf": 0.33
+  "conf": 0.33,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "牝猫秘書室",
@@ -6815,7 +7309,9 @@
     "Melody"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Xak III - The eternal reccurence -",
@@ -6839,7 +7335,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "幻影都市 - Illusion City -",
@@ -6866,7 +7364,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "MERRY GO ROUND",
@@ -6901,7 +7401,9 @@
     "Mischief"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Horny Sweeper 好色仕掛人",
@@ -6924,7 +7426,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Horny Sweeper2 女子校危機一発",
@@ -6947,7 +7451,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "魔浄理子 淫靡界(OPN+MT-32 Emulation)",
@@ -6970,7 +7476,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "魔浄理子 淫靡界(OPN+MT-32)",
@@ -6993,7 +7501,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "3x3EYE'S ～三只眼變成～",
@@ -7030,7 +7540,9 @@
     "Nihon Create"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Diadrum",
@@ -7053,7 +7565,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "猟奇の檻",
@@ -7086,7 +7600,9 @@
     "CALIGULA"
    ]
   },
-  "conf": 0.8
+  "conf": 0.8,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "猟奇の檻 第２章",
@@ -7119,7 +7635,9 @@
     "CALIGULA"
    ]
   },
-  "conf": 0.88
+  "conf": 0.88,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "IRIUM",
@@ -7153,7 +7671,9 @@
     "Orange House"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "PLERIA -THE ROYAL EMBLEM-",
@@ -7189,7 +7709,9 @@
     "Orange House"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "PRESENT",
@@ -7228,7 +7750,9 @@
     "Abel Inc."
    ]
   },
-  "conf": 0.32
+  "conf": 0.32,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "PRESENT 2",
@@ -7269,7 +7793,9 @@
     "Orange House"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "STRUSH",
@@ -7303,7 +7829,9 @@
     "Orange House"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "URBAN SOLDIER",
@@ -7326,7 +7854,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Mug-R",
@@ -7349,7 +7879,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "RE-NO STAYIN' ALIVE",
@@ -7383,7 +7915,9 @@
     "Software House Parsley"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "TRUE LOVE 純愛物語 Ver1.2",
@@ -7406,7 +7940,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "VENUS",
@@ -7447,7 +7983,9 @@
     "Four Leaf Studios"
    ]
   },
-  "conf": 0.12
+  "conf": 0.12,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "イマージュ",
@@ -7484,7 +8022,9 @@
     "Software House Parsley"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "イマージュ2",
@@ -7522,7 +8062,9 @@
     "Software House Parsley"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "サニーナの伝説",
@@ -7547,7 +8089,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "パノラマ倶楽部",
@@ -7580,7 +8124,9 @@
     "Software House Parsley"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ファルス 誘惑白書",
@@ -7613,7 +8159,9 @@
     "Software House Parsley"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "煩悩予備校2",
@@ -7649,7 +8197,9 @@
     "Software House Parsley"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "煩悩予備校3",
@@ -7685,7 +8235,9 @@
     "Software House Parsley"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "GODS 神となる男の伝説",
@@ -7710,7 +8262,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "-私-",
@@ -7746,7 +8300,9 @@
     "Natukusa"
    ]
   },
-  "conf": 0.4
+  "conf": 0.4,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "まじかるパニック",
@@ -7780,7 +8336,9 @@
     "Pearl Soft"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "サイバーイリュージョン",
@@ -7814,7 +8372,9 @@
     "Pearl Soft"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "～Sweet Days～",
@@ -7848,7 +8408,9 @@
     "Parasol"
    ]
   },
-  "conf": 0.9
+  "conf": 0.9,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Check Six (�`�F�b�N�V�b�N�X �`�U�������ɒ��ӂ���`) (SC-55)",
@@ -7871,7 +8433,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Check Six (�`�F�b�N�V�b�N�X �`�U�������ɒ��ӂ���`) (Vermouth)",
@@ -7894,7 +8458,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Check Six 2 -Hekiku no Ohkami- (�`�F�b�N�V�b�N�X�Q �ɋ�̘T)",
@@ -7918,7 +8484,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Check Six 2 -Hekiku no Ohkami- (�`�F�b�N�V�b�N�X�Q �ɋ�̘T) (SC-55)",
@@ -7941,7 +8509,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Check Six 2 -Hekiku no Ohkami- (�`�F�b�N�V�b�N�X�Q �ɋ�̘T) (Vermouth)",
@@ -7964,7 +8534,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Graystone Saga -Demon's Fountain- (�O���C�X�g���T�[�K ���E�̐�)",
@@ -7988,7 +8560,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Graystone Saga -Demon's Fountain- (�O���C�X�g���T�[�K ���E�̐�) (SC-55)",
@@ -8011,7 +8585,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Graystone Saga -Demon's Fountain- (�O���C�X�g���T�[�K ���E�̐�) (Vermouth)",
@@ -8034,7 +8610,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Graystone Saga Gaiden -The Dark Storm of Morza- (�O���C�X�g���T�[�K�O�` �`�����̖��s�`) (SC-55)",
@@ -8057,7 +8635,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Graystone Saga Gaiden -The Dark Storm of Morza- (�O���C�X�g���T�[�K�O�` �`�����̖��s�`) (Vermouth)",
@@ -8080,7 +8660,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Round Warrior (���E���h�E�H�[���A) (SC-55)",
@@ -8103,7 +8685,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Round Warrior (���E���h�E�H�[���A) (Vermouth)",
@@ -8126,7 +8710,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "CHECK SIX",
@@ -8149,7 +8735,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "CHECK SIX2 碧空の狼",
@@ -8174,7 +8762,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ROUND WARRIOR",
@@ -8197,7 +8787,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "グレイストンサーガ ～魔界の泉～",
@@ -8222,7 +8814,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "グレイストンサーガ外伝 ～動乱の魔都～",
@@ -8245,7 +8839,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Advanced Dungeons &amp; Dragons / CHAMPIONS OF KRYNN",
@@ -8268,7 +8864,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Advanced Dungeons &amp; Dragons / DEATH KNIGHTS OF KRYNN",
@@ -8291,7 +8889,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Ultima VI - The False Prophet -",
@@ -8316,7 +8916,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "卍PSY幽記",
@@ -8340,7 +8942,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Foresight Dolly",
@@ -8371,7 +8975,9 @@
     "Right Stuff"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Revery ～いざないの魔水晶～",
@@ -8391,7 +8997,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "38万キロの虚空",
@@ -8430,7 +9038,9 @@
     "System Sacom"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "みちよドリーミィ - THE QUIZ MASTER -",
@@ -8453,7 +9063,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Police Quest II: The Vengeance",
@@ -8477,7 +9089,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Quest for Glory",
@@ -8501,7 +9115,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "機甲装神ヴァルカイザー",
@@ -8537,7 +9153,9 @@
     "Silence"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "VIPER-BTR ～魔法の賭博師トトカル☆チョミ～",
@@ -8571,7 +9189,9 @@
     "Sogna"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "VIPER-CTR ～あすか～",
@@ -8606,7 +9226,9 @@
     "Sogna"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "VIPER-GTS RS ～悪魔は再び～",
@@ -8630,7 +9252,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "VIPER-V10 RS",
@@ -8666,7 +9290,9 @@
     "Sogna"
    ]
   },
-  "conf": 0.89
+  "conf": 0.89,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "VIPER-V12",
@@ -8702,7 +9328,9 @@
     "Sogna"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "VIPER-V16",
@@ -8738,7 +9366,9 @@
     "Sogna"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "VIPER-V6 RS",
@@ -8775,7 +9405,9 @@
     "Sogna"
    ]
   },
-  "conf": 0.88
+  "conf": 0.88,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "VIPER-V8 RS",
@@ -8812,7 +9444,9 @@
     "Sogna"
    ]
   },
-  "conf": 0.88
+  "conf": 0.88,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "あにまーじゃんX",
@@ -8846,7 +9480,9 @@
     "Sogna"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Clone Doll Kagaijyugyou (�N���[���h�[�� �ۊO����) (SC-55)",
@@ -8869,7 +9505,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Clone Doll Kagaijyugyou (�N���[���h�[�� �ۊO����) (Vermouth)",
@@ -8892,7 +9530,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Seiyoku Gakuen Serafita (�����w���Z���t�B�^)",
@@ -8915,7 +9555,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Seiyoku Gakuen Serafita (�����w���Z���t�B�^) (Vermouth)",
@@ -8938,7 +9580,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "クローンドール 課外授業",
@@ -8973,7 +9617,9 @@
     "Space Project"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "聖翼学園Seraphita",
@@ -9007,7 +9653,9 @@
     "Space Project"
    ]
   },
-  "conf": 0.51
+  "conf": 0.51,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Hinadori no Saezuri (�����̚�)",
@@ -9029,7 +9677,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Hinadori no Saezuri (�����̚�) (SC-55)",
@@ -9051,7 +9701,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Hinadori no Saezuri (�����̚�) (Vermouth)",
@@ -9073,7 +9725,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Akumu - Aoi Kajitsu no Sanka (���� �`���ʎ��̎U�ԁ`) (SC-55)",
@@ -9096,7 +9750,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Akumu - Aoi Kajitsu no Sanka (���� �`���ʎ��̎U�ԁ`) (Vermouth)",
@@ -9119,7 +9775,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Bunretsu Shugyo Shin Twinkle Star (������_�g�D�C���N�����X�^�[)",
@@ -9144,7 +9802,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Bunretsu Shugyo Shin Twinkle Star (������_�g�D�C���N�����X�^�[) (SC-55)",
@@ -9167,7 +9827,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Bunretsu Shugyo Shin Twinkle Star (������_�g�D�C���N�����X�^�[) (Vermouth)",
@@ -9190,7 +9852,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Kagami -Mirror- (�� -mirror-)",
@@ -9215,7 +9879,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Kagami -Mirror- (�� -mirror-) (SC-55)",
@@ -9238,7 +9904,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Kagami -Mirror- (�� -mirror-) (Vermouth)",
@@ -9261,7 +9929,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Mime (���� -MIME-) (SC-55)",
@@ -9284,7 +9954,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Mime (���� -MIME-) (Vermouth)",
@@ -9307,7 +9979,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "雛鳥の囀",
@@ -9342,7 +10016,9 @@
     "BLACK PACKAGE"
    ]
   },
-  "conf": 0.2
+  "conf": 0.2,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "雛鳥の囀 イメージデモ",
@@ -9365,7 +10041,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "悪夢 ～青い果実の散花～",
@@ -9399,7 +10077,9 @@
     "Studio Mebius"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "分裂守護神トゥインクル☆スター",
@@ -9436,7 +10116,9 @@
     "Studio Twinkle"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "舞夢 -MIME-",
@@ -9459,7 +10141,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "鏡 -mirror-",
@@ -9495,7 +10179,9 @@
     "Studio Twinkle"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Photo Genic",
@@ -9532,7 +10218,9 @@
     "Fill in Cafe"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "38 Man Kilo no Kokuu (38���L���̋���)",
@@ -9558,7 +10246,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Michiyo Dreamy: The Quiz Master (�݂���h���[�~�B -THE QUIZ MASTER-) (SC-55)",
@@ -9581,7 +10271,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Michiyo Dreamy: The Quiz Master (�݂���h���[�~�B -THE QUIZ MASTER-) (Vermouth)",
@@ -9604,7 +10296,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "のぞき屋稼業",
@@ -9637,7 +10331,9 @@
     "T2 Co., Ltd."
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "妖撃隊 ～邪神降魔録～",
@@ -9661,7 +10357,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "官能教習(SC-55)",
@@ -9685,7 +10383,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "EDGE",
@@ -9720,7 +10420,9 @@
     "Artlim Media"
    ]
   },
-  "conf": 0.23
+  "conf": 0.23,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "EDGE(SC-55)",
@@ -9743,7 +10445,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "SWORD DANCER",
@@ -9766,7 +10470,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "SWORD DANCER 増刊号",
@@ -9792,7 +10498,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "SWORD DANCER 増刊号'93",
@@ -9818,7 +10526,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "あっぱれ伝 -伏龍の章-",
@@ -9841,7 +10551,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ソードダンサー 凶刃の女神",
@@ -9865,7 +10577,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ファーランドストーリー",
@@ -9890,7 +10604,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ファーランドストーリー 大地の絆",
@@ -9913,7 +10629,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ファーランドストーリー 天使の涙",
@@ -9936,7 +10654,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ファーランドストーリー 獣王の証",
@@ -9959,7 +10679,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ファーランドストーリー 白銀の翼",
@@ -9982,7 +10704,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ファーランドストーリー 神々の遺産",
@@ -10005,7 +10729,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ファーランドストーリー伝記 アーク王の遠征",
@@ -10028,7 +10754,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "機装神伝ゲンカイザー",
@@ -10051,7 +10779,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Hiiragisaka no Kyukan (�A��̋���) (SC-55)",
@@ -10074,7 +10804,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Hiiragisaka no Kyukan (�A��̋���) (Vermouth)",
@@ -10097,7 +10829,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Momoko-chan for Me (����������� for me �`���K���Ō�w�ҁ`) (SC-55)",
@@ -10120,7 +10854,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Momoko-chan for Me (����������� for me �`���K���Ō�w�ҁ`) (Vermouth)",
@@ -10143,7 +10879,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Paparazzo (�p�p���b�`) (SC-55)",
@@ -10166,7 +10904,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Paparazzo (�p�p���b�`) (Vermouth)",
@@ -10189,7 +10929,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Yumemizaka &amp; Collections (������R���N�V�����Y) (SC-55)",
@@ -10212,7 +10954,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Yumemizaka &amp; Collections (������R���N�V�����Y) (Vermouth)",
@@ -10235,7 +10979,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Legam (���K��) (SC-55)",
@@ -10258,7 +11004,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Legam (���K��) (Vermouth)",
@@ -10281,7 +11029,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Legam",
@@ -10314,7 +11064,9 @@
     "Frey"
    ]
   },
-  "conf": 0.36
+  "conf": 0.36,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "CHERRY MODERATE",
@@ -10348,7 +11100,9 @@
     "Ucom"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "文化祭",
@@ -10381,7 +11135,9 @@
     "PEACH"
    ]
   },
-  "conf": 0.75
+  "conf": 0.75,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ももこちゃん for Me 見習い看護婦編",
@@ -10416,7 +11172,9 @@
     "U･Me SOFT"
    ]
   },
-  "conf": 0.76
+  "conf": 0.76,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "パパラッチ",
@@ -10453,7 +11211,9 @@
     "U･Me SOFT"
    ]
   },
-  "conf": 0.0
+  "conf": 0.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "夢見坂コレクションズ",
@@ -10476,7 +11236,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "柊坂の旧館",
@@ -10511,7 +11273,9 @@
     "U･Me SOFT"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "スーパーリアル麻雀PIV FINAL",
@@ -10534,7 +11298,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Bell's Avenue",
@@ -10574,7 +11340,9 @@
     "Signa Works"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Bell's Avenue vol.2",
@@ -10602,7 +11370,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Grand Prix CIRCUS",
@@ -10626,7 +11396,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Grand Prix CIRCUS 2",
@@ -10650,7 +11422,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "CRW2",
@@ -10673,7 +11447,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "ARCUS III",
@@ -10694,7 +11470,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "D [欧州蜃気楼]",
@@ -10715,7 +11493,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "DIAMOND PLAYERS",
@@ -10736,7 +11516,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "GULF WAR 蒼鋼伝",
@@ -10757,7 +11539,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Niko^2",
@@ -10782,7 +11566,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Ryu ～哭きの竜より～",
@@ -10806,7 +11592,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "SUZAKU",
@@ -10837,7 +11625,9 @@
     "Tomo & Yuri GAMEZONE"
    ]
   },
-  "conf": 0.21
+  "conf": 0.21,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Span of Dream",
@@ -10858,7 +11648,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "THE GRAIL HUNTER",
@@ -10882,7 +11674,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "大東亜黙示録 轟",
@@ -10903,7 +11697,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "天舞 LIMITED / 満漢全席",
@@ -10924,7 +11720,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "天舞 －三國志正史－",
@@ -10945,7 +11743,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "斬 II ～陽炎の時代～",
@@ -10966,7 +11766,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "斬 II ～陽炎の時代～ 総集編",
@@ -10987,7 +11789,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "斬 III ～天運我にあり～",
@@ -11012,7 +11816,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "斬 ～夜叉円舞曲～",
@@ -11033,7 +11839,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "新撰組 ～幕末幻視行～",
@@ -11064,7 +11872,9 @@
     "Wolf Team"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "東京Twilight Busters ～禁断の生贄帝都地獄変～",
@@ -11088,7 +11898,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "緋王伝",
@@ -11109,7 +11921,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "緋王伝 II",
@@ -11130,7 +11944,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "緋王伝 II'HD",
@@ -11151,7 +11967,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "轟 II",
@@ -11172,7 +11990,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "Let's!パイレーツ ～とらぶる・ばかんす～",
@@ -11208,7 +12028,9 @@
     "ZyX"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "TRIGGER2",
@@ -11246,7 +12068,9 @@
     "ZyX"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "TWILIGHT HOTEL ～トワイライトホテル～",
@@ -11274,7 +12098,9 @@
   "source": null,
   "status": "A",
   "vndb": null,
-  "conf": null
+  "conf": null,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "リング・アウト!!",
@@ -11316,7 +12142,9 @@
     "ZyX"
    ]
   },
-  "conf": 0.92
+  "conf": 0.92,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "学園爆裂転校生!",
@@ -11355,7 +12183,9 @@
     "ZyX"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "雷の戦士ライディ",
@@ -11391,7 +12221,9 @@
     "ZyX"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "雷の戦士ライディ2",
@@ -11431,7 +12263,9 @@
     "ZyX"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  },
  {
   "title": "高見沢恭介 熱血!! 教育研修",
@@ -11464,6 +12298,8 @@
     "ZyX"
    ]
   },
-  "conf": 1.0
+  "conf": 1.0,
+  "other_midi": null,
+  "local_midi": 0
  }
 ]

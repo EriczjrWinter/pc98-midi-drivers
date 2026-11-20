@@ -5,10 +5,15 @@ LEAF 的 PC-98 作品里，音乐是**两套并存**的：
 | 音源 | 驱动 | 数据 | 我们的状态 |
 |---|---|---|---|
 | **FM** | `PMD.COM`（KAJA 的通用 PMD） | `.FM` | 不用做——标准 PMD，工具生态现成 |
-| **MIDI** | **`MMDR.COM`**（LEAF 私有，H.Ninomae） | `.MD` | ✅ **已解，两部作品全导出** |
-| MIDI（早期） | `MS.COM` | `.MD` | ⬜ 未验证（疑为 MMDR 前身） |
+| **MIDI** | **`MMDR.COM`**（LEAF 私有，H.Ninomae） | `.MD` | ✅ **已解，雫 / 痕全导出（51 首）** |
+| **MIDI** | **`MS.COM`**（6531 B，与 MMDR 同源框架） | `.MD` / `.MID` | ✅ **已解，雀鬼 / Filsnown 全导出（61 首）** |
 
 > 所以真正属于 LEAF 私有的，**只有 MIDI 那条线**。FM 侧是通用的。
+
+**两个 MIDI 驱动的关系**：`MS.COM` 不是 MMDR 的前身，而是**同一套 TSR 框架的另一个分支**——
+加载器都叫 `*_98.com`（400 B）、都挂 `INT 08h`、都用 `out 0x77/0x71` 改 8253。
+区别只有功能调用中断号（`INT 7Eh` vs `INT 7Fh`）。
+详见 [drivers/mscom](../../drivers/mscom/)。
 
 ## 已收录作品
 
