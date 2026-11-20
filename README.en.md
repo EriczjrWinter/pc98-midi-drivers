@@ -25,7 +25,7 @@ and get the music out.
 | [**MS.COM**](drivers/mscom/) | LEAF | Run driver | Night Janki / Filsnown | ✅ **61 tracks** |
 | [**MMD**](drivers/mmd/) | KAJA (23 companies) | Static parse | 94 titles | ✅ **35 tracks** (1 title verified) |
 | [**MSDRV4**](drivers/msdrv/) | Black Package | Static (partial) | Kara no Naka no Kotori | ⚠ format ~70%, emulation stuck on DOS env |
-| [**MDRV98**](drivers/dofmdx/) | D.O. | Run driver (WIP) | 79 titles | ⚠ loads & dispatches, no output yet |
+| [**MDRV98**](drivers/dofmdx/) | D.O. | Run driver (WIP) | 79 titles | ⚠ load/detect/API all solved, playback loop missing |
 | [**Alice Soft**](companies/alicesoft/) | Alice Soft | Run engine | AmbivalenZ | ✅ 21 tracks (Windows side) |
 
 **168 MIDI tracks in total**, plus the driver analysis documents.
@@ -154,7 +154,7 @@ tools/           download, triage, clustering, cross-reference, conversion
 
 ## Next
 
-- [ ] `DOFMDX98` (79 titles) — loading and API solved, only "feed it data" left
+- [ ] `DOFMDX98` (79 titles) — every entry point solved, only the playback loop missing
 - [ ] `FUGAM_98` (53 titles) — data appears to be encrypted
 - [ ] `MSDRV4` — needs a more complete DOS environment emulation
 - [ ] The long tail: 204 one-off drivers

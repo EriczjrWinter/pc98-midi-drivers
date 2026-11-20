@@ -35,7 +35,7 @@ MAGIC_IP = 0x0FF0
 IVT_API = 0x7F
 IVT_TIMER = 0x08
 
-PORTS_DATA = (0x7D0, 0x7D2)     # 数据口
+PORTS_DATA = (0x7D0, 0x7D2, 0xE0D0, 0xE0D2)   # 数据口（含 MPU-98）
 PORTS_STAT = (0x7E0, 0x7E2)     # 状态口
 PORTS_CTRL = (0x7E8,)           # 控制口
 
@@ -53,6 +53,7 @@ class MDRV:
         self.midi = []
         self.tick = 0
         self.io_log = []
+        self.last_out = {}
         self.installed = False
         self.vectors = {}
         self.api_ip = None
@@ -67,7 +68,8 @@ class MDRV:
     # ---------- I/O ----------
     def _on_in(self, uc, port, size, user):
         port &= 0xFFFF
-        val = 0
+        # 回读上次写入的值（驱动用这种方式探测声卡）
+        val = self.last_out.get(port, 0)
         self.io_log.append(('in', port, val))
         return val
 
@@ -75,6 +77,7 @@ class MDRV:
         port &= 0xFFFF
         val = value & 0xFF
         self.io_log.append(('out', port, val))
+        self.last_out[port] = val
         if port in PORTS_DATA:
             self.midi.append((self.tick, val))
 
