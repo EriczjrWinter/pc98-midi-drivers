@@ -1,0 +1,11469 @@
+[
+ {
+  "title": "夢の精",
+  "company": "13cm",
+  "systems": [
+   "IBM PC",
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "yumenosi_98",
+   "yumenosi_at"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9165",
+   "title": "Yume no Sei",
+   "platforms": [
+    "win",
+    "dos",
+    "p98"
+   ],
+   "released": "1996-01-26",
+   "developers": [
+    "13cm"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Angel Night: Yamiyo wo Kakeru Tenshitachi no Monogatari (���񂶂��遙�Ȃ��� �`�Ŗ���Ă���V�g�����̕���`) (SC-55)",
+  "company": "4x9",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "angel_n_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Angel Night: Yamiyo wo Kakeru Tenshitachi no Monogatari (���񂶂��遙�Ȃ��� �`�Ŗ���Ă���V�g�����̕���`) (Vermouth)",
+  "company": "4x9",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "angel_n_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "GaoGao! 3rd Wild Force Overture (GAOGAO! 3rd ���C���h�t�H�[�X) (SC-55)",
+  "company": "4x9",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "gaogao3"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "GaoGao! 3rd Wild Force Overture (GAOGAO! 3rd ���C���h�t�H�[�X) (Vermouth)",
+  "company": "4x9",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "gaogao3"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "GaoGao! 4th Canaan (GAOGAO! 4th �J�i�� �`�񑩂̒n�`) (SC-55)",
+  "company": "4x9",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "gaogao4"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "GaoGao! 4th Canaan (GAOGAO! 4th �J�i�� �`�񑩂̒n�`) (Vermouth)",
+  "company": "4x9",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "gaogao4"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Lilith (�����X) (SC-55)",
+  "company": "4x9",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "lilith_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Lilith (�����X) (Vermouth)",
+  "company": "4x9",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "lilith_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Waku Waku Mahjong Panic 2: Koku Shimusou (�킭�킭�����p�j�b�N! 2 �`�������z�`) (SC-55)",
+  "company": "4x9",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "wakpani2_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Waku Waku Mahjong Panic 2: Koku Shimusou (�킭�킭�����p�j�b�N! 2 �`�������z�`) (Vermouth)",
+  "company": "4x9",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "wakpani2_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Waku Waku Mahjong Panic: Shikigami Denshou (�킭�킭�����p�j�b�N! �`���_�`���`) (SC-55)",
+  "company": "4x9",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "wakpani_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Waku Waku Mahjong Panic: Shikigami Denshou (�킭�킭�����p�j�b�N! �`���_�`���`) (Vermouth)",
+  "company": "4x9",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "wakpani_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Charm 2: Niji Shoku no Kaze (�V�������Q �`���F�̕��`) (SC-55)",
+  "company": "acid_plan",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "charm2_98"
+  ],
+  "drivers": [
+   "MDDRV.COM",
+   "MDDRV_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Charm 2: Niji Shoku no Kaze (�V�������Q �`���F�̕��`) (Vermouth)",
+  "company": "acid_plan",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "charm2_98"
+  ],
+  "drivers": [
+   "MDDRV.COM",
+   "MDDRV_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Charm2 -虹色の風-",
+  "company": "acidplan",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "charm2_98"
+  ],
+  "drivers": [
+   "MDDRV.COM",
+   "MDDRV_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "麻雀幻想曲II",
+  "company": "active",
+  "systems": [
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "CM-64",
+   "GS"
+  ],
+  "archives": [
+   "mjg268snd",
+   "mjgensk2_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v6024",
+   "title": "Mahjong Gensoukyoku",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98",
+    "x68"
+   ],
+   "released": "1992-06-06",
+   "developers": [
+    "Active"
+   ]
+  },
+  "conf": 0.83
+ },
+ {
+  "title": "麻雀幻想曲III",
+  "company": "active",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "SC-88"
+  ],
+  "archives": [
+   "mjgensk3_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v6024",
+   "title": "Mahjong Gensoukyoku",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98",
+    "x68"
+   ],
+   "released": "1992-06-06",
+   "developers": [
+    "Active"
+   ]
+  },
+  "conf": 0.77
+ },
+ {
+  "title": "瑠璃色の雪",
+  "company": "ail",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "ruriiro_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v6317",
+   "title": "Ruriiro no Yuki",
+   "platforms": [
+    "p98",
+    "sat"
+   ],
+   "released": "1997-03-07",
+   "developers": [
+    "AIL"
+   ]
+  },
+  "conf": 0.59
+ },
+ {
+  "title": "Last Guardian2 ～黄泉の封印～",
+  "company": "anjin",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "lguard2_98"
+  ],
+  "drivers": [
+   "LG2M.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Russian Mahjong Horosho (�낵���� �}�[�W���� �n���V���[!) (SC-55)",
+  "company": "apple_pie",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "khorosho_98"
+  ],
+  "drivers": [
+   "UD.COM",
+   "UD_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Russian Mahjong Horosho (�낵���� �}�[�W���� �n���V���[!) (Vermouth)",
+  "company": "apple_pie",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "khorosho_98"
+  ],
+  "drivers": [
+   "UD.COM",
+   "UD_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ろしあん マ～ジャン ハラショー!",
+  "company": "applepie",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "khorosho_98"
+  ],
+  "drivers": [
+   "UD.COM",
+   "UD_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v34699",
+   "title": "Russian Mahjong Khorosho!",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1995-08-25",
+   "developers": [
+    "Apple Pie"
+   ]
+  },
+  "conf": 0.96
+ },
+ {
+  "title": "夢幻夜想曲",
+  "company": "apricot",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "mugenya_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v725",
+   "title": "Mugen Yasoukyoku",
+   "platforms": [
+    "win",
+    "lin",
+    "mac",
+    "dvd",
+    "gba",
+    "p98",
+    "web",
+    "oth"
+   ],
+   "released": "1995-04-22",
+   "developers": [
+    "apricot"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "STAR CRUISER II - The Odysseus project -",
+  "company": "arsys",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "sc2_98"
+  ],
+  "drivers": [
+   "NMD.COM",
+   "SC2_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "A列車で行こう 復刻版",
+  "company": "artdink",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "a1_rep_98"
+  ],
+  "drivers": [
+   "A1.EXE",
+   "ARTDI_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "A列車で行こうIII HD専用版",
+  "company": "artdink",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "a3hd_98"
+  ],
+  "drivers": [
+   "A3HD.EXE",
+   "A3HD_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "A列車で行こうIII MV -Memorial Version-",
+  "company": "artdink",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "a3mv_98"
+  ],
+  "drivers": [
+   "A3MV.EXE",
+   "ARTDI_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "A列車で行こうIV",
+  "company": "artdink",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "a4_98"
+  ],
+  "drivers": [
+   "A4.EXE",
+   "ARTDI_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "HR2",
+  "company": "artdink",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "hr2_98"
+  ],
+  "drivers": [
+   "ARTDI_98.COM",
+   "HR2.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v51038",
+   "title": "Tenshigou -Heaven-",
+   "platforms": [
+    "win"
+   ],
+   "released": "2008-09-13",
+   "developers": [
+    "TRiNE"
+   ]
+  },
+  "conf": 0.11
+ },
+ {
+  "title": "Lunatic Dawn",
+  "company": "artdink",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "luna_98"
+  ],
+  "drivers": [
+   "ARTDI_98.COM",
+   "LUNA.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v11844",
+   "title": "~Shinsei Kishi Ryoujoku~",
+   "platforms": [
+    "win",
+    "dvd"
+   ],
+   "released": "2007-03-24",
+   "developers": [
+    "Studio-Sakura"
+   ]
+  },
+  "conf": 0.06
+ },
+ {
+  "title": "Lunatic Dawn 2",
+  "company": "artdink",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "luna2_98"
+  ],
+  "drivers": [
+   "ARTDI_98.COM",
+   "LUNA2.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "トキオ 東京都第24区",
+  "company": "artdink",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "tokio1_98"
+  ],
+  "drivers": [
+   "ARTDI_98.COM",
+   "TOKIO.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "トキオ2 開拓移民募集中!",
+  "company": "artdink",
+  "systems": [
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "tokio2_21"
+  ],
+  "drivers": [
+   "ARTDI_98.COM",
+   "HR2.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ローマは一日にしてならず",
+  "company": "artdink",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "rome_98"
+  ],
+  "drivers": [
+   "ARTDI_98.COM",
+   "ROME.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "合戦関ヶ原",
+  "company": "artdink",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "k_sekiga_98"
+  ],
+  "drivers": [
+   "ARTDI_98.COM",
+   "SEK2.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "天下御免",
+  "company": "artdink",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "tenkago_98"
+  ],
+  "drivers": [
+   "ARTDI_98.COM",
+   "EDO.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v7881",
+   "title": "Appare! Tenka Gomen",
+   "platforms": [
+    "win",
+    "dvd"
+   ],
+   "released": "2011-12-22",
+   "developers": [
+    "BaseSon"
+   ]
+  },
+  "conf": 0.67
+ },
+ {
+  "title": "栄冠は君に3 高校野球全国大会",
+  "company": "artdink",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "eikan3_98"
+  ],
+  "drivers": [
+   "ARTDI_98.COM",
+   "HSB3.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "機甲師団II",
+  "company": "artdink",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "kikou2_98"
+  ],
+  "drivers": [
+   "ARTDI_98.COM",
+   "TANK2.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "LOGiN DISK&amp;BOOKシリーズ マンハッタン・レクイエム 闇に翔ぶ天使たち",
+  "company": "ascii",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "amrq_98"
+  ],
+  "drivers": [
+   "AMRQ_98M.COM",
+   "PLAY.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "PLANETS OF DRAGON",
+  "company": "ascii",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "pod_98"
+  ],
+  "drivers": [
+   "MIDE.DRV",
+   "MIDEP.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v65999",
+   "title": "Planets of Dragon",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1994-11-18",
+   "developers": [
+    "ASCII Corporation"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "偽典・女神転生 東京黙示録",
+  "company": "ascii",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "gigaten_98"
+  ],
+  "drivers": [
+   "MIDE.DRV",
+   "MIDEP.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "SATYR",
+  "company": "aypio",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "satyr_98"
+  ],
+  "drivers": [
+   "MINT.COM",
+   "NLP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v15184",
+   "title": "Satyr",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1994-08-26",
+   "developers": [
+    "AyPio"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "SEX2",
+  "company": "aypio",
+  "systems": [
+   "IBM PC",
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "sex2_98",
+   "sex2_at"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9081",
+   "title": "SEX2",
+   "platforms": [
+    "win",
+    "dos",
+    "p98"
+   ],
+   "released": "1996-03-01",
+   "developers": [
+    "STONE HEADS Co., Ltd."
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Sorcer Kingdom",
+  "company": "aypio",
+  "systems": [
+   "IBM PC",
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "sk_98",
+   "sk_at"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v47450",
+   "title": "Sorcer Kingdom",
+   "platforms": [
+    "dos",
+    "p98"
+   ],
+   "released": "1995-10-27",
+   "developers": [
+    "AyPio"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "PIAS",
+  "company": "birdysoft",
+  "systems": [
+   "MSX",
+   "PC-8801",
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [],
+  "archives": [
+   "pias68snd",
+   "pias88",
+   "pias_98",
+   "pias_msx"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8817",
+   "title": "PIAS",
+   "platforms": [
+    "msx",
+    "p88",
+    "p98",
+    "x68"
+   ],
+   "released": "1990-08-10",
+   "developers": [
+    "Birdy Soft"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Ekudorado -Kingdom Inside of a Mirror- (�G�N�h���[�h �`���̒��̉����`)",
+  "company": "black_package",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-88"
+  ],
+  "archives": [
+   "ekudorado_98"
+  ],
+  "drivers": [
+   "MSDRV4L.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Ekudorado -Kingdom Inside of a Mirror- (�G�N�h���[�h �`���̒��̉����`) (SC-55)",
+  "company": "black_package",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "ekudorado_98"
+  ],
+  "drivers": [
+   "MSDRV4L.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Ekudorado -Kingdom Inside of a Mirror- (�G�N�h���[�h �`���̒��̉����`) (Vermouth)",
+  "company": "black_package",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "ekudorado_98"
+  ],
+  "drivers": [
+   "MSDRV4L.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Get! (�Q�b�g�I)",
+  "company": "black_package",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-88"
+  ],
+  "archives": [
+   "get_98"
+  ],
+  "drivers": [
+   "MSDRV4L.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Get! (�Q�b�g�I) (SC-55)",
+  "company": "black_package",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "get_98"
+  ],
+  "drivers": [
+   "MSDRV4L.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Get! (�Q�b�g�I) (Vermouth)",
+  "company": "black_package",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "get_98"
+  ],
+  "drivers": [
+   "MSDRV4L.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Kara no Naka no Kotori (�k�̒��̏���)",
+  "company": "black_package",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-88"
+  ],
+  "archives": [
+   "karanonaka_98"
+  ],
+  "drivers": [
+   "MSDRV4.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Kara no Naka no Kotori (�k�̒��̏���) (SC-55)",
+  "company": "black_package",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "karanonaka_98"
+  ],
+  "drivers": [
+   "MSDRV4.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Kara no Naka no Kotori (�k�̒��̏���) (Vermouth)",
+  "company": "black_package",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "karanonaka_98"
+  ],
+  "drivers": [
+   "MSDRV4.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Miwaku no Chousho (���f�̒���)",
+  "company": "black_package",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-88"
+  ],
+  "archives": [
+   "miwaku_c_98"
+  ],
+  "drivers": [
+   "MSDRV4.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Miwaku no Chousho (���f�̒���) (SC-55)",
+  "company": "black_package",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "miwaku_c_98"
+  ],
+  "drivers": [
+   "MSDRV4.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Miwaku no Chousho (���f�̒���) (Vermouth)",
+  "company": "black_package",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "miwaku_c_98"
+  ],
+  "drivers": [
+   "MSDRV4.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "GET!",
+  "company": "blackpackage",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "SC-88"
+  ],
+  "archives": [
+   "get_98"
+  ],
+  "drivers": [
+   "MSDRV4L.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v29",
+   "title": "Crescendo ~Eien da to Omotte Ita Ano Koro~",
+   "platforms": [
+    "win",
+    "lin",
+    "mac",
+    "and",
+    "swi"
+   ],
+   "released": "2001-09-28",
+   "developers": [
+    "D.O."
+   ]
+  },
+  "conf": 0.11
+ },
+ {
+  "title": "エクドラード 鏡の中の王国",
+  "company": "blackpackage",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "SC-88"
+  ],
+  "archives": [
+   "ekudorad_98"
+  ],
+  "drivers": [
+   "MSDRV4L.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8684",
+   "title": "Ekudorado ~Kagami no Naka no Oukoku~",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1997-02-14",
+   "developers": [
+    "BLACK PACKAGE"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "殻の中の小鳥",
+  "company": "blackpackage",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "SC-88"
+  ],
+  "archives": [
+   "karanon_98"
+  ],
+  "drivers": [
+   "MSDRV4.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v4499",
+   "title": "Kara no Naka no Kotori",
+   "platforms": [
+    "win",
+    "dvd",
+    "p98"
+   ],
+   "released": "1996-02-29",
+   "developers": [
+    "BLACK PACKAGE"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "魅惑の調書",
+  "company": "blackpackage",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "SC-88"
+  ],
+  "archives": [
+   "miwaku_c_98"
+  ],
+  "drivers": [
+   "MSDRV4.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8973",
+   "title": "Miwaku no Chousho",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1995-12-08",
+   "developers": [
+    "BLACK PACKAGE"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "ストリート麻雀2",
+  "company": "blucky",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "stjan2_98"
+  ],
+  "drivers": [
+   "MSDRV4L.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v48010",
+   "title": "STREET MAHJONG 2",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1996-02-22",
+   "developers": [
+    "Blucky"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "轢愛",
+  "company": "blucky",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "rekiai_98"
+  ],
+  "drivers": [
+   "MSDRV4L.EXE",
+   "REKIA_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9054",
+   "title": "Rekiai",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1996-11-08",
+   "developers": [
+    "Blucky"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "NoochIII 最後の性戦",
+  "company": "bonbeebonbon",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "nooch3_98"
+  ],
+  "drivers": [
+   "MINT.COM",
+   "NLP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Ribbon",
+  "company": "bonbeebonbon",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "ribbon_98"
+  ],
+  "drivers": [
+   "MINT.COM",
+   "NLP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9059",
+   "title": "Ribbon",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1995-04-28",
+   "developers": [
+    "Softhouse Bonbee Bonbon"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "たまご料理",
+  "company": "bonbeebonbon",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "tamago_r_98"
+  ],
+  "drivers": [
+   "MINT.COM",
+   "NLP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9105",
+   "title": "Tamago Ryouri",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1995-09-14",
+   "developers": [
+    "Softhouse Bonbee Bonbon"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "銀河英雄伝説III",
+  "company": "bothtec",
+  "systems": [
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "ginei368snd",
+   "ginei3_98"
+  ],
+  "drivers": [
+   "G3M.COM",
+   "OPENING.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "銀河英雄伝説III SP",
+  "company": "bothtec",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "ginei3sp_98"
+  ],
+  "drivers": [
+   "G3M.COM",
+   "OPENING.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "銀河英雄伝説IV",
+  "company": "bothtec",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "ginei4_98"
+  ],
+  "drivers": [
+   "SYNPLAY.EXE",
+   "SYNUPS.COM",
+   "SYNUP_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "銀河英雄伝説IV EX",
+  "company": "bothtec",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "ginei4ex_98"
+  ],
+  "drivers": [
+   "SYNPLAY2.EXE",
+   "SYNU2_98.COM",
+   "SYNUPS2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "FRONTIER UNIVERSE",
+  "company": "bps",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "CM-64",
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "frnunv98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM",
+   "PUTEX.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Don't Call Me Amy! (�G�C�~�[�ƌĂ΂Ȃ��ł�) (SC-55)",
+  "company": "c's_ware",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "amiyo"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Don't Call Me Amy! (�G�C�~�[�ƌĂ΂Ȃ��ł�) (Vermouth)",
+  "company": "c's_ware",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "amiyo"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "麻雀スポーツライン",
+  "company": "c-class",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "sp_line_98"
+  ],
+  "drivers": [
+   "FAKECALL.COM",
+   "FMX.COM",
+   "FMXPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "FILE:0 ゴーストキラー・神村 麗",
+  "company": "colossus",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "file0_98"
+  ],
+  "drivers": [
+   "AD.EXE",
+   "FILE0_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8688",
+   "title": "File:0 Ghost Killer Kamimura Rei",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1996-05-24",
+   "developers": [
+    "Colossus"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "リィナ☆クリスタル ADVENTURE OF LIENA",
+  "company": "colossus",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "liena_98"
+  ],
+  "drivers": [
+   "AD.EXE",
+   "LIENA_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "エイミーと呼ばないでっ",
+  "company": "csware",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "eime_21",
+   "eime_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v734",
+   "title": "Eimmy to Yobanaide",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98",
+    "web"
+   ],
+   "released": "1995-05-19",
+   "developers": [
+    "C's Ware"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Oh! Kitsunesama (Oh!���˂��܁�) (SC-55)",
+  "company": "culotte",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "ohkitune_98"
+  ],
+  "drivers": [
+   "MINT.COM",
+   "NLP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Oh! Kitsunesama (Oh!���˂��܁�) (Vermouth)",
+  "company": "culotte",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "ohkitune_98"
+  ],
+  "drivers": [
+   "MINT.COM",
+   "NLP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Oh!きつねさま☆",
+  "company": "curott",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "ohkitune_98"
+  ],
+  "drivers": [
+   "MINT.COM",
+   "NLP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8815",
+   "title": "Oh! Kitsune-sama",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1996-05-31",
+   "developers": [
+    "Curott"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "The Incredible Machine",
+  "company": "cybelle",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "tim_98"
+  ],
+  "drivers": [
+   "TIM.EXE",
+   "TIM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "V.R.デート 五月倶楽部",
+  "company": "desire",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "vr_date_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v190",
+   "title": "May Club",
+   "platforms": [
+    "win",
+    "lin",
+    "mac",
+    "dvd",
+    "p98",
+    "web",
+    "oth"
+   ],
+   "released": "1995-08-25",
+   "developers": [
+    "desire"
+   ]
+  },
+  "conf": 0.67
+ },
+ {
+  "title": "せいんと☆だいありぃ ～聖ちゃんの日記～",
+  "company": "desire",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "saintd_98"
+  ],
+  "drivers": [
+   "HHD_98.COM",
+   "HMM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9068",
+   "title": "Saint Diary ~Kiyoka-chan no Nikki~",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1996-11-29",
+   "developers": [
+    "desire"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "夕霧 …人形師の遺産…",
+  "company": "desire",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "yuugiri_98"
+  ],
+  "drivers": [
+   "HHD_98.COM",
+   "HMM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9171",
+   "title": "Yuugiri ~Ningyoushi no Isan~",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1996-08-23",
+   "developers": [
+    "desire"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Marine Rouge",
+  "company": "discovery",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "SC-88"
+  ],
+  "archives": [
+   "mariner_98"
+  ],
+  "drivers": [
+   "VALKY_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8962",
+   "title": "Marine Rouge",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1995-09-29",
+   "developers": [
+    "DISCOVERY"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Mirage",
+  "company": "discovery",
+  "systems": [
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "mirage68snd",
+   "mirage_98"
+  ],
+  "drivers": [
+   "MIRAGE.EXE",
+   "MIRAG_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v1293",
+   "title": "ARIA The NATURAL ~Tooi Kioku no Mirage~",
+   "platforms": [
+    "ps2"
+   ],
+   "released": "2006-09-08",
+   "developers": [
+    "Regista Co.,Ltd."
+   ]
+  },
+  "conf": 0.32
+ },
+ {
+  "title": "Mirage2 トリーXニートXローンの大冒険",
+  "company": "discovery",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "mirage2_21",
+   "mirage2_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM",
+   "MRG2.EXE",
+   "MRG21_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "RED",
+  "company": "discovery",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "red_98"
+  ],
+  "drivers": [
+   "RED.EXE",
+   "RED_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v11",
+   "title": "Fate/stay night",
+   "platforms": [
+    "win",
+    "lin",
+    "mac",
+    "ios",
+    "and",
+    "nds",
+    "psp",
+    "ps2",
+    "psv",
+    "swi",
+    "vnd",
+    "web"
+   ],
+   "released": "2004-01-30",
+   "developers": [
+    "TYPE-MOON"
+   ]
+  },
+  "conf": 0.12
+ },
+ {
+  "title": "Sweet Emotion",
+  "company": "discovery",
+  "systems": [
+   "MSX",
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "sweet_e_98",
+   "sweete68snd",
+   "sweetem_msx"
+  ],
+  "drivers": [
+   "ADVB.EXE",
+   "SWEET_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9104",
+   "title": "Sweet Emotion",
+   "platforms": [
+    "msx",
+    "p98",
+    "x68"
+   ],
+   "released": "1991-07-20",
+   "developers": [
+    "DISCOVERY"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Valkyrie The Power Beauties",
+  "company": "discovery",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "valkyrie_98"
+  ],
+  "drivers": [
+   "VALKY_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v10865",
+   "title": "Valkyrie",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1995-02-28",
+   "developers": [
+    "DISCOVERY"
+   ]
+  },
+  "conf": 0.5
+ },
+ {
+  "title": "チャクラ",
+  "company": "discovery",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "chakura_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "淫従の堕天使",
+  "company": "discovery",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM",
+   "SC-88"
+  ],
+  "archives": [
+   "injuda_98"
+  ],
+  "drivers": [
+   "VALKY_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8128",
+   "title": "Injuu no Datenshi ~Requiem for Fallen Angels~",
+   "platforms": [
+    "win",
+    "dos",
+    "p98"
+   ],
+   "released": "1996-12-13",
+   "developers": [
+    "DISCOVERY"
+   ]
+  },
+  "conf": 0.35
+ },
+ {
+  "title": "Branmarker2",
+  "company": "do",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "brm2_21",
+   "brm2_98"
+  ],
+  "drivers": [
+   "BR2_21.EXE",
+   "BR2_98.EXE",
+   "DOFMDX98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8006",
+   "title": "Branmarker 2",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98"
+   ],
+   "released": "1995-07-28",
+   "developers": [
+    "D.O."
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "CD-ROM 美少女コレクション -遊ディスク スペシャル-",
+  "company": "do",
+  "systems": [
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "yousp_21"
+  ],
+  "drivers": [
+   "DOFMDX98.COM",
+   "UDISK21.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8838",
+   "title": "Cybernoid Alpha",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98"
+   ],
+   "released": "1995-03-10",
+   "developers": [
+    "D.O."
+   ]
+  },
+  "conf": 0.11
+ },
+ {
+  "title": "クライスイーパー",
+  "company": "do",
+  "systems": [
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "cryswepr_21"
+  ],
+  "drivers": [
+   "ADL21.EXE",
+   "DOFMDX98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8663",
+   "title": "Cry Sweeper",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1996-12-13",
+   "developers": [
+    "D.O."
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "クリスタルリナール -逢魔の迷宮-",
+  "company": "do",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "cL_21",
+   "cl_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v17132",
+   "title": "Crystal Renar - Ouma No Meikyuu -",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98"
+   ],
+   "released": "1994-07-12",
+   "developers": [
+    "D.O."
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "サイバノイドアルファ",
+  "company": "do",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "cybalpha_98"
+  ],
+  "drivers": [
+   "ADL98S.EXE",
+   "DOFMDX98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8838",
+   "title": "Cybernoid Alpha",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98"
+   ],
+   "released": "1995-03-10",
+   "developers": [
+    "D.O."
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "ディーオー監修プレミアムボックス Touch My Heart",
+  "company": "do",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "dotmh_21",
+   "dotmh_98"
+  ],
+  "drivers": [
+   "ADL21F.EXE",
+   "DOFMDX98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ルージュの伝説",
+  "company": "do",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "rouge_d_21",
+   "rouge_d_98"
+  ],
+  "drivers": [
+   "DOFMDX98.COM",
+   "ROUGE.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8007",
+   "title": "Rouge no Densetsu",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98"
+   ],
+   "released": "1996-05-10",
+   "developers": [
+    "D.O."
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "全日本美少女麻雀選手権大会 ハートでロン!!",
+  "company": "do",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "heart_r_21",
+   "heart_r_98"
+  ],
+  "drivers": [
+   "DOFMDX98.COM",
+   "HTRON.EXE",
+   "MJ.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "妖獣戦記2 ～黎明の戦士たち～",
+  "company": "do",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "yojus2_21",
+   "yojus2_98"
+  ],
+  "drivers": [
+   "DOFMDX98.COM",
+   "YJWAR.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v6535",
+   "title": "Youjuu Senki 2 -Reimei no Senshi-tachi-",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98"
+   ],
+   "released": "1995-11-10",
+   "developers": [
+    "D.O."
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "星の砂物語3",
+  "company": "do",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "hsuna3_21",
+   "hsuna3_98"
+  ],
+  "drivers": [
+   "DOFMDX98.COM",
+   "NADL.EXE",
+   "NADL21.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8722",
+   "title": "Hoshi no Suna Monogatari 3",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98"
+   ],
+   "released": "1995-06-23",
+   "developers": [
+    "D.O."
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "遊ディスクVol.4 クリスタルリナール お楽しみディスク",
+  "company": "do",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "you4_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "遊ディスクVol.6 ハートでロン!! MIDNIGHT編",
+  "company": "do",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "you6_98"
+  ],
+  "drivers": [
+   "DOFMDX98.COM",
+   "HTRONM.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "遊ディスクVol.8 サイバノイドアルファ 遊ディスク版",
+  "company": "do",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "you8_98"
+  ],
+  "drivers": [
+   "ADL98S.EXE",
+   "DOFMDX98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "雑音領域",
+  "company": "do",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "zatuon_21",
+   "zatuon_98"
+  ],
+  "drivers": [
+   "ADL21C.EXE",
+   "DOFMDX98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9173",
+   "title": "Zatsuon Ryouiki",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98"
+   ],
+   "released": "1994-12-16",
+   "developers": [
+    "D.O."
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "FLASH POINT",
+  "company": "dotkikaku",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [],
+  "archives": [
+   "fp1_98"
+  ],
+  "drivers": [
+   "FP_98.COM",
+   "F_FLASHB.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "東方封魔録(SC-88) (Amusement Makers)",
+  "company": "doujin",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Amusement Makers"
+  ],
+  "archives": [
+   "tohofuma_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "うきうきアイランド",
+  "company": "fairydust",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "ukiukiis_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9145",
+   "title": "Uki Uki Island",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1997-04-18",
+   "developers": [
+    "Fairy Dust Co., Ltd."
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "こうかん日記",
+  "company": "fairydust",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "koukan_n_98"
+  ],
+  "drivers": [
+   "MDDRV.COM",
+   "MDDRV_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v7567",
+   "title": "Koukan Nikki",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1994-09-09",
+   "developers": [
+    "Fairy Dust Co., Ltd.",
+    "Synchro-ni-City",
+    "P's PSYTEC Co., Ltd."
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "こうかん日記第II章 ～聖夜をあなたと～",
+  "company": "fairydust",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "koukan2_98"
+  ],
+  "drivers": [
+   "MFD.EXE",
+   "MFD_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "エスカレーション'95 ～お姉さまって呼んでいいですか?～",
+  "company": "fairydust",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "es95_98"
+  ],
+  "drivers": [
+   "MFD.COM",
+   "MFD_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v10875",
+   "title": "Escalation'95 Onee-sama tte Yonde Ii Desu ka?",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1995-03-04",
+   "developers": [
+    "Melody"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "レモンエンジェル",
+  "company": "fairydust",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "lemmona_98"
+  ],
+  "drivers": [
+   "FAKECALL.COM",
+   "FMX.COM",
+   "FMXPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8945",
+   "title": "Lemon Angel",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1995-07-21",
+   "developers": [
+    "Fairy Dust Co., Ltd.",
+    "C-Class"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "赤い水晶の瞳",
+  "company": "fairydust",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "akasui_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8551",
+   "title": "Akai Suishou no Hitomi",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1996-03-29",
+   "developers": [
+    "Fairy Dust Co., Ltd."
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "超次元伝説RALL III ～覚醒編～",
+  "company": "fairydust",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "rall3_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "魔人形",
+  "company": "fairydust",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "madol_98"
+  ],
+  "drivers": [
+   "MFD.EXE",
+   "MFD_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8787",
+   "title": "Ma Doll",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1996-09-13",
+   "developers": [
+    "Fairy Dust Co., Ltd.",
+    "Synchro-ni-City"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Brandish VT",
+  "company": "falcom",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "brvt_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Brandish VT 体験版付デモDISK",
+  "company": "falcom",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "brvtdemo_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "朱紅い雫 - THE LEGEND OF HEROES IV -(初回版)",
+  "company": "falcom",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "ed4_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "朱紅い雫 - THE LEGEND OF HEROES IV -(後期版)",
+  "company": "falcom",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "ed4_98b"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Area 88: Ikkakujou no Kiseki (�G���A�W�W ��p�b�̋O��) (SC-55)",
+  "company": "family_soft",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "a88_ink_98"
+  ],
+  "drivers": [
+   "INT7C.COM",
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Area 88: Ikkakujou no Kiseki (�G���A�W�W ��p�b�̋O��) (Vermouth)",
+  "company": "family_soft",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "a88_ink_98"
+  ],
+  "drivers": [
+   "INT7C.COM",
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Mobile Suit Gundam: Stardust Operation (�@����m�K���_��0083 �X�^�[�_�X�g�I�y���[�V����) (SC-55)",
+  "company": "family_soft",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "gundso_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Mobile Suit Gundam: Stardust Operation (�@����m�K���_��0083 �X�^�[�_�X�g�I�y���[�V����) (Vermouth)",
+  "company": "family_soft",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "gundso_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "エリア88 一角獣の軌跡",
+  "company": "familysoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "a88_ikj_98"
+  ],
+  "drivers": [
+   "INT7C.COM",
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "機動戦士ガンダム スターダスト・オペレーション",
+  "company": "familysoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "gdm_0083_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "さよならの向こう側",
+  "company": "foster",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "sayonara_21",
+   "sayonara_98"
+  ],
+  "drivers": [
+   "DOFMDX98.COM",
+   "MOTV21.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8167",
+   "title": "Thread Colors ~Sayonara no Mukougawa~",
+   "platforms": [
+    "ps2"
+   ],
+   "released": "2002-11-14",
+   "developers": [
+    "HuneX"
+   ]
+  },
+  "conf": 0.69
+ },
+ {
+  "title": "タイムストリッパー真子ちゃん",
+  "company": "foster",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "timestrm_21",
+   "timestrm_98"
+  ],
+  "drivers": [
+   "DOFMDX98.COM",
+   "MOTV21.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v1444",
+   "title": "Time Stripper Mako-chan",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98",
+    "web"
+   ],
+   "released": "1996-01-26",
+   "developers": [
+    "Foster"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "拘束超人",
+  "company": "foster",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "k_chojin_21",
+   "k_chojin_98"
+  ],
+  "drivers": [
+   "DOFMDX98.COM",
+   "MOTV21.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8756",
+   "title": "Kousoku Chojin",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98"
+   ],
+   "released": "1995-12-24",
+   "developers": [
+    "Foster"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "花の記憶 ～第二章～",
+  "company": "foster",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "h_kioku2_21",
+   "h_kioku2_98"
+  ],
+  "drivers": [
+   "DOFMDX98.COM",
+   "MOTV21.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8709",
+   "title": "Hana no Kioku Dai 2 Shou",
+   "platforms": [
+    "win",
+    "dvd",
+    "fmt",
+    "p98"
+   ],
+   "released": "1996-12-13",
+   "developers": [
+    "Foster"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "GAOGAO! 3rd ワイルドフォース",
+  "company": "fournine",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "gao3_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8696",
+   "title": "Gao Gao! 3rd ~Wild Force~",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1994-10-29",
+   "developers": [
+    "Four-Nine"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "GAOGAO! 4th カナン ～約束の地～",
+  "company": "fournine",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "gao4_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "えんじぇる☆ないと ～闇夜を翔ける天使たちの物語～",
+  "company": "fournine",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "angel_n_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8646",
+   "title": "Angel☆Night ~Yamiyo o Kakeru Tenshi-tachi no Monogatari~",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1996-04-26",
+   "developers": [
+    "Four-Nine"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "わくわく麻雀パニック! 式･神･伝･承",
+  "company": "fournine",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "wakpani_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v735",
+   "title": "Waku Waku Mahjong Panic! ~Shikigami Denshou~",
+   "platforms": [
+    "win",
+    "mac",
+    "p98"
+   ],
+   "released": "1995-01-13",
+   "developers": [
+    "Four-Nine"
+   ]
+  },
+  "conf": 0.9
+ },
+ {
+  "title": "わくわく麻雀パニック!2 刻視夢想",
+  "company": "fournine",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "wakpani2_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v736",
+   "title": "Waku Waku Mahjong Panic! 2 ~Kokushi Musou~",
+   "platforms": [
+    "win",
+    "mac",
+    "p98"
+   ],
+   "released": "1996-07-12",
+   "developers": [
+    "Four-Nine"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "リリス",
+  "company": "fournine",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "lilith_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v212",
+   "title": "Himekishi Lilia ~Mashoku no Oujou ni Otsu~",
+   "platforms": [
+    "win",
+    "and",
+    "dvd",
+    "mob"
+   ],
+   "released": "2004-08-28",
+   "developers": [
+    "Anime Lilith",
+    "Black Lilith"
+   ]
+  },
+  "conf": 0.24
+ },
+ {
+  "title": "FRONTIER",
+  "company": "frontier",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "frontier_98"
+  ],
+  "drivers": [
+   "MSDRV4.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8879",
+   "title": "Frontier",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1995-08-25",
+   "developers": [
+    "Frontier"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "RONDO -ロンド-",
+  "company": "frontier",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "rondo_98"
+  ],
+  "drivers": [
+   "MSDRV4.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v37688",
+   "title": "Himitsu no Rondo Gakuen -secret rondo school-",
+   "platforms": [
+    "win"
+   ],
+   "released": "2021-07-24",
+   "developers": [
+    "Item"
+   ]
+  },
+  "conf": 0.28
+ },
+ {
+  "title": "Amaranth II",
+  "company": "fugasystem",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "ama2_98",
+   "ama2s_98"
+  ],
+  "drivers": [
+   "FMD9.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Amaranth II ミュージックディスク",
+  "company": "fugasystem",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "ama2m_98"
+  ],
+  "drivers": [
+   "FMD13.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Amaranth III",
+  "company": "fugasystem",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "ama3_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Amaranth IV",
+  "company": "fugasystem",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "ama4_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Amaranth KH ～シュテラール王国建国譚～",
+  "company": "fugasystem",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "amakh_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Oerstedia",
+  "company": "fugasystem",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32"
+  ],
+  "archives": [
+   "oerstd98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Oerstedia(",
+  "company": "fugasystem",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "(MT-32 Emulation"
+  ],
+  "archives": [
+   "oerstd98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ま～ぷる・まぢっく",
+  "company": "fugasystem",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "marple98"
+  ],
+  "drivers": [
+   "FMD7.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "新世紀興亡史 デッドフォース",
+  "company": "fugasystem",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "deadfc98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "覇皇雀戦鬼",
+  "company": "fugasystem",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "haoujan_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "風雅セレクション① ～カルカッタ～",
+  "company": "fugasystem",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "fgsel1c"
+  ],
+  "drivers": [
+   "FMD5.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "風雅セレクション① ～メイズクエスト～",
+  "company": "fugasystem",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "fgsel1m"
+  ],
+  "drivers": [
+   "FMD5.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "PRINCESS MAKER 2",
+  "company": "gainax",
+  "systems": [
+   "IBM PC",
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "pm2_98",
+   "pm2_at"
+  ],
+  "drivers": [
+   "PM2.EXE",
+   "PM2_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ふしぎの海のナディア - THE SECRET OF THE BLUE WATER -",
+  "company": "gainax",
+  "systems": [
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "nadia68snd",
+   "nadia98"
+  ],
+  "drivers": [
+   "AUTOEXEC.EXE",
+   "NADIA98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v23902",
+   "title": "Fushigi no Umi no Nadia: The Secret of Blue Water",
+   "platforms": [
+    "pce"
+   ],
+   "released": "1993-01-29",
+   "developers": [
+    "Hudson Soft"
+   ]
+  },
+  "conf": 0.95
+ },
+ {
+  "title": "ふしぎの海のナディア MUSIC FLOPPY DISK",
+  "company": "gainax",
+  "systems": [
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "nadiam68snd",
+   "nadiam_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "雀皇登龍門II",
+  "company": "gamearts",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "jt2_98"
+  ],
+  "drivers": [
+   "GAMDMT.COM",
+   "JANOH2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "BRIGANTY The roots of darkness",
+  "company": "giga",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "SC-88"
+  ],
+  "archives": [
+   "bg_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v10651",
+   "title": "Briganty ~The Roots of Darkness~",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1995-10-27",
+   "developers": [
+    "GIGA"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Harlem Blade ~The Greatest of All Time.~",
+  "company": "giga",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "SC-88"
+  ],
+  "archives": [
+   "hb_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v6568",
+   "title": "Harlem Blade ~The Greatest of All Time.~",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1996-04-26",
+   "developers": [
+    "GIGA"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "STEAM-HEART'S",
+  "company": "giga",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "sh_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "STEAM-HEART'S(SC-55)",
+  "company": "giga",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "sh_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "STEAM-HEART'S(SC-55mkII)",
+  "company": "giga",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55mkII"
+  ],
+  "archives": [
+   "sh_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "V.G.",
+  "company": "giga",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "CM-64",
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "vg_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v404",
+   "title": "Muv-Luv Supplement",
+   "platforms": [
+    "win",
+    "ps3"
+   ],
+   "released": "2004-12-17",
+   "developers": [
+    "âge"
+   ]
+  },
+  "conf": 0.11
+ },
+ {
+  "title": "V.G.II ～姫神舞闘譚～",
+  "company": "giga",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "SC-88"
+  ],
+  "archives": [
+   "vg2_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "BIBLE MASTER 2 - THE CHAOS OF AGLIA -",
+  "company": "glodia",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "biblem2"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "DIFFERENT REALM -久遠の賢者-",
+  "company": "glodia",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "difrlm98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "RAGNAR0KKR",
+  "company": "glodia",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "ragnrk98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ZAVAS II -メヒテの大予言-",
+  "company": "glodia",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "zavas298"
+  ],
+  "drivers": [
+   "GBGM.EXE",
+   "GBGMP.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "アルヴァリーク冒険記",
+  "company": "glodia",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "alva98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "エテミブル ～天壌無窮～(SC-55)",
+  "company": "glodia",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "etembl98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "真倭伝 -覇刀の章-",
+  "company": "great",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "sinwaden_98"
+  ],
+  "drivers": [
+   "IBGM.EXE",
+   "IBGMPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v5504",
+   "title": "Shinwaden: Hatou no Shou",
+   "platforms": [
+    "dos",
+    "p98"
+   ],
+   "released": "1994-07-15",
+   "developers": [
+    "Great"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Sela",
+  "company": "hervest",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "sela_98"
+  ],
+  "drivers": [
+   "MINT.COM",
+   "NLP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v810",
+   "title": "Kara no Shoujo",
+   "platforms": [
+    "win",
+    "and",
+    "dvd",
+    "psv"
+   ],
+   "released": "2008-07-04",
+   "developers": [
+    "Innocent Grey"
+   ]
+  },
+  "conf": 0.12
+ },
+ {
+  "title": "μ ～Myuu～",
+  "company": "hervest",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "myuu_98"
+  ],
+  "drivers": [
+   "MINT.COM",
+   "NLP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "憂楼 Transient Sands",
+  "company": "hervest",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "yuro_98"
+  ],
+  "drivers": [
+   "MINT.COM",
+   "NLP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v5458",
+   "title": "Yuurou ~Transient Sands~",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1996-08-02",
+   "developers": [
+    "Hervest"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Ash (�A�b�V��)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 EMU"
+  ],
+  "archives": [
+   "ash_98"
+  ],
+  "drivers": [
+   "MIDISEND.COM",
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Ash (�A�b�V��) (SC-55)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "ash_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Ash (�A�b�V��) (Vermouth)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "ash_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Bacta 2 (�o�N�^�Q)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 EMU"
+  ],
+  "archives": [
+   "bacta2_98"
+  ],
+  "drivers": [
+   "MIDISEND.COM",
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Bacta 2 (�o�N�^�Q) (SC-55)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "bacta2_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Bacta 2 (�o�N�^�Q) (Vermouth)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "bacta2_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "D'Ark Gaiden (�f�B�[�E�A�[�N �O�`)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 EMU"
+  ],
+  "archives": [
+   "d_ark_g_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM",
+   "PUTCM6.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "De.Fana (�f�E�t�@�[�i) (SC-55)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "defana_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "De.Fana (�f�E�t�@�[�i) (Vermouth)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "defana_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Nana Eiyuu Monogatari (���p�Y����) (SC-55)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "nanaei_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Nana Eiyuu Monogatari (���p�Y����) (Vermouth)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "nanaei_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Youthful Eager Stories (SC-55)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "yes_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Youthful Eager Stories (Vermouth)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "yes_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Youthful Eager Stories! HG (SC-55)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "yeshg_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Youthful Eager Stories! HG (Vermouth)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "yeshg_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Zenith (�[�j�X) (SC-55)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "zenith_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Zenith (�[�j�X) (Vermouth)",
+  "company": "himeya",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "zenith_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Ash.",
+  "company": "himeyasoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "ash_98"
+  ],
+  "drivers": [
+   "MIDISEND.COM",
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v10",
+   "title": "narcissu",
+   "platforms": [
+    "win",
+    "lin",
+    "mac",
+    "ios",
+    "and",
+    "gba",
+    "nds",
+    "psp",
+    "psv",
+    "vnd",
+    "web",
+    "mob"
+   ],
+   "released": "2005-08-02",
+   "developers": [
+    "Stage-nana",
+    "Regista Co.,Ltd."
+   ]
+  },
+  "conf": 0.36
+ },
+ {
+  "title": "Bacta2",
+  "company": "himeyasoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "bacta2_98"
+  ],
+  "drivers": [
+   "MIDISEND.COM",
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8569",
+   "title": "Bacta 2 The Resurrection of Bacta",
+   "platforms": [
+    "fmt",
+    "p98"
+   ],
+   "released": "1994-02-05",
+   "developers": [
+    "Himeya Soft"
+   ]
+  },
+  "conf": 0.35
+ },
+ {
+  "title": "D'Ark外伝",
+  "company": "himeyasoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "d_ark_g_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM",
+   "PUTCM6.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "De.FaNa",
+  "company": "himeyasoft",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "defana_21",
+   "defana_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8671",
+   "title": "De.FaNa",
+   "platforms": [
+    "fmt",
+    "p98"
+   ],
+   "released": "1995-07-28",
+   "developers": [
+    "Himeya Soft"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "YES!",
+  "company": "himeyasoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32"
+  ],
+  "archives": [
+   "yes_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v30",
+   "title": "Yo-Jin-Bo ~Unmei no Freude~",
+   "platforms": [
+    "win",
+    "mac",
+    "ps2"
+   ],
+   "released": "2005-07-29",
+   "developers": [
+    "TWOFIVE Inc."
+   ]
+  },
+  "conf": 0.17
+ },
+ {
+  "title": "YES! HG",
+  "company": "himeyasoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "yeshg_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9162",
+   "title": "YES! HG - Hi-Grade, Hyper Graphics A.V.G.",
+   "platforms": [
+    "dos",
+    "fmt",
+    "p98"
+   ],
+   "released": "1995-06-30",
+   "developers": [
+    "Himeya Soft"
+   ]
+  },
+  "conf": 0.3
+ },
+ {
+  "title": "ZENITH",
+  "company": "himeyasoft",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "zenith_21",
+   "zenith_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9174",
+   "title": "Zenith",
+   "platforms": [
+    "fmt",
+    "p98"
+   ],
+   "released": "1994-11-11",
+   "developers": [
+    "Himeya Soft"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "七英雄物語",
+  "company": "himeyasoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "nanaei_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v27160",
+   "title": "Nana Eiyuu Monogatari",
+   "platforms": [
+    "win",
+    "dos",
+    "p98"
+   ],
+   "released": "1995-03-10",
+   "developers": [
+    "Himeya Soft"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "PP DISK No.01",
+  "company": "holywood",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "ppdisk01_98"
+  ],
+  "drivers": [
+   "MDDRV.COM",
+   "MDDRV_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "PP DISK No.02",
+  "company": "holywood",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "ppdisk02_98"
+  ],
+  "drivers": [
+   "MDDRV.COM",
+   "MDDRV_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "PP DISK No.03",
+  "company": "holywood",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "ppdisk03_98"
+  ],
+  "drivers": [
+   "MDDRV.COM",
+   "MDDRV_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "VASTNESS ～空虚の生贄達～",
+  "company": "holywood",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "vastness_21",
+   "vastness_98"
+  ],
+  "drivers": [
+   "MDDRV.COM",
+   "MDDRV_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "The 7colors (�Z�u���J���[�Y)",
+  "company": "hot-b",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 EMU"
+  ],
+  "archives": [
+   "7colors_98"
+  ],
+  "drivers": [
+   "7COLM_98.COM",
+   "MIDIDRV.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "THE 7colors",
+  "company": "hotb",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "7colors_98"
+  ],
+  "drivers": [
+   "7COLM_98.COM",
+   "MIDIDRV.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Paracelsus no Maken (�p���P���X�X�̖���) (MIDI)",
+  "company": "hummingbird",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MIDI"
+  ],
+  "archives": [
+   "para_98"
+  ],
+  "drivers": [
+   "PARALIBD.EXE",
+   "PARA_98.COM",
+   "SLDEXE.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "パラケルススの魔剣(MIDI)",
+  "company": "hummingbirdsoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MIDI"
+  ],
+  "archives": [
+   "para_98"
+  ],
+  "drivers": [
+   "PARALIBD.EXE",
+   "PARA_98.COM",
+   "SLDEXE.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "龍王三國志",
+  "company": "imagineer",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "r_san_98"
+  ],
+  "drivers": [
+   "INTDRV.COM",
+   "NATTEL.COM",
+   "NATT_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "龍王三國志 パワーボックス",
+  "company": "imagineer",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "r_sanpb_98"
+  ],
+  "drivers": [
+   "INTDRV.COM",
+   "NATTEL.COM",
+   "NATT_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "龍王三國志 パワーボックス(OPN+GM)",
+  "company": "imagineer",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "OPN+GM"
+  ],
+  "archives": [
+   "r_sanpb_98"
+  ],
+  "drivers": [
+   "INTDRV.COM",
+   "NATTEL.COM",
+   "NATT_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "龍王三國志(OPN+GM)",
+  "company": "imagineer",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "OPN+GM"
+  ],
+  "archives": [
+   "r_san_98"
+  ],
+  "drivers": [
+   "INTDRV.COM",
+   "NATTEL.COM",
+   "NATT_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "くるみちゃんにんじゃあ",
+  "company": "janis",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "krm_98"
+  ],
+  "drivers": [
+   "IBGM.EXE",
+   "IBGMPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8940",
+   "title": "Kurumi-chan Ninja",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1995-07-28",
+   "developers": [
+    "Studio Jikkenshitsu"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "ばにぃはんたぁ零",
+  "company": "janis",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "bny_98"
+  ],
+  "drivers": [
+   "IBGM.EXE",
+   "IBGMPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v5677",
+   "title": "Bunny Hunter Zero",
+   "platforms": [
+    "win",
+    "mac",
+    "p98"
+   ],
+   "released": "1995-04-28",
+   "developers": [
+    "Studio Jikkenshitsu"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "ぷりんせすでんじゃあ",
+  "company": "janis",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "p_danger_98"
+  ],
+  "drivers": [
+   "IBGMPM.COM",
+   "IKDRV.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9019",
+   "title": "Princess Danger",
+   "platforms": [
+    "win",
+    "dos",
+    "mac",
+    "fmt",
+    "p98"
+   ],
+   "released": "1994-04-21",
+   "developers": [
+    "Studio Jikkenshitsu"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "学園トライアングル",
+  "company": "janis",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "gtriangl_98"
+  ],
+  "drivers": [
+   "IBGM.EXE",
+   "IBGMPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "機械じかけのマリアン",
+  "company": "janis",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "k-marian_98"
+  ],
+  "drivers": [
+   "IBGM.EXE",
+   "IBGMPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v5874",
+   "title": "Kikai Jikake no Marian",
+   "platforms": [
+    "win",
+    "dos",
+    "mac",
+    "fmt",
+    "p98"
+   ],
+   "released": "1994-08",
+   "developers": [
+    "Studio Jikkenshitsu"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "ファルアディア",
+  "company": "kinpukurin",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "faladia_98"
+  ],
+  "drivers": [
+   "BGMDRV.COM",
+   "BGMDRV98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ADVANCED POWER DoLLS 2",
+  "company": "kogado",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "apdoll2_98"
+  ],
+  "drivers": [
+   "NARU.COM",
+   "NARU_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "POWER DoLLS",
+  "company": "kogado",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "pdoll_98"
+  ],
+  "drivers": [
+   "NARU.COM",
+   "NARU_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "POWER DoLLS 2",
+  "company": "kogado",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "pdoll2_98"
+  ],
+  "drivers": [
+   "NARU.COM",
+   "NARU_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "POWER DoLLS 2 DASH",
+  "company": "kogado",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "pdoll2d_98"
+  ],
+  "drivers": [
+   "NARU.COM",
+   "NARU_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "POWER DoLLS 2 Premium Disk",
+  "company": "kogado",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "pdoll2p_98"
+  ],
+  "drivers": [
+   "NARU.COM",
+   "NARU_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "POWER DoLLS S-Premium Disk",
+  "company": "kogado",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "pdollp_98"
+  ],
+  "drivers": [
+   "NARU.COM",
+   "NARU_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "FIRST QUEEN IV -バルシア戦記-(SC-55)",
+  "company": "ksk",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "fq4_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "STAR STRIDERS",
+  "company": "kss",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "striders_98"
+  ],
+  "drivers": [
+   "IBGM.EXE",
+   "IBGMPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "アイドルプロジェクト2",
+  "company": "kss",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "idol_p2_98"
+  ],
+  "drivers": [
+   "IP2DRV.EXE",
+   "IP2_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v18252",
+   "title": "Idol Project 2",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1995-12-22",
+   "developers": [
+    "KSS Inc."
+   ]
+  },
+  "conf": 0.96
+ },
+ {
+  "title": "竜機伝承 -ドラグーン-",
+  "company": "kss",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "dragoon_98"
+  ],
+  "drivers": [
+   "HHD_98.COM",
+   "HMM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v16872",
+   "title": "Ryuuki Denshou Dragoon",
+   "platforms": [
+    "win",
+    "dos",
+    "p98",
+    "ps1"
+   ],
+   "released": "1996-01-26",
+   "developers": [
+    "KSS Inc.",
+    "Zero System"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "DR^2ナイト雀鬼",
+  "company": "leaf",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "dr^2_98"
+  ],
+  "drivers": [
+   "MS.COM",
+   "MS_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v448",
+   "title": "DR2 Night Janki",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1995-02-24",
+   "developers": [
+    "Leaf"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Filsnown ～光と刻～",
+  "company": "leaf",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "filsnown_98"
+  ],
+  "drivers": [
+   "MS.COM",
+   "MS_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "痕 -きずあと-",
+  "company": "leaf",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "kizuato_98"
+  ],
+  "drivers": [
+   "MMDR.COM",
+   "MMDR_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v184",
+   "title": "Kizuato",
+   "platforms": [
+    "win",
+    "mac",
+    "gba",
+    "gbc",
+    "p98"
+   ],
+   "released": "1996-07-26",
+   "developers": [
+    "Leaf"
+   ]
+  },
+  "conf": 0.33
+ },
+ {
+  "title": "雫 -しずく-",
+  "company": "leaf",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "sizuku_98"
+  ],
+  "drivers": [
+   "MMDR.COM",
+   "MMDR_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v235",
+   "title": "Shizuku",
+   "platforms": [
+    "win",
+    "mac",
+    "gba",
+    "gbc",
+    "p98",
+    "ps1"
+   ],
+   "released": "1996-01-26",
+   "developers": [
+    "Leaf"
+   ]
+  },
+  "conf": 0.4
+ },
+ {
+  "title": "Libido7",
+  "company": "libido",
+  "systems": [
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "libido768snd",
+   "libido7_98"
+  ],
+  "drivers": [
+   "BGMDRV.COM",
+   "BGMDRV98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v10034",
+   "title": "Libido 7",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98",
+    "x68"
+   ],
+   "released": "1994-06-01",
+   "developers": [
+    "LIBIDO"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Shinc",
+  "company": "libido",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "shinc_98"
+  ],
+  "drivers": [
+   "BGMDRV.COM",
+   "BGMDRV98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v1681",
+   "title": "Akogare no Mio-nee wa Boku no Ninshin Dorei",
+   "platforms": [
+    "win",
+    "dvd",
+    "mob"
+   ],
+   "released": "2006-09-29",
+   "developers": [
+    "Cybele"
+   ]
+  },
+  "conf": 0.2
+ },
+ {
+  "title": "なる麻雀",
+  "company": "libido",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "narumj_98"
+  ],
+  "drivers": [
+   "BGMDRV.COM",
+   "BGMDRV98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v34417",
+   "title": "Naru Mahjong",
+   "platforms": [
+    "win",
+    "mac",
+    "fmt",
+    "p98",
+    "x68"
+   ],
+   "released": "1995-04-21",
+   "developers": [
+    "LIBIDO"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "THE KNIGHTS アヴァロンの騎士",
+  "company": "maesta7",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "avalon_98"
+  ],
+  "drivers": [
+   "AVALON.COM",
+   "D98M.SYS",
+   "DBOOT.SYS"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "THE KNIGHTS2 何処からか来る小さな光",
+  "company": "maesta7",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "knight2_98"
+  ],
+  "drivers": [
+   "AVALON.COM",
+   "D98M.SYS",
+   "DBOOT.SYS"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "KO世紀ビースト三獣士 ガイアの復活",
+  "company": "matrix",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "ko_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "KO世紀ビースト三獣士 ラスタークの女王",
+  "company": "matrix",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "ko2_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "SOLFLEET 太陽系連邦興隆記",
+  "company": "matrix",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "solfleet_98"
+  ],
+  "drivers": [
+   "MMIZ3.COM",
+   "MMIZ3_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "宇宙の騎士テッカマンブレード オービタルリング奪回作戦",
+  "company": "matrix",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "tekkaman_98"
+  ],
+  "drivers": [
+   "MMIZ3.COM",
+   "MMIZ3_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Hyper Securities -Kin Mirai Bishoujo Police Nishi- (�͂��ς��Z�L�����e�B�[�Y) (SC-55)",
+  "company": "mebio_software",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "hypersec_98"
+  ],
+  "drivers": [
+   "SYNPLAY.EXE",
+   "SYNUPS.COM",
+   "SYNUP_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Hyper Securities -Kin Mirai Bishoujo Police Nishi- (�͂��ς��Z�L�����e�B�[�Y) (Vermouth)",
+  "company": "mebio_software",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "hypersec_98"
+  ],
+  "drivers": [
+   "SYNPLAY.EXE",
+   "SYNUPS.COM",
+   "SYNUP_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "はいぱぁセキュリティーズ",
+  "company": "mebiosoftware",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "hypersec_98"
+  ],
+  "drivers": [
+   "SYNPLAY.EXE",
+   "SYNUPS.COM",
+   "SYNUP_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "NIGHT SLAVE",
+  "company": "melody",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "night_s_98"
+  ],
+  "drivers": [
+   "MFD.COM",
+   "MFD_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v11762",
+   "title": "Night Slave",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1996-03-08",
+   "developers": [
+    "Melody"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "暗闇",
+  "company": "melody",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "kurayami_98"
+  ],
+  "drivers": [
+   "MFD.COM",
+   "MFD_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v2627",
+   "title": "Kurayami no Hate de Kimi o Matsu",
+   "platforms": [
+    "nds"
+   ],
+   "released": "2009-10-22",
+   "developers": [
+    "WITCHCRAFT inc."
+   ]
+  },
+  "conf": 0.33
+ },
+ {
+  "title": "牝猫秘書室",
+  "company": "melody",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "mesuneko_98"
+  ],
+  "drivers": [
+   "MFD.COM",
+   "MFD_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8809",
+   "title": "Mesuneko Hishoshitsu",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1995-12-22",
+   "developers": [
+    "Melody"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Xak III - The eternal reccurence -",
+  "company": "microcabin",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "CM-64",
+   "GS"
+  ],
+  "archives": [
+   "xak3_98"
+  ],
+  "drivers": [
+   "MMD.EXE",
+   "MMD3M.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "幻影都市 - Illusion City -",
+  "company": "microcabin",
+  "systems": [
+   "MSX",
+   "PC-88VA",
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "ic_98",
+   "ic_msx"
+  ],
+  "drivers": [
+   "MMD.SYS",
+   "MMD2M.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "MERRY GO ROUND",
+  "company": "mischief",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "merrygr_98"
+  ],
+  "drivers": [
+   "MSDRV4L.EXE",
+   "MSP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8807",
+   "title": "Merry Go Round",
+   "platforms": [
+    "win",
+    "dos",
+    "p98"
+   ],
+   "released": "1996-03-08",
+   "developers": [
+    "Mischief"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Horny Sweeper 好色仕掛人",
+  "company": "mugen",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "hs_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Horny Sweeper2 女子校危機一発",
+  "company": "mugen",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "hs2_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "魔浄理子 淫靡界(OPN+MT-32 Emulation)",
+  "company": "natsume",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "OPN+MT-32 Emulation"
+  ],
+  "archives": [
+   "majoriko_98"
+  ],
+  "drivers": [
+   "MJSND.COM",
+   "ODQ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "魔浄理子 淫靡界(OPN+MT-32)",
+  "company": "natsume",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "OPN+MT-32"
+  ],
+  "archives": [
+   "majoriko_98"
+  ],
+  "drivers": [
+   "MJSND.COM",
+   "ODQ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "3x3EYE'S ～三只眼變成～",
+  "company": "nihoncreate",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "3x3eyes_98"
+  ],
+  "drivers": [
+   "NC.COM",
+   "NC_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v4547",
+   "title": "3x3 EYES ~Sanjiyan Henjou~",
+   "platforms": [
+    "win",
+    "dos",
+    "fmt",
+    "p98",
+    "pce"
+   ],
+   "released": "1993-02-05",
+   "developers": [
+    "Nihon Create"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Diadrum",
+  "company": "nihoncreate",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "diadrum_98"
+  ],
+  "drivers": [
+   "NC.COM",
+   "NC_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "猟奇の檻",
+  "company": "nihonplantech",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "ryouki_98"
+  ],
+  "drivers": [
+   "IBGM.EXE",
+   "IBGMPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v4614",
+   "title": "Shinsetsu Ryouki no Ori",
+   "platforms": [
+    "win"
+   ],
+   "released": "2004-12-17",
+   "developers": [
+    "CALIGULA"
+   ]
+  },
+  "conf": 0.8
+ },
+ {
+  "title": "猟奇の檻 第２章",
+  "company": "nihonplantech",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "ryouki2_98"
+  ],
+  "drivers": [
+   "IBGM.EXE",
+   "IBGMPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v4860",
+   "title": "Shinsetsu Ryouki no Ori Dai 2 Shou",
+   "platforms": [
+    "win"
+   ],
+   "released": "2009-05-01",
+   "developers": [
+    "CALIGULA"
+   ]
+  },
+  "conf": 0.88
+ },
+ {
+  "title": "IRIUM",
+  "company": "orangehouse",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "irium_98"
+  ],
+  "drivers": [
+   "IRIUM.EXE",
+   "IRIUM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8908",
+   "title": "Irium",
+   "platforms": [
+    "fmt",
+    "p98"
+   ],
+   "released": "1993-06-11",
+   "developers": [
+    "Orange House"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "PLERIA -THE ROYAL EMBLEM-",
+  "company": "orangehouse",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "CM-64",
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "pleria_98"
+  ],
+  "drivers": [
+   "PLERIA.EXE",
+   "PLERI_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9012",
+   "title": "Pleria - The Royal Emblem",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1992-08",
+   "developers": [
+    "Orange House"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "PRESENT",
+  "company": "orangehouse",
+  "systems": [
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "present68snd",
+   "present_98"
+  ],
+  "drivers": [
+   "G_GAMEB.EXE",
+   "PRESE_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v172",
+   "title": "Exodus Guilty",
+   "platforms": [
+    "win",
+    "dvd",
+    "ps1",
+    "drc"
+   ],
+   "released": "1998-11-26",
+   "developers": [
+    "Abel Inc."
+   ]
+  },
+  "conf": 0.32
+ },
+ {
+  "title": "PRESENT 2",
+  "company": "orangehouse",
+  "systems": [
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "CM-64",
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "present268snd",
+   "present2_98"
+  ],
+  "drivers": [
+   "PRES2_98.COM",
+   "PRESENT2.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9018",
+   "title": "Present 2",
+   "platforms": [
+    "dos",
+    "fmt",
+    "p98",
+    "x68"
+   ],
+   "released": "1992-10-06",
+   "developers": [
+    "Orange House"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "STRUSH",
+  "company": "orangehouse",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "strush_98"
+  ],
+  "drivers": [
+   "G_GAMEB.EXE",
+   "STRUS_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9100",
+   "title": "Strush",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1991-12-06",
+   "developers": [
+    "Orange House"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "URBAN SOLDIER",
+  "company": "orangehouse",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "urban_98"
+  ],
+  "drivers": [
+   "URBAN_98.COM",
+   "USOLDIER.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Mug-R",
+  "company": "parsley",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "mug-r_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "RE-NO STAYIN' ALIVE",
+  "company": "parsley",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "reno_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9055",
+   "title": "Re-No Stayin' Alive",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1996-06-14",
+   "developers": [
+    "Software House Parsley"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "TRUE LOVE 純愛物語 Ver1.2",
+  "company": "parsley",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "tlove12_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "VENUS",
+  "company": "parsley",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "venus_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v945",
+   "title": "Katawa Shoujo",
+   "platforms": [
+    "win",
+    "lin",
+    "mac",
+    "ios",
+    "and",
+    "psp",
+    "psv",
+    "swi",
+    "web"
+   ],
+   "released": "2009-04-29",
+   "developers": [
+    "Four Leaf Studios"
+   ]
+  },
+  "conf": 0.12
+ },
+ {
+  "title": "イマージュ",
+  "company": "parsley",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "image1_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v3935",
+   "title": "Image",
+   "platforms": [
+    "dos",
+    "fmt",
+    "p98",
+    "x68"
+   ],
+   "released": "1992-07-10",
+   "developers": [
+    "Software House Parsley"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "イマージュ2",
+  "company": "parsley",
+  "systems": [
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "image268snd",
+   "image2_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8728",
+   "title": "Image 2",
+   "platforms": [
+    "fmt",
+    "p98",
+    "x68"
+   ],
+   "released": "1993-04-27",
+   "developers": [
+    "Software House Parsley"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "サニーナの伝説",
+  "company": "parsley",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "sanina_98"
+  ],
+  "drivers": [
+   "FMD14.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "パノラマ倶楽部",
+  "company": "parsley",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "p_club_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v66188",
+   "title": "Panorama Club",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1993-11-26",
+   "developers": [
+    "Software House Parsley"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "ファルス 誘惑白書",
+  "company": "parsley",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "farce_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8876",
+   "title": "Farce Yuuwaku Hakusho",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1994-12-13",
+   "developers": [
+    "Software House Parsley"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "煩悩予備校2",
+  "company": "parsley",
+  "systems": [
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "bonnou268snd",
+   "bonnou2_98"
+  ],
+  "drivers": [
+   "FMIDIDRV.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v66191",
+   "title": "Bonnou Yobikou 2",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1991",
+   "developers": [
+    "Software House Parsley"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "煩悩予備校3",
+  "company": "parsley",
+  "systems": [
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "bonnou368snd",
+   "bonnou3_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v66190",
+   "title": "Bonnou Yobikou 3",
+   "platforms": [
+    "x68"
+   ],
+   "released": "1992-11-20",
+   "developers": [
+    "Software House Parsley"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "GODS 神となる男の伝説",
+  "company": "pcmcomplete",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "gods98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM",
+   "PUTEX.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "-私-",
+  "company": "pearlsoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "OPN"
+  ],
+  "archives": [
+   "watashi_98"
+  ],
+  "drivers": [
+   "MAGPA_98.COM",
+   "MUSDRV.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v72",
+   "title": "Watashi no Kuroneko",
+   "platforms": [
+    "win",
+    "lin",
+    "mac"
+   ],
+   "released": "2005-02-25",
+   "developers": [
+    "Natukusa"
+   ]
+  },
+  "conf": 0.4
+ },
+ {
+  "title": "まじかるパニック",
+  "company": "pearlsoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "OPN"
+  ],
+  "archives": [
+   "magicalp_98"
+  ],
+  "drivers": [
+   "MAGPA_98.COM",
+   "MUSDRV.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8788",
+   "title": "Magical Panic",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1996-07-12",
+   "developers": [
+    "Pearl Soft"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "サイバーイリュージョン",
+  "company": "pearlsoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "OPN"
+  ],
+  "archives": [
+   "cyberi_98"
+  ],
+  "drivers": [
+   "MAGPA_98.COM",
+   "MUSDRV.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8665",
+   "title": "Cyber Illusion",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1995-09-22",
+   "developers": [
+    "Pearl Soft"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "～Sweet Days～",
+  "company": "pearlsoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "OPN"
+  ],
+  "archives": [
+   "swetdays_98"
+  ],
+  "drivers": [
+   "MAGPA_98.COM",
+   "MUSDRV.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9095",
+   "title": "Koiimo Sweet ☆ Days",
+   "platforms": [
+    "win"
+   ],
+   "released": "2012-05-25",
+   "developers": [
+    "Parasol"
+   ]
+  },
+  "conf": 0.9
+ },
+ {
+  "title": "Check Six (�`�F�b�N�V�b�N�X �`�U�������ɒ��ӂ���`) (SC-55)",
+  "company": "pegasus_japan",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "checksix_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Check Six (�`�F�b�N�V�b�N�X �`�U�������ɒ��ӂ���`) (Vermouth)",
+  "company": "pegasus_japan",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "checksix_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Check Six 2 -Hekiku no Ohkami- (�`�F�b�N�V�b�N�X�Q �ɋ�̘T)",
+  "company": "pegasus_japan",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 EMU"
+  ],
+  "archives": [
+   "checksx2_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Check Six 2 -Hekiku no Ohkami- (�`�F�b�N�V�b�N�X�Q �ɋ�̘T) (SC-55)",
+  "company": "pegasus_japan",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "checksx2_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Check Six 2 -Hekiku no Ohkami- (�`�F�b�N�V�b�N�X�Q �ɋ�̘T) (Vermouth)",
+  "company": "pegasus_japan",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "checksx2_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Graystone Saga -Demon's Fountain- (�O���C�X�g���T�[�K ���E�̐�)",
+  "company": "pegasus_japan",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 EMU"
+  ],
+  "archives": [
+   "gssaga_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Graystone Saga -Demon's Fountain- (�O���C�X�g���T�[�K ���E�̐�) (SC-55)",
+  "company": "pegasus_japan",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "gssaga_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Graystone Saga -Demon's Fountain- (�O���C�X�g���T�[�K ���E�̐�) (Vermouth)",
+  "company": "pegasus_japan",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "gssaga_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Graystone Saga Gaiden -The Dark Storm of Morza- (�O���C�X�g���T�[�K�O�` �`�����̖��s�`) (SC-55)",
+  "company": "pegasus_japan",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "gsgaiden_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Graystone Saga Gaiden -The Dark Storm of Morza- (�O���C�X�g���T�[�K�O�` �`�����̖��s�`) (Vermouth)",
+  "company": "pegasus_japan",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "gsgaiden_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Round Warrior (���E���h�E�H�[���A) (SC-55)",
+  "company": "pegasus_japan",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "roundwar_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Round Warrior (���E���h�E�H�[���A) (Vermouth)",
+  "company": "pegasus_japan",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "roundwar_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "CHECK SIX",
+  "company": "pegasusjapan",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "checksix_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "CHECK SIX2 碧空の狼",
+  "company": "pegasusjapan",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "checksx2_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ROUND WARRIOR",
+  "company": "pegasusjapan",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "roundwar_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "グレイストンサーガ ～魔界の泉～",
+  "company": "pegasusjapan",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "gssaga_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "グレイストンサーガ外伝 ～動乱の魔都～",
+  "company": "pegasusjapan",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "gsgaiden_98"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "MUSPJ_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Advanced Dungeons &amp; Dragons / CHAMPIONS OF KRYNN",
+  "company": "ponyca",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "adndcok_98"
+  ],
+  "drivers": [
+   "MIDRV.COM",
+   "MIDRV_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Advanced Dungeons &amp; Dragons / DEATH KNIGHTS OF KRYNN",
+  "company": "ponyca",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "adnddkok_98"
+  ],
+  "drivers": [
+   "MIDRV.COM",
+   "MIDRV_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Ultima VI - The False Prophet -",
+  "company": "ponyca",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "u6_98"
+  ],
+  "drivers": [
+   "END.EXE",
+   "U6.COM",
+   "U6MIDI.DRV"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "卍PSY幽記",
+  "company": "psd",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "psyuki98"
+  ],
+  "drivers": [
+   "AMDPLAYM.COM",
+   "AMD_MI.COM",
+   "EMMDRV.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Foresight Dolly",
+  "company": "rightstuff",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "dolly_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v47440",
+   "title": "Foresight Dolly",
+   "platforms": [
+    "dos",
+    "p98"
+   ],
+   "released": "1994-11-11",
+   "developers": [
+    "Right Stuff"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Revery ～いざないの魔水晶～",
+  "company": "rightstuff",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "revery_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "38万キロの虚空",
+  "company": "sacom",
+  "systems": [
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "38k68snd",
+   "38mank98"
+  ],
+  "drivers": [
+   "MDDRV.COM",
+   "MIDIP.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v6994",
+   "title": "38-man Kilo no Kokuu",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98",
+    "x68"
+   ],
+   "released": "1989-10-21",
+   "developers": [
+    "System Sacom"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "みちよドリーミィ - THE QUIZ MASTER -",
+  "company": "sacom",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "michiyo98"
+  ],
+  "drivers": [
+   "MIDIB.COM",
+   "MIDIP.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Police Quest II: The Vengeance",
+  "company": "sierraonline",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "pq2_98"
+  ],
+  "drivers": [
+   "9801MT32.DRV",
+   "SCIV_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Quest for Glory",
+  "company": "sierraonline",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "qfg_98"
+  ],
+  "drivers": [
+   "9801MT32.DRV",
+   "SCIV_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "機甲装神ヴァルカイザー",
+  "company": "silence",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "valkzr98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8837",
+   "title": "Kikou Soushin Val-Kaizer",
+   "platforms": [
+    "p98",
+    "x68"
+   ],
+   "released": "1992-07-31",
+   "developers": [
+    "Silence"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "VIPER-BTR ～魔法の賭博師トトカル☆チョミ～",
+  "company": "sogna",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "v_btr_98"
+  ],
+  "drivers": [
+   "FAKECALL.COM",
+   "FMX.COM",
+   "FMXPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v10122",
+   "title": "Viper-BTR ~Mahou no Tobakushi Totokaru☆Chomi~",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1996-07-05",
+   "developers": [
+    "Sogna"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "VIPER-CTR ～あすか～",
+  "company": "sogna",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "v_ctr_98"
+  ],
+  "drivers": [
+   "FAKECALL.COM",
+   "FMX.COM",
+   "FMXPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v978",
+   "title": "Viper-CTR ~Asuka~",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1997-01-24",
+   "developers": [
+    "Sogna"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "VIPER-GTS RS ～悪魔は再び～",
+  "company": "sogna",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "v_gtsrs_98"
+  ],
+  "drivers": [
+   "FAKECALL.COM",
+   "FMX.COM",
+   "FMXPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "VIPER-V10 RS",
+  "company": "sogna",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "v_v10rs_98"
+  ],
+  "drivers": [
+   "FAKECALL.COM",
+   "FMX.COM",
+   "FMXPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8325",
+   "title": "Viper-V10",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98"
+   ],
+   "released": "1994-03-11",
+   "developers": [
+    "Sogna"
+   ]
+  },
+  "conf": 0.89
+ },
+ {
+  "title": "VIPER-V12",
+  "company": "sogna",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "v_v12_98"
+  ],
+  "drivers": [
+   "FAKECALL.COM",
+   "FMX.COM",
+   "FMXPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v7493",
+   "title": "Viper-V12",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98"
+   ],
+   "released": "1995-04-21",
+   "developers": [
+    "Sogna"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "VIPER-V16",
+  "company": "sogna",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "v_v16_98"
+  ],
+  "drivers": [
+   "FAKECALL.COM",
+   "FMX.COM",
+   "FMXPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v3415",
+   "title": "Viper-V16",
+   "platforms": [
+    "win",
+    "gba",
+    "p98"
+   ],
+   "released": "1995-12-22",
+   "developers": [
+    "Sogna"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "VIPER-V6 RS",
+  "company": "sogna",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "v_v6rs_98"
+  ],
+  "drivers": [
+   "FAKECALL.COM",
+   "FMX.COM",
+   "FMXPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8326",
+   "title": "Viper-V6",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98",
+    "x68"
+   ],
+   "released": "1993-06-25",
+   "developers": [
+    "Sogna"
+   ]
+  },
+  "conf": 0.88
+ },
+ {
+  "title": "VIPER-V8 RS",
+  "company": "sogna",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "v_v8rs_98"
+  ],
+  "drivers": [
+   "FAKECALL.COM",
+   "FMX.COM",
+   "FMXPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8327",
+   "title": "Viper-V8",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98",
+    "x68"
+   ],
+   "released": "1993-09-10",
+   "developers": [
+    "Sogna"
+   ]
+  },
+  "conf": 0.88
+ },
+ {
+  "title": "あにまーじゃんX",
+  "company": "sogna",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "anmx_98"
+  ],
+  "drivers": [
+   "FAKECALL.COM",
+   "FMX.COM",
+   "FMXPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v10215",
+   "title": "Animahjong  X",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1994-09-14",
+   "developers": [
+    "Sogna"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Clone Doll Kagaijyugyou (�N���[���h�[�� �ۊO����) (SC-55)",
+  "company": "space_project",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "c_doll_98"
+  ],
+  "drivers": [
+   "MIDRV_98.COM",
+   "MIDRV_LT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Clone Doll Kagaijyugyou (�N���[���h�[�� �ۊO����) (Vermouth)",
+  "company": "space_project",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "c_doll_98"
+  ],
+  "drivers": [
+   "MIDRV_98.COM",
+   "MIDRV_LT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Seiyoku Gakuen Serafita (�����w���Z���t�B�^)",
+  "company": "space_project",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-88"
+  ],
+  "archives": [
+   "seraphita_98"
+  ],
+  "drivers": [
+   "MIDRV_98.COM",
+   "MIDRV_LT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Seiyoku Gakuen Serafita (�����w���Z���t�B�^) (Vermouth)",
+  "company": "space_project",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "seraphita_98"
+  ],
+  "drivers": [
+   "MIDRV_98.COM",
+   "MIDRV_LT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "クローンドール 課外授業",
+  "company": "spaceproject",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "c_doll_98"
+  ],
+  "drivers": [
+   "MIDRV_98.COM",
+   "MIDRV_LT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v5679",
+   "title": "Clone Doll Kagai Jugyou",
+   "platforms": [
+    "win",
+    "dos",
+    "p98"
+   ],
+   "released": "1995-12-21",
+   "developers": [
+    "Space Project"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "聖翼学園Seraphita",
+  "company": "spaceproject",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "seraphit_98"
+  ],
+  "drivers": [
+   "MIDRV_98.COM",
+   "MIDRV_LT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9077",
+   "title": "Seiyoku Gakuen Seraphita",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1997-02-07",
+   "developers": [
+    "Space Project"
+   ]
+  },
+  "conf": 0.51
+ },
+ {
+  "title": "Hinadori no Saezuri (�����̚�)",
+  "company": "studio_b-room",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-88"
+  ],
+  "archives": [
+   "hinadori_98"
+  ],
+  "drivers": [
+   "VALKY_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Hinadori no Saezuri (�����̚�) (SC-55)",
+  "company": "studio_b-room",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "hinadori_98"
+  ],
+  "drivers": [
+   "VALKY_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Hinadori no Saezuri (�����̚�) (Vermouth)",
+  "company": "studio_b-room",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "hinadori_98"
+  ],
+  "drivers": [
+   "VALKY_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Akumu - Aoi Kajitsu no Sanka (���� �`���ʎ��̎U�ԁ`) (SC-55)",
+  "company": "studio_mobius",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "akumu_98"
+  ],
+  "drivers": [
+   "MINT.COM",
+   "NLP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Akumu - Aoi Kajitsu no Sanka (���� �`���ʎ��̎U�ԁ`) (Vermouth)",
+  "company": "studio_mobius",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "akumu_98"
+  ],
+  "drivers": [
+   "MINT.COM",
+   "NLP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Bunretsu Shugyo Shin Twinkle Star (������_�g�D�C���N�����X�^�[)",
+  "company": "studio_twinkle",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "CM-64",
+   "MT-32",
+   "MT-32 EMU"
+  ],
+  "archives": [
+   "tstar_98"
+  ],
+  "drivers": [
+   "TSTAR.EXE",
+   "TSTAR_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Bunretsu Shugyo Shin Twinkle Star (������_�g�D�C���N�����X�^�[) (SC-55)",
+  "company": "studio_twinkle",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "tstar_98"
+  ],
+  "drivers": [
+   "TSTAR.EXE",
+   "TSTAR_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Bunretsu Shugyo Shin Twinkle Star (������_�g�D�C���N�����X�^�[) (Vermouth)",
+  "company": "studio_twinkle",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "tstar_98"
+  ],
+  "drivers": [
+   "TSTAR.EXE",
+   "TSTAR_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Kagami -Mirror- (�� -mirror-)",
+  "company": "studio_twinkle",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "CM-64",
+   "MT-32",
+   "MT-32 EMU"
+  ],
+  "archives": [
+   "mirror_98"
+  ],
+  "drivers": [
+   "MIRROR1.EXE",
+   "MIRRO_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Kagami -Mirror- (�� -mirror-) (SC-55)",
+  "company": "studio_twinkle",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "mirror_98"
+  ],
+  "drivers": [
+   "MIRROR1.EXE",
+   "MIRRO_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Kagami -Mirror- (�� -mirror-) (Vermouth)",
+  "company": "studio_twinkle",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "mirror_98"
+  ],
+  "drivers": [
+   "MIRROR1.EXE",
+   "MIRRO_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Mime (���� -MIME-) (SC-55)",
+  "company": "studio_twinkle",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "mime_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Mime (���� -MIME-) (Vermouth)",
+  "company": "studio_twinkle",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "mime_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "雛鳥の囀",
+  "company": "studiobroom",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "SC-88"
+  ],
+  "archives": [
+   "hinadori_98"
+  ],
+  "drivers": [
+   "VALKY_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v4499",
+   "title": "Kara no Naka no Kotori",
+   "platforms": [
+    "win",
+    "dvd",
+    "p98"
+   ],
+   "released": "1996-02-29",
+   "developers": [
+    "BLACK PACKAGE"
+   ]
+  },
+  "conf": 0.2
+ },
+ {
+  "title": "雛鳥の囀 イメージデモ",
+  "company": "studiobroom",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "SC-88"
+  ],
+  "archives": [
+   "hinademo_98"
+  ],
+  "drivers": [
+   "VALKY_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "悪夢 ～青い果実の散花～",
+  "company": "studiomobius",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "akumu_98"
+  ],
+  "drivers": [
+   "MINT.COM",
+   "NLP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v2026",
+   "title": "Akumu ~Aoi Kajitsu no Sanka~",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1996-04-26",
+   "developers": [
+    "Studio Mebius"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "分裂守護神トゥインクル☆スター",
+  "company": "studiotwinkle",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "CM-64",
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "tstar_98"
+  ],
+  "drivers": [
+   "TSTAR.EXE",
+   "TSTAR_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v6995",
+   "title": "Bunretsu Shugoshin Twinkle☆Star",
+   "platforms": [
+    "fmt",
+    "p98"
+   ],
+   "released": "1993-07-29",
+   "developers": [
+    "Studio Twinkle"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "舞夢 -MIME-",
+  "company": "studiotwinkle",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "mime_98"
+  ],
+  "drivers": [
+   "MMD.COM",
+   "MMP_HOOT.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "鏡 -mirror-",
+  "company": "studiotwinkle",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "CM-64",
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "mirror_98"
+  ],
+  "drivers": [
+   "MIRROR1.EXE",
+   "MIRRO_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8660",
+   "title": "Mirror",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1992-12-09",
+   "developers": [
+    "Studio Twinkle"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Photo Genic",
+  "company": "sunsoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "photog_98"
+  ],
+  "drivers": [
+   "IBGM.EXE",
+   "IBGMPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v6292",
+   "title": "Photo Genic",
+   "platforms": [
+    "win",
+    "p98",
+    "ps1",
+    "sat"
+   ],
+   "released": "1997-05-16",
+   "developers": [
+    "Zero System",
+    "Fill in Cafe"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "38 Man Kilo no Kokuu (38���L���̋���)",
+  "company": "system_sacom",
+  "systems": [
+   "PC-98",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 EMU"
+  ],
+  "archives": [
+   "38k68snd",
+   "38mank98"
+  ],
+  "drivers": [
+   "MDDRV.COM",
+   "MIDIP.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Michiyo Dreamy: The Quiz Master (�݂���h���[�~�B -THE QUIZ MASTER-) (SC-55)",
+  "company": "system_sacom",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "michiyo98"
+  ],
+  "drivers": [
+   "MIDIB.COM",
+   "MIDIP.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Michiyo Dreamy: The Quiz Master (�݂���h���[�~�B -THE QUIZ MASTER-) (Vermouth)",
+  "company": "system_sacom",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "michiyo98"
+  ],
+  "drivers": [
+   "MIDIB.COM",
+   "MIDIP.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "のぞき屋稼業",
+  "company": "t2",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "nzkykg_98"
+  ],
+  "drivers": [
+   "IBGM.EXE",
+   "IBGMPM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8993",
+   "title": "Nozokiya Kagyou",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1995-02-24",
+   "developers": [
+    "T2 Co., Ltd."
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "妖撃隊 ～邪神降魔録～",
+  "company": "telenet",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32 Emulation",
+   "MT-32/CM-64"
+  ],
+  "archives": [
+   "yogeki98"
+  ],
+  "drivers": [
+   "MMUDRV.COM",
+   "ZAN3_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "官能教習(SC-55)",
+  "company": "tetratech",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "lesson_98"
+  ],
+  "drivers": [
+   "INT33DMY.COM",
+   "MIDIDR98.COM",
+   "MIDIDRV.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "EDGE",
+  "company": "tgl",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "edge98"
+  ],
+  "drivers": [
+   "FMP2.COM",
+   "TGLFMP2.COM",
+   "TSET.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v920",
+   "title": "Scarred Gem - Jeonglyeongseog-ui Guae",
+   "platforms": [
+    "win"
+   ],
+   "released": "2001-11-23",
+   "developers": [
+    "Artlim Media"
+   ]
+  },
+  "conf": 0.23
+ },
+ {
+  "title": "EDGE(SC-55)",
+  "company": "tgl",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "edge98"
+  ],
+  "drivers": [
+   "FMP2.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "SWORD DANCER",
+  "company": "tgl",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "CM-64",
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "sd_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "SWORD DANCER 増刊号",
+  "company": "tgl",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "CM-64",
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "sdz_98"
+  ],
+  "drivers": [
+   "MIDI.COM",
+   "TGLMFM.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "SWORD DANCER 増刊号'93",
+  "company": "tgl",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "sdz93_98"
+  ],
+  "drivers": [
+   "FMP2.COM",
+   "TGLFMP2.COM",
+   "TSET.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "あっぱれ伝 -伏龍の章-",
+  "company": "tgl",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "appare98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ソードダンサー 凶刃の女神",
+  "company": "tgl",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "SC-88"
+  ],
+  "archives": [
+   "sdg_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ファーランドストーリー",
+  "company": "tgl",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "fs1_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ファーランドストーリー 大地の絆",
+  "company": "tgl",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "fs5_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ファーランドストーリー 天使の涙",
+  "company": "tgl",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "fs3_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ファーランドストーリー 獣王の証",
+  "company": "tgl",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "fs7_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ファーランドストーリー 白銀の翼",
+  "company": "tgl",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "fs4_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ファーランドストーリー 神々の遺産",
+  "company": "tgl",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "fs6_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ファーランドストーリー伝記 アーク王の遠征",
+  "company": "tgl",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "fs2_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "機装神伝ゲンカイザー",
+  "company": "tgl",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "genkai_98"
+  ],
+  "drivers": [
+   "FMP3.COM",
+   "TGLFMP2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Hiiragisaka no Kyukan (�A��̋���) (SC-55)",
+  "company": "u-mesoft",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "hiiragi98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Hiiragisaka no Kyukan (�A��̋���) (Vermouth)",
+  "company": "u-mesoft",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "hiiragi98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Momoko-chan for Me (����������� for me �`���K���Ō�w�ҁ`) (SC-55)",
+  "company": "u-mesoft",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "momoko_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Momoko-chan for Me (����������� for me �`���K���Ō�w�ҁ`) (Vermouth)",
+  "company": "u-mesoft",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "momoko_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Paparazzo (�p�p���b�`) (SC-55)",
+  "company": "u-mesoft",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "papara98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Paparazzo (�p�p���b�`) (Vermouth)",
+  "company": "u-mesoft",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "papara98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Yumemizaka &amp; Collections (������R���N�V�����Y) (SC-55)",
+  "company": "u-mesoft",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "yumecol_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Yumemizaka &amp; Collections (������R���N�V�����Y) (Vermouth)",
+  "company": "u-mesoft",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "yumecol_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Legam (���K��) (SC-55)",
+  "company": "u-office",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "SC-55"
+  ],
+  "archives": [
+   "legam"
+  ],
+  "drivers": [
+   "MMDR.COM",
+   "MMDR_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Legam (���K��) (Vermouth)",
+  "company": "u-office",
+  "systems": [
+   "PC-98"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "Vermouth"
+  ],
+  "archives": [
+   "legam"
+  ],
+  "drivers": [
+   "MMDR.COM",
+   "MMDR_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Legam",
+  "company": "u_office",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "legam_98"
+  ],
+  "drivers": [
+   "MMDR.COM",
+   "MMDR_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v4156",
+   "title": "Sailor Pluto Tentacle Game",
+   "platforms": [
+    "win"
+   ],
+   "released": "2009-12-16",
+   "developers": [
+    "Frey"
+   ]
+  },
+  "conf": 0.36
+ },
+ {
+  "title": "CHERRY MODERATE",
+  "company": "ucom",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "cherrym_98"
+  ],
+  "drivers": [
+   "AD.EXE",
+   "CMODE_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8627",
+   "title": "Cherry Moderate",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1996-10-25",
+   "developers": [
+    "Ucom"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "文化祭",
+  "company": "ucom",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "bunka_98"
+  ],
+  "drivers": [
+   "AD.EXE",
+   "BUNKA_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v4168",
+   "title": "Yasou Bunkasai",
+   "platforms": [
+    "win"
+   ],
+   "released": "2001-03-23",
+   "developers": [
+    "PEACH"
+   ]
+  },
+  "conf": 0.75
+ },
+ {
+  "title": "ももこちゃん for Me 見習い看護婦編",
+  "company": "umesoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "momoko_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v6206",
+   "title": "Momoko-chan for Me",
+   "platforms": [
+    "win",
+    "dvd",
+    "p98"
+   ],
+   "released": "1995-12-01",
+   "developers": [
+    "U･Me SOFT"
+   ]
+  },
+  "conf": 0.76
+ },
+ {
+  "title": "パパラッチ",
+  "company": "umesoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "papa_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v5566",
+   "title": "Yumemizaka",
+   "platforms": [
+    "win",
+    "dos",
+    "mac",
+    "dvd",
+    "p98"
+   ],
+   "released": "1995-06-30",
+   "developers": [
+    "U･Me SOFT"
+   ]
+  },
+  "conf": 0.0
+ },
+ {
+  "title": "夢見坂コレクションズ",
+  "company": "umesoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "yumecol_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "柊坂の旧館",
+  "company": "umesoft",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "hiragi_98"
+  ],
+  "drivers": [
+   "FMD.EXE",
+   "FUGAM_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v5568",
+   "title": "Hiiragizaka no Kyuukan",
+   "platforms": [
+    "win",
+    "dvd",
+    "p98"
+   ],
+   "released": "1996-09-27",
+   "developers": [
+    "U･Me SOFT"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "スーパーリアル麻雀PIV FINAL",
+  "company": "ving",
+  "systems": [
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GM"
+  ],
+  "archives": [
+   "srmp4_21"
+  ],
+  "drivers": [
+   "MUSIC.COM",
+   "SRMP4_21.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Bell's Avenue",
+  "company": "wendymagazine",
+  "systems": [
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "belsavn168snd",
+   "belsavn1_98"
+  ],
+  "drivers": [
+   "SYNPLAY.EXE",
+   "SYNUPS.COM",
+   "SYNUP_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8651",
+   "title": "Bell's Avenue",
+   "platforms": [
+    "fmt",
+    "p98",
+    "x68"
+   ],
+   "released": "1993-03-12",
+   "developers": [
+    "Wendy Magazine",
+    "Signa Works"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "Bell's Avenue vol.2",
+  "company": "wendymagazine",
+  "systems": [
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "belsavn268snd",
+   "belsavn2_98"
+  ],
+  "drivers": [
+   "SYNPLAY.EXE",
+   "SYNUPS.COM",
+   "SYNUP_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Grand Prix CIRCUS",
+  "company": "westside",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "gpcircus_98"
+  ],
+  "drivers": [
+   "GPCIRCUS.COM",
+   "MDDRV.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Grand Prix CIRCUS 2",
+  "company": "westside",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "gpc2_98"
+  ],
+  "drivers": [
+   "GPC2.COM",
+   "MDDRV.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "CRW2",
+  "company": "wiz",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "crw2_98"
+  ],
+  "drivers": [
+   "ARC_DRV.EXE",
+   "CRW2M_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "ARCUS III",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "arcus398"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "D [欧州蜃気楼]",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32 Emulation",
+   "MT-32/CM-64"
+  ],
+  "archives": [
+   "d_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "DIAMOND PLAYERS",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32 Emulation",
+   "MT-32/CM-64"
+  ],
+  "archives": [
+   "dmdply98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "GULF WAR 蒼鋼伝",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32 Emulation",
+   "MT-32/CM-64"
+  ],
+  "archives": [
+   "gulfwr98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Niko^2",
+  "company": "wolfteam",
+  "systems": [
+   "PC-8801",
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "niko2",
+   "niko268snd",
+   "niko2_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Ryu ～哭きの竜より～",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801",
+   "X68000"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "CM-64",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "ryu68snd",
+   "ryu98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "SUZAKU",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "suzaku98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v3658",
+   "title": "Suzaku no Namida -Izumi Tantei Jimusho VS Kaitou Silver Knight-",
+   "platforms": [
+    "win"
+   ],
+   "released": "2002-11-11",
+   "developers": [
+    "Tomo & Yuri GAMEZONE"
+   ]
+  },
+  "conf": 0.21
+ },
+ {
+  "title": "Span of Dream",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32 Emulation",
+   "MT-32/CM-64"
+  ],
+  "archives": [
+   "spanof98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "THE GRAIL HUNTER",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "grail98"
+  ],
+  "drivers": [
+   "FAKE_48.COM",
+   "GRAIL98.COM",
+   "MMUDRV.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "大東亜黙示録 轟",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "gou_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "天舞 LIMITED / 満漢全席",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32 Emulation",
+   "MT-32/CM-64"
+  ],
+  "archives": [
+   "tenbul98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "天舞 －三國志正史－",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32 Emulation",
+   "MT-32/CM-64"
+  ],
+  "archives": [
+   "tenbu98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "斬 II ～陽炎の時代～",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "zan2_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "斬 II ～陽炎の時代～ 総集編",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "zan2s_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "斬 III ～天運我にあり～",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32 Emulation",
+   "MT-32/CM-64"
+  ],
+  "archives": [
+   "zan3_98"
+  ],
+  "drivers": [
+   "FAKE_F2.COM",
+   "MMUDRV.COM",
+   "ZAN3_98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "斬 ～夜叉円舞曲～",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "zanyks98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "新撰組 ～幕末幻視行～",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32 Emulation",
+   "MT-32/CM-64"
+  ],
+  "archives": [
+   "ssg98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v10764",
+   "title": "Shinsengumi - Bakumatsu Genshikou",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1991-11-10",
+   "developers": [
+    "Wolf Team"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "東京Twilight Busters ～禁断の生贄帝都地獄変～",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS"
+  ],
+  "archives": [
+   "tbs98"
+  ],
+  "drivers": [
+   "FAKE_48.COM",
+   "MMUDRV.COM",
+   "TBS98.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "緋王伝",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32 Emulation",
+   "MT-32/CM-64"
+  ],
+  "archives": [
+   "hioden98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "緋王伝 II",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32 Emulation",
+   "MT-32/CM-64"
+  ],
+  "archives": [
+   "hiodn298"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "緋王伝 II'HD",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32 Emulation",
+   "MT-32/CM-64"
+  ],
+  "archives": [
+   "hio2hd98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "轟 II",
+  "company": "wolfteam",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "MT-32 Emulation",
+   "MT-32/CM-64"
+  ],
+  "archives": [
+   "gou2_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "Let's!パイレーツ ～とらぶる・ばかんす～",
+  "company": "zyx",
+  "systems": [
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "letpirat_21"
+  ],
+  "drivers": [
+   "DOFMDX98.COM",
+   "ZVA21.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v8330",
+   "title": "Let's! Pirates Trouble Vacances",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1997-02-07",
+   "developers": [
+    "ZyX"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "TRIGGER2",
+  "company": "zyx",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "trigger2_21",
+   "trigger2_98"
+  ],
+  "drivers": [
+   "DOFMDC98.COM",
+   "IDA2.COM"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v9135",
+   "title": "Trigger 2",
+   "platforms": [
+    "fmt",
+    "p98"
+   ],
+   "released": "1995-08-25",
+   "developers": [
+    "ZyX"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "TWILIGHT HOTEL ～トワイライトホテル～",
+  "company": "zyx",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "thotel_21",
+   "thotel_98"
+  ],
+  "drivers": [
+   "DOFMDX98.COM",
+   "ZVA.EXE",
+   "ZVA21.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": null,
+  "conf": null
+ },
+ {
+  "title": "リング・アウト!!",
+  "company": "zyx",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "ringout_21",
+   "ringout_98"
+  ],
+  "drivers": [
+   "DOFMDX98.COM",
+   "ZVA21F.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v1189",
+   "title": "Ring Out!!",
+   "platforms": [
+    "win",
+    "lin",
+    "mac",
+    "fmt",
+    "p98",
+    "web"
+   ],
+   "released": "1995-04-21",
+   "developers": [
+    "ZyX"
+   ]
+  },
+  "conf": 0.92
+ },
+ {
+  "title": "学園爆裂転校生!",
+  "company": "zyx",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "gbakuten_21",
+   "gbakuten_98"
+  ],
+  "drivers": [
+   "DOFMDX98.COM",
+   "ZVA21.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v7832",
+   "title": "Gakuen Bakuretsu Tenkousei!",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98"
+   ],
+   "released": "1995-10-20",
+   "developers": [
+    "ZyX"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "雷の戦士ライディ",
+  "company": "zyx",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "laidi1_21",
+   "laidi1_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v158",
+   "title": "Ikazuchi no Senshi Raidy",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98"
+   ],
+   "released": "1994-09-20",
+   "developers": [
+    "ZyX"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "雷の戦士ライディ2",
+  "company": "zyx",
+  "systems": [
+   "PC-9801",
+   "PC-9821"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "laidi2_21",
+   "laidi2_98"
+  ],
+  "drivers": [
+   "DOFMDX98.COM",
+   "ZVA21.EXE",
+   "ZVA98.EXE"
+  ],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v603",
+   "title": "Ikazuchi no Senshi Raidy 2",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98"
+   ],
+   "released": "1995-12-22",
+   "developers": [
+    "ZyX"
+   ]
+  },
+  "conf": 1.0
+ },
+ {
+  "title": "高見沢恭介 熱血!! 教育研修",
+  "company": "zyx",
+  "systems": [
+   "PC-9801"
+  ],
+  "pc98_midi": true,
+  "variants": [
+   "GS",
+   "MT-32",
+   "MT-32 Emulation"
+  ],
+  "archives": [
+   "kyouiku_98"
+  ],
+  "drivers": [],
+  "win_midi": null,
+  "source": null,
+  "status": "A",
+  "vndb": {
+   "id": "v7831",
+   "title": "Takamisawa Kyousuke Nekketsu!! Kyouiku Kenshuu",
+   "platforms": [
+    "fmt",
+    "p98"
+   ],
+   "released": "1994-12-22",
+   "developers": [
+    "ZyX"
+   ]
+  },
+  "conf": 1.0
+ }
+]

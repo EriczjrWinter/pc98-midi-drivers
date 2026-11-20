@@ -1,0 +1,1763 @@
+[
+ {
+  "dir": "Ace of Spades",
+  "midi": 8,
+  "exts": {
+   ".mid": 8
+  },
+  "vndb": {
+   "id": "v8467",
+   "title": "ACE OF SPADES 2",
+   "alttitle": null,
+   "platforms": [
+    "win"
+   ],
+   "released": "1998-06-26"
+  }
+ },
+ {
+  "dir": "Ai_ga_Mie_Hajimetara",
+  "midi": 8,
+  "exts": {
+   ".py": 1,
+   ".mid": 8
+  },
+  "vndb": {
+   "id": "v2014",
+   "title": "Ai ga Mie Hajimetara",
+   "alttitle": "愛が見えはじめたら",
+   "platforms": [
+    "win"
+   ],
+   "released": "1997-06-27"
+  }
+ },
+ {
+  "dir": "Albaria no Otome",
+  "midi": 19,
+  "exts": {
+   ".mid": 19
+  },
+  "vndb": {
+   "id": "v4856",
+   "title": "Albaria no Otome",
+   "alttitle": "アルバレアの乙女",
+   "platforms": [
+    "pcf",
+    "psp",
+    "ps1",
+    "ps3",
+    "psv"
+   ],
+   "released": "1997-06-27"
+  }
+ },
+ {
+  "dir": "Amy's Fantasies (1996)",
+  "midi": 70,
+  "exts": {
+   ".jpg": 1,
+   ".txt": 1,
+   ".py": 1,
+   ".mid": 70
+  },
+  "vndb": {
+   "id": "v734",
+   "title": "Eimmy to Yobanaide",
+   "alttitle": "エイミーと呼ばないでっ",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98",
+    "web"
+   ],
+   "released": "1995-05-19"
+  }
+ },
+ {
+  "dir": "Angel Halo (1996)",
+  "midi": 19,
+  "exts": {
+   ".jpg": 1,
+   ".txt": 1,
+   ".mid": 19
+  },
+  "vndb": {
+   "id": "v6958",
+   "title": "Angel Halo",
+   "alttitle": "Angel Halo－エンジェル・ハイロウ－",
+   "platforms": [
+    "win",
+    "mac",
+    "fmt",
+    "p98"
+   ],
+   "released": "1996-10-17"
+  }
+ },
+ {
+  "dir": "Ano,_Subarashii_o_Mou_Ichido_(Sharp_X68000)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 16,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v14815",
+   "title": "Ano, Subarashii  o Mou Ichido",
+   "alttitle": "あの、素晴らしい　　をもう一度",
+   "platforms": [
+    "win",
+    "ios",
+    "swi",
+    "x68"
+   ],
+   "released": "1999-09-15"
+  }
+ },
+ {
+  "dir": "Brave_Soul",
+  "midi": 44,
+  "exts": {
+   ".mid": 44,
+   ".wav": 1,
+   ".ogg": 4
+  },
+  "vndb": {
+   "id": "v117",
+   "title": "Brave Soul",
+   "alttitle": null,
+   "platforms": [
+    "win"
+   ],
+   "released": "2001-03-30"
+  }
+ },
+ {
+  "dir": "Can_Can_Bunny_Extra_(Sharp_X68000)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 11,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v169",
+   "title": "Pia♥Carrot e Youkoso!! ~We've Been Waiting for You~",
+   "alttitle": "Pia♥キャロットへようこそ!! ～We've been waiting for you～",
+   "platforms": [
+    "win",
+    "p98",
+    "pcf",
+    "sat"
+   ],
+   "released": "1996-07-26"
+  }
+ },
+ {
+  "dir": "Chiruhana_Kindan_no_Ketsuzoku",
+  "midi": 14,
+  "exts": {
+   ".mid": 14
+  },
+  "vndb": {
+   "id": "v2662",
+   "title": "Chiruhana ~Kindan no Ketsuzoku~",
+   "alttitle": "散櫻 ～禁断の血族～",
+   "platforms": [
+    "win"
+   ],
+   "released": "1999-01-29"
+  }
+ },
+ {
+  "dir": "Cosmic_Psycho_(MSX2)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 23,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v9356",
+   "title": "Cosmic Psycho",
+   "alttitle": "コズミックサイコ",
+   "platforms": [
+    "msx",
+    "p88",
+    "p98",
+    "x68"
+   ],
+   "released": "1991-09-14"
+  }
+ },
+ {
+  "dir": "Cosmic_Psycho_(NEC_PC-8801 PC-9801)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 23,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v9356",
+   "title": "Cosmic Psycho",
+   "alttitle": "コズミックサイコ",
+   "platforms": [
+    "msx",
+    "p88",
+    "p98",
+    "x68"
+   ],
+   "released": "1991-09-14"
+  }
+ },
+ {
+  "dir": "Cosmic_Psycho_(Sharp_X68000)",
+  "midi": 1,
+  "exts": {
+   ".vgz": 29,
+   ".mid": 1,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v9356",
+   "title": "Cosmic Psycho",
+   "alttitle": "コズミックサイコ",
+   "platforms": [
+    "msx",
+    "p88",
+    "p98",
+    "x68"
+   ],
+   "released": "1991-09-14"
+  }
+ },
+ {
+  "dir": "DALK",
+  "midi": 22,
+  "exts": {
+   ".mid": 22,
+   ".vgm": 2
+  },
+  "vndb": {
+   "id": "v1798",
+   "title": "DALK",
+   "alttitle": null,
+   "platforms": [
+    "win",
+    "fmt",
+    "p98",
+    "x68"
+   ],
+   "released": "1992-12-15"
+  }
+ },
+ {
+  "dir": "DIVIDEAD",
+  "midi": 13,
+  "exts": {
+   ".mid": 13,
+   ".vgm": 2,
+   ".py": 1
+  },
+  "vndb": {
+   "id": "v119",
+   "title": "DIVI-DEAD",
+   "alttitle": null,
+   "platforms": [
+    "win",
+    "psp",
+    "drc",
+    "vnd",
+    "xb1",
+    "web"
+   ],
+   "released": "1998-01-23"
+  }
+ },
+ {
+  "dir": "DOR",
+  "midi": 34,
+  "exts": {
+   ".mid": 34,
+   ".vgm": 3
+  },
+  "vndb": {
+   "id": "v4",
+   "title": "CLANNAD",
+   "alttitle": null,
+   "platforms": [
+    "win",
+    "ios",
+    "and",
+    "psp",
+    "ps2",
+    "ps3",
+    "ps4",
+    "psv",
+    "swi",
+    "vnd",
+    "xb3",
+    "mob"
+   ],
+   "released": "2004-04-28"
+  }
+ },
+ {
+  "dir": "DR2ナイト雀鬼",
+  "midi": 18,
+  "exts": {
+   ".mid": 18
+  },
+  "vndb": {
+   "id": "v448",
+   "title": "DR2 Night Janki",
+   "alttitle": "DR2ナイト雀鬼",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1995-02-24"
+  }
+ },
+ {
+  "dir": "Dangel",
+  "midi": 53,
+  "exts": {
+   ".mid": 53
+  },
+  "vndb": {
+   "id": "v3413",
+   "title": "Sono Hanabira ni Kuchizuke o: Tenshi no Hanabira Zome",
+   "alttitle": "その花びらにくちづけを 天使の花びら染め",
+   "platforms": [
+    "win",
+    "lin",
+    "mac",
+    "and",
+    "vnd"
+   ],
+   "released": "2010-02-12"
+  }
+ },
+ {
+  "dir": "Dhampir",
+  "midi": 16,
+  "exts": {
+   ".mid": 16
+  },
+  "vndb": {
+   "id": "v9759",
+   "title": "Dhampir",
+   "alttitle": null,
+   "platforms": [
+    "win"
+   ],
+   "released": "2001-08-31"
+  }
+ },
+ {
+  "dir": "Doko made mo Aoku_(PS1)",
+  "midi": 27,
+  "exts": {
+   ".mid": 27,
+   ".vb": 27,
+   ".vh": 27
+  },
+  "vndb": {
+   "id": "v1107",
+   "title": "Hateshinaku Aoi, Kono Sora no Shita de...",
+   "alttitle": "果てしなく青い、この空の下で…",
+   "platforms": [
+    "win",
+    "ps1"
+   ],
+   "released": "2000-06-30"
+  }
+ },
+ {
+  "dir": "Doukyusei",
+  "midi": 0,
+  "exts": {
+   ".vgz": 246,
+   ".m3u": 5,
+   ".png": 6,
+   ".txt": 5
+  },
+  "vndb": null
+ },
+ {
+  "dir": "Doukyusei_2",
+  "midi": 78,
+  "exts": {
+   ".vgz": 138,
+   ".m3u": 3,
+   ".png": 4,
+   ".txt": 3,
+   ".flac": 45,
+   ".mid": 78,
+   ".wav": 50,
+   ".vgm": 25,
+   ".sf2": 33,
+   ".spc": 22
+  },
+  "vndb": null
+ },
+ {
+  "dir": "Dragon_Knight_4_(SFC)",
+  "midi": 42,
+  "exts": {
+   ".mid": 42,
+   ".wav": 2,
+   ".sf2": 42
+  },
+  "vndb": {
+   "id": "v498",
+   "title": "Dragon Knight 4",
+   "alttitle": "ドラゴンナイト4",
+   "platforms": [
+    "win",
+    "dos",
+    "fmt",
+    "p98",
+    "pcf",
+    "ps1",
+    "sfc",
+    "x68"
+   ],
+   "released": "1994-02-25"
+  }
+ },
+ {
+  "dir": "Dragon_Knight_4_(Sharp_X68000)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 48,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v498",
+   "title": "Dragon Knight 4",
+   "alttitle": "ドラゴンナイト4",
+   "platforms": [
+    "win",
+    "dos",
+    "fmt",
+    "p98",
+    "pcf",
+    "ps1",
+    "sfc",
+    "x68"
+   ],
+   "released": "1994-02-25"
+  }
+ },
+ {
+  "dir": "Dual_Soul",
+  "midi": 210,
+  "exts": {
+   ".mid": 210
+  },
+  "vndb": {
+   "id": "v3310",
+   "title": "Dual Soul",
+   "alttitle": "デュアルソウル",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1995-04-15"
+  }
+ },
+ {
+  "dir": "EVE_burst_error_(NEC_PC-9801)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 49,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v147",
+   "title": "EVE burst error",
+   "alttitle": null,
+   "platforms": [
+    "win",
+    "p98",
+    "ps2",
+    "ps4",
+    "psv",
+    "sat",
+    "swi",
+    "web"
+   ],
+   "released": "1995-11-22"
+  }
+ },
+ {
+  "dir": "EVE_burst_error_(WIN95)",
+  "midi": 64,
+  "exts": {
+   ".py": 1,
+   ".mid": 64
+  },
+  "vndb": {
+   "id": "v147",
+   "title": "EVE burst error",
+   "alttitle": null,
+   "platforms": [
+    "win",
+    "p98",
+    "ps2",
+    "ps4",
+    "psv",
+    "sat",
+    "swi",
+    "web"
+   ],
+   "released": "1995-11-22"
+  }
+ },
+ {
+  "dir": "Efficus - Kono Omoi o Kimi",
+  "midi": 51,
+  "exts": {
+   ".mid": 51
+  },
+  "vndb": {
+   "id": "v25330",
+   "title": "Efficus: Kono Omoi o Kimi ni...",
+   "alttitle": "エフィカス この想いを君に…",
+   "platforms": [
+    "ps1"
+   ],
+   "released": "1998-10-01"
+  }
+ },
+ {
+  "dir": "FATE Relations",
+  "midi": 25,
+  "exts": {
+   ".mid": 25
+  },
+  "vndb": {
+   "id": "v11205",
+   "title": "Unmei ga Kimi no Oya o Erabu Kimi no Yuujin wa Kimi ga Erabu",
+   "alttitle": "運命が君の親を選ぶ　君の友人は君が選ぶ",
+   "platforms": [
+    "win"
+   ],
+   "released": "2013-03-29"
+  }
+ },
+ {
+  "dir": "Farland_Saga",
+  "midi": 28,
+  "exts": {
+   ".mid": 28,
+   ".vgm": 2,
+   ".wav": 1,
+   ".py": 1
+  },
+  "vndb": null
+ },
+ {
+  "dir": "Farland_Saga_Toki_no_Michishirube",
+  "midi": 25,
+  "exts": {
+   ".mid": 25
+  },
+  "vndb": null
+ },
+ {
+  "dir": "Filsnown",
+  "midi": 43,
+  "exts": {
+   ".mid": 43
+  },
+  "vndb": null
+ },
+ {
+  "dir": "Gensou no Artemis",
+  "midi": 21,
+  "exts": {
+   ".mid": 21,
+   ".sf2": 1
+  },
+  "vndb": {
+   "id": "v20616",
+   "title": "Gensou no Artemis",
+   "alttitle": "幻想のアルテミス",
+   "platforms": [
+    "psp",
+    "ps1",
+    "ps3",
+    "psv"
+   ],
+   "released": "2000-01-27"
+  }
+ },
+ {
+  "dir": "Go Go I Land",
+  "midi": 17,
+  "exts": {
+   ".mid": 17
+  },
+  "vndb": {
+   "id": "v24",
+   "title": "Umineko no Naku Koro ni",
+   "alttitle": "うみねこのなく頃に",
+   "platforms": [
+    "win",
+    "lin",
+    "mac",
+    "ios",
+    "and",
+    "psp",
+    "ps3",
+    "ps4",
+    "ps5",
+    "psv",
+    "swi",
+    "vnd",
+    "xbo",
+    "xxs",
+    "web"
+   ],
+   "released": "2007-08-17"
+  }
+ },
+ {
+  "dir": "Hatsukoi Valentine",
+  "midi": 22,
+  "exts": {
+   ".mid": 22
+  },
+  "vndb": {
+   "id": "v20903",
+   "title": "Hatsukoi Valentine",
+   "alttitle": "初恋ばれんたいん",
+   "platforms": [
+    "win",
+    "psp",
+    "ps1",
+    "ps3",
+    "psv"
+   ],
+   "released": "1997-07-31"
+  }
+ },
+ {
+  "dir": "IMM study",
+  "midi": 2,
+  "exts": {
+   ".mid": 2
+  },
+  "vndb": {
+   "id": "v737",
+   "title": "Immoral Study Scenario 1: Shirakawa Reiko",
+   "alttitle": "インモラルスタディ シナリオ1 白川玲子",
+   "platforms": [
+    "win",
+    "lin",
+    "mac",
+    "and",
+    "p98",
+    "web"
+   ],
+   "released": "1995-08-11"
+  }
+ },
+ {
+  "dir": "If_(FM_Towns)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 16,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v4",
+   "title": "CLANNAD",
+   "alttitle": null,
+   "platforms": [
+    "win",
+    "ios",
+    "and",
+    "psp",
+    "ps2",
+    "ps3",
+    "ps4",
+    "psv",
+    "swi",
+    "vnd",
+    "xb3",
+    "mob"
+   ],
+   "released": "2004-04-28"
+  }
+ },
+ {
+  "dir": "If_(NEC_PC-9801)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 14,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v4",
+   "title": "CLANNAD",
+   "alttitle": null,
+   "platforms": [
+    "win",
+    "ios",
+    "and",
+    "psp",
+    "ps2",
+    "ps3",
+    "ps4",
+    "psv",
+    "swi",
+    "vnd",
+    "xb3",
+    "mob"
+   ],
+   "released": "2004-04-28"
+  }
+ },
+ {
+  "dir": "Kakyuusei_(SS)",
+  "midi": 48,
+  "exts": {
+   ".mid": 48
+  },
+  "vndb": {
+   "id": "v1083",
+   "title": "Kakyuusei 2",
+   "alttitle": "下級生2",
+   "platforms": [
+    "win"
+   ],
+   "released": "2004-08-27"
+  }
+ },
+ {
+  "dir": "Kirishima_Shinryoushitsu_no_Gogo_(NEC_PC-9801)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 10,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v7990",
+   "title": "Kirishima Shinryoushitsu no Gogo",
+   "alttitle": "霧島診療室の午後",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1995-08-11"
+  }
+ },
+ {
+  "dir": "Kono_Yo_no_Hate_de_Koi_wo_Utau_Shoujo_YU-NO_(NEC_PC-9801,_OPNA)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 89,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": null
+ },
+ {
+  "dir": "Konohana - TrueReport",
+  "midi": 12,
+  "exts": {
+   ".mid": 12,
+   ".sf2": 14
+  },
+  "vndb": {
+   "id": "v21038",
+   "title": "Konohana: True Report",
+   "alttitle": "此花 True Report",
+   "platforms": [
+    "ps1",
+    "ps2",
+    "drc"
+   ],
+   "released": "2001-04-26"
+  }
+ },
+ {
+  "dir": "Kouni Shougun",
+  "midi": 60,
+  "exts": {
+   ".mid": 60,
+   ".sf2": 1
+  },
+  "vndb": null
+ },
+ {
+  "dir": "Mahjong_Fantasia_II_(NEC_PC-9801,_OPNA)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 28,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v6025",
+   "title": "Mahjong Gensoukyoku II",
+   "alttitle": "麻雀幻想曲II",
+   "platforms": [
+    "win",
+    "dos",
+    "fmt",
+    "p98",
+    "x68"
+   ],
+   "released": "1993-08-06"
+  }
+ },
+ {
+  "dir": "Marionette_Mind_(NEC_PC-9801)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 23,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v8963",
+   "title": "Marionette Mind",
+   "alttitle": "マリオネット・マインド",
+   "platforms": [
+    "mac",
+    "fmt",
+    "p98"
+   ],
+   "released": "1993-08-27"
+  }
+ },
+ {
+  "dir": "Nekopara_Nekosogi_Paradise",
+  "midi": 35,
+  "exts": {
+   ".mid": 35
+  },
+  "vndb": {
+   "id": "v10922",
+   "title": "Nekopara ~Nekosogi Paradise~",
+   "alttitle": "ねこぱら ～ねこそぎ・ぱらダイス～",
+   "platforms": [
+    "win",
+    "drc"
+   ],
+   "released": "1999-04-24"
+  }
+ },
+ {
+  "dir": "Night_Slave_MIDI-conversion",
+  "midi": 59,
+  "exts": {
+   ".mid": 59,
+   ".m3u": 1
+  },
+  "vndb": null
+ },
+ {
+  "dir": "Nineteen",
+  "midi": 30,
+  "exts": {
+   ".mid": 30,
+   ".py": 1
+  },
+  "vndb": {
+   "id": "v2811",
+   "title": "Nineteen -19-",
+   "alttitle": null,
+   "platforms": [
+    "win"
+   ],
+   "released": "1998-04-03"
+  }
+ },
+ {
+  "dir": "Ningyou_Tsukai_(FM_Towns)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 12,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": null
+ },
+ {
+  "dir": "Omoide_no_Photograph",
+  "midi": 0,
+  "exts": {
+   ".m": 15
+  },
+  "vndb": {
+   "id": "v890",
+   "title": "Maison Ikkoku ~Omoide no Photograph~",
+   "alttitle": "めぞん一刻 ～想いでのフォトグラフ～",
+   "platforms": [
+    "win",
+    "msx",
+    "nes",
+    "p88",
+    "p98",
+    "pce",
+    "x1s"
+   ],
+   "released": "1986-12-10"
+  }
+ },
+ {
+  "dir": "Only You -Seikimatsu no Juliette-tachi-",
+  "midi": 0,
+  "exts": {
+   ".vgz": 34,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v2003",
+   "title": "Only You -Seikimatsu no Juliette-tachi-",
+   "alttitle": "Ｏｎｌｙ Ｙｏｕ　－世紀末のジュリエット達－",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98"
+   ],
+   "released": "1996-01-01"
+  }
+ },
+ {
+  "dir": "Possessioner_(NEC_PC-9801)",
+  "midi": 4,
+  "exts": {
+   ".mid": 4,
+   ".vgz": 21,
+   ".vgm": 1,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v9016",
+   "title": "Possessioner",
+   "alttitle": "ポゼッショナー",
+   "platforms": [
+    "p98"
+   ],
+   "released": "1994-03-18"
+  }
+ },
+ {
+  "dir": "PsyclonE_The_Cyber_City",
+  "midi": 15,
+  "exts": {
+   ".mid": 15,
+   ".vgm": 2
+  },
+  "vndb": {
+   "id": "v15546",
+   "title": "PsyclonE ~The Cyber City~",
+   "alttitle": null,
+   "platforms": [
+    "win"
+   ],
+   "released": "1998-10-30"
+  }
+ },
+ {
+  "dir": "RINGOUT",
+  "midi": 11,
+  "exts": {
+   ".mid": 11
+  },
+  "vndb": {
+   "id": "v1189",
+   "title": "Ring Out!!",
+   "alttitle": "リングアウト!!",
+   "platforms": [
+    "win",
+    "lin",
+    "mac",
+    "fmt",
+    "p98",
+    "web"
+   ],
+   "released": "1995-04-21"
+  }
+ },
+ {
+  "dir": "ROSE BLOOD",
+  "midi": 14,
+  "exts": {
+   ".mid": 14
+  },
+  "vndb": {
+   "id": "v9062",
+   "title": "ROSE BLOOD ~Chi no Kawaki~",
+   "alttitle": "ＲＯＳＥ ＢＬＯＯＤ ～血の渇き～",
+   "platforms": [
+    "win",
+    "p98",
+    "web"
+   ],
+   "released": "1996-09-13"
+  }
+ },
+ {
+  "dir": "Refrain_Dream",
+  "midi": 25,
+  "exts": {
+   ".py": 3,
+   ".mid": 25
+  },
+  "vndb": {
+   "id": "v8339",
+   "title": "Refrain Dream",
+   "alttitle": "リフレイン･ドリーム",
+   "platforms": [
+    "win"
+   ],
+   "released": "1999-10-15"
+  }
+ },
+ {
+  "dir": "Ribbon",
+  "midi": 19,
+  "exts": {
+   ".mid": 19
+  },
+  "vndb": {
+   "id": "v990",
+   "title": "Hikari's Ribbon",
+   "alttitle": null,
+   "platforms": [
+    "win",
+    "lin",
+    "mac"
+   ],
+   "released": "2006-01-04"
+  }
+ },
+ {
+  "dir": "Romance_wa_Tsurugi_no_Kagayaki_II",
+  "midi": 46,
+  "exts": {
+   ".mid": 46,
+   ".wav": 2
+  },
+  "vndb": {
+   "id": "v7467",
+   "title": "Romance wa Tsurugi no Kagayaki II",
+   "alttitle": "ロマンスは剣の輝きII",
+   "platforms": [
+    "win",
+    "ps1"
+   ],
+   "released": "1999-12-22"
+  }
+ },
+ {
+  "dir": "STEAM-HEARTS_Perfect Collection",
+  "midi": 65,
+  "exts": {
+   ".py": 2,
+   ".mid": 65,
+   ".wav": 2,
+   ".vgz": 40,
+   ".m3u": 2,
+   ".png": 2,
+   ".txt": 2
+  },
+  "vndb": null
+ },
+ {
+  "dir": "Sentimental Graffiti",
+  "midi": 46,
+  "exts": {
+   ".mid": 46,
+   ".vgm": 1,
+   ".py": 1
+  },
+  "vndb": {
+   "id": "v219",
+   "title": "Sentimental Graffiti",
+   "alttitle": "センチメンタルグラフティ",
+   "platforms": [
+    "win",
+    "psp",
+    "ps1",
+    "ps3",
+    "sat"
+   ],
+   "released": "1998-01-22"
+  }
+ },
+ {
+  "dir": "Star_Ship_Rendezvous_(NEC_PC-8801)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 10,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": null
+ },
+ {
+  "dir": "Succubus_Ochita_Tenshi",
+  "midi": 13,
+  "exts": {
+   ".mid": 13
+  },
+  "vndb": {
+   "id": "v7387",
+   "title": "Succubus ~Ochita Tenshi~",
+   "alttitle": "サキュヴァス ～堕ちた天使～",
+   "platforms": [
+    "win"
+   ],
+   "released": "1998-05-15"
+  }
+ },
+ {
+  "dir": "TORIKO2",
+  "midi": 36,
+  "exts": {
+   ".mid": 36
+  },
+  "vndb": {
+   "id": "v10382",
+   "title": "Toriko 2",
+   "alttitle": "虜2",
+   "platforms": [
+    "win"
+   ],
+   "released": "1997-11-14"
+  }
+ },
+ {
+  "dir": "TOUSHINMA",
+  "midi": 23,
+  "exts": {
+   ".mid": 23,
+   ".m": 1
+  },
+  "vndb": null
+ },
+ {
+  "dir": "Teen_(NEC_PC-9801)",
+  "midi": 19,
+  "exts": {
+   ".vgz": 19,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1,
+   ".mid": 19,
+   ".mp3": 3
+  },
+  "vndb": {
+   "id": "v668",
+   "title": "Happy Princess",
+   "alttitle": "はっぴぃプリンセス",
+   "platforms": [
+    "win"
+   ],
+   "released": "2007-09-28"
+  }
+ },
+ {
+  "dir": "The Maids story",
+  "midi": 24,
+  "exts": {
+   ".mid": 24
+  },
+  "vndb": {
+   "id": "v11014",
+   "title": "Maid Monogatari",
+   "alttitle": "メイド物語",
+   "platforms": [
+    "win",
+    "web"
+   ],
+   "released": "1997-04-18"
+  }
+ },
+ {
+  "dir": "Three Sister Story",
+  "midi": 20,
+  "exts": {
+   ".mid": 20
+  },
+  "vndb": {
+   "id": "v113",
+   "title": "San Shimai",
+   "alttitle": "三姉妹",
+   "platforms": [
+    "win",
+    "dos",
+    "p98",
+    "web",
+    "oth"
+   ],
+   "released": "1996-02-29"
+  }
+ },
+ {
+  "dir": "Twilight_(PC_98)",
+  "midi": 2,
+  "exts": {
+   ".vgz": 7,
+   ".mid": 2,
+   ".py": 1,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v237",
+   "title": "Tasogare",
+   "alttitle": "誰彼~たそがれ~",
+   "platforms": [
+    "win"
+   ],
+   "released": "2001-02-09"
+  }
+ },
+ {
+  "dir": "Twilight_(Sharp_X68000)",
+  "midi": 3,
+  "exts": {
+   ".vgz": 7,
+   ".mid": 3,
+   ".wav": 3,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v237",
+   "title": "Tasogare",
+   "alttitle": "誰彼~たそがれ~",
+   "platforms": [
+    "win"
+   ],
+   "released": "2001-02-09"
+  }
+ },
+ {
+  "dir": "Viper-V6_Turbo_(Sharp_X68000)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 8,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v8326",
+   "title": "Viper-V6",
+   "alttitle": null,
+   "platforms": [
+    "win",
+    "fmt",
+    "p98",
+    "x68"
+   ],
+   "released": "1993-06-25"
+  }
+ },
+ {
+  "dir": "Viper-V8_Twin_Turbo_(Sharp_X68000)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 11,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v8327",
+   "title": "Viper-V8",
+   "alttitle": null,
+   "platforms": [
+    "win",
+    "fmt",
+    "p98",
+    "x68"
+   ],
+   "released": "1993-09-10"
+  }
+ },
+ {
+  "dir": "Viper16",
+  "midi": 27,
+  "exts": {
+   ".mid": 27,
+   ".wav": 3
+  },
+  "vndb": null
+ },
+ {
+  "dir": "ViperM1",
+  "midi": 20,
+  "exts": {
+   ".mid": 20
+  },
+  "vndb": {
+   "id": "v3420",
+   "title": "Viper-M1",
+   "alttitle": null,
+   "platforms": [
+    "win"
+   ],
+   "released": "1998-06-27"
+  }
+ },
+ {
+  "dir": "Virgin_Angel",
+  "midi": 24,
+  "exts": {
+   ".m": 21,
+   ".py": 4,
+   ".mid": 24
+  },
+  "vndb": {
+   "id": "v8718",
+   "title": "Virgin Angel",
+   "alttitle": null,
+   "platforms": [
+    "lin",
+    "mac",
+    "fmt",
+    "p98",
+    "x68",
+    "oth"
+   ],
+   "released": "1995"
+  }
+ },
+ {
+  "dir": "XENON",
+  "midi": 27,
+  "exts": {
+   ".vgz": 43,
+   ".mid": 27,
+   ".m3u": 2,
+   ".png": 2,
+   ".txt": 2,
+   ".m": 4,
+   ".pkf": 1,
+   ".wav": 5,
+   ".vgm": 8,
+   ".mp3": 3,
+   ".py": 4
+  },
+  "vndb": {
+   "id": "v7474",
+   "title": "Xenon ~Mugen no Shitai~",
+   "alttitle": "XENON ～夢幻の肢体～",
+   "platforms": [
+    "win",
+    "lin",
+    "mac",
+    "fmt",
+    "p98",
+    "oth"
+   ],
+   "released": "1994-12-09"
+  }
+ },
+ {
+  "dir": "Yami no Ketsuzoku-The Predestined Homicides_(Sharp_X68000)",
+  "midi": 0,
+  "exts": {
+   ".vgz": 35,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": {
+   "id": "v16763",
+   "title": "Yami no Ketsuzoku",
+   "alttitle": "闇の血族",
+   "platforms": [
+    "win",
+    "fmt",
+    "x68"
+   ],
+   "released": "1990-07-21"
+  }
+ },
+ {
+  "dir": "[951027] ブリガンティ",
+  "midi": 10,
+  "exts": {
+   ".mid": 10
+  },
+  "vndb": {
+   "id": "v10651",
+   "title": "Briganty ~The Roots of Darkness~",
+   "alttitle": "ブリガンティ ～The Roots of Darkness～",
+   "platforms": [
+    "win",
+    "p98"
+   ],
+   "released": "1995-10-27"
+  }
+ },
+ {
+  "dir": "[961122][戯画]V.G. PerfectCollection",
+  "midi": 70,
+  "exts": {
+   ".mid": 70,
+   ".wav": 3,
+   ".vgz": 42,
+   ".m3u": 2,
+   ".png": 2,
+   ".txt": 2
+  },
+  "vndb": null
+ },
+ {
+  "dir": "time stripper",
+  "midi": 7,
+  "exts": {
+   ".mid": 7
+  },
+  "vndb": {
+   "id": "v1444",
+   "title": "Time Stripper Mako-chan",
+   "alttitle": "タイムストリッパー真子ちゃん",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98",
+    "web"
+   ],
+   "released": "1996-01-26"
+  }
+ },
+ {
+  "dir": "true love （1995）",
+  "midi": 17,
+  "exts": {
+   ".py": 1,
+   ".mid": 17,
+   ".vgm": 6
+  },
+  "vndb": {
+   "id": "v93",
+   "title": "Muv-Luv",
+   "alttitle": "マブラヴ",
+   "platforms": [
+    "win",
+    "ios",
+    "and",
+    "ps3",
+    "psv",
+    "swi",
+    "xb3"
+   ],
+   "released": "2003-02-28"
+  }
+ },
+ {
+  "dir": "あゆちゃんパンチ！",
+  "midi": 8,
+  "exts": {
+   ".mid": 8
+  },
+  "vndb": null
+ },
+ {
+  "dir": "ここは楽園荘 1-2",
+  "midi": 20,
+  "exts": {
+   ".mid": 20
+  },
+  "vndb": null
+ },
+ {
+  "dir": "アナザー・メモリーズ",
+  "midi": 24,
+  "exts": {
+   ".mid": 24
+  },
+  "vndb": {
+   "id": "v30274",
+   "title": "Another Memories",
+   "alttitle": "アナザー・メモリーズ",
+   "platforms": [
+    "ps1",
+    "sat"
+   ],
+   "released": "1998-06-13"
+  }
+ },
+ {
+  "dir": "バーチャコール３",
+  "midi": 106,
+  "exts": {
+   ".mid": 106
+  },
+  "vndb": {
+   "id": "v4454",
+   "title": "Virtua Call 3",
+   "alttitle": "バーチャコール3",
+   "platforms": [
+    "win",
+    "sat"
+   ],
+   "released": "1997-07-25"
+  }
+ },
+ {
+  "dir": "二律背反",
+  "midi": 21,
+  "exts": {
+   ".py": 7,
+   ".md": 1,
+   ".txt": 1,
+   ".json": 3,
+   ".bin": 12,
+   ".pyc": 6,
+   ".mid": 21,
+   ".dat": 1,
+   ".com": 2
+  },
+  "vndb": {
+   "id": "v2048",
+   "title": "AmbivalenZ -Niritsu Haihan-",
+   "alttitle": "AmbivalenZ -二律背反-",
+   "platforms": [
+    "win",
+    "fmt",
+    "p98",
+    "x68",
+    "web"
+   ],
+   "released": "1994-04-28"
+  }
+ },
+ {
+  "dir": "壳中的小鸟",
+  "midi": 20,
+  "exts": {
+   ".py": 1,
+   ".wav": 3,
+   ".mid": 20,
+   ".vgz": 9,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1
+  },
+  "vndb": null
+ },
+ {
+  "dir": "恋ようび",
+  "midi": 34,
+  "exts": {
+   ".mid": 34,
+   ".wav": 2,
+   ".sf2": 17
+  },
+  "vndb": {
+   "id": "v42",
+   "title": "Koiyoubi",
+   "alttitle": "恋ようび",
+   "platforms": [
+    "win",
+    "dvd",
+    "ps1",
+    "web",
+    "mob"
+   ],
+   "released": "2000-04-25"
+  }
+ },
+ {
+  "dir": "慟哭 そして",
+  "midi": 32,
+  "exts": {
+   ".mid": 32,
+   ".sf2": 32
+  },
+  "vndb": {
+   "id": "v218",
+   "title": "Doukoku Soshite...",
+   "alttitle": "慟哭 そして…",
+   "platforms": [
+    "win",
+    "ps4",
+    "psv",
+    "sat",
+    "swi"
+   ],
+   "released": "1998-02-26"
+  }
+ },
+ {
+  "dir": "明星之梦",
+  "midi": 78,
+  "exts": {
+   ".mid": 78
+  },
+  "vndb": {
+   "id": "v6292",
+   "title": "Photo Genic",
+   "alttitle": "フォトジェニック",
+   "platforms": [
+    "win",
+    "p98",
+    "ps1",
+    "sat"
+   ],
+   "released": "1997-05-16"
+  }
+ },
+ {
+  "dir": "杂音领域",
+  "midi": 17,
+  "exts": {
+   ".mid": 17
+  },
+  "vndb": null
+ },
+ {
+  "dir": "水晶迷宫-逢魔的迷宫",
+  "midi": 46,
+  "exts": {
+   ".mid": 46
+  },
+  "vndb": null
+ },
+ {
+  "dir": "痕",
+  "midi": 26,
+  "exts": {
+   ".vgz": 26,
+   ".m3u": 1,
+   ".png": 1,
+   ".txt": 1,
+   ".mid": 26
+  },
+  "vndb": {
+   "id": "v184",
+   "title": "Kizuato",
+   "alttitle": "痕",
+   "platforms": [
+    "win",
+    "mac",
+    "gba",
+    "gbc",
+    "p98"
+   ],
+   "released": "1996-07-26"
+  }
+ },
+ {
+  "dir": "美少女梦工厂",
+  "midi": 74,
+  "exts": {
+   ".mid": 74,
+   ".spc": 35
+  },
+  "vndb": {
+   "id": "v727",
+   "title": "Princess Maker 4",
+   "alttitle": "プリンセスメーカー4",
+   "platforms": [
+    "win",
+    "nds",
+    "psp",
+    "ps2",
+    "web",
+    "mob"
+   ],
+   "released": "2005-09-01"
+  }
+ },
+ {
+  "dir": "转校生",
+  "midi": 6,
+  "exts": {
+   ".mid": 6
+  },
+  "vndb": {
+   "id": "v16774",
+   "title": "Osananajimi to Tenkousei to Atashi to Natsuzora no Asterism",
+   "alttitle": "幼なじみと転校生とあたしと夏空の星群",
+   "platforms": [
+    "win"
+   ],
+   "released": "2012-08-27"
+  }
+ },
+ {
+  "dir": "雫",
+  "midi": 25,
+  "exts": {
+   ".mid": 25,
+   ".py": 4,
+   ".mp3": 1,
+   ".ogg": 25,
+   ".vgz": 24,
+   ".wav": 8,
+   ".pyc": 2
+  },
+  "vndb": {
+   "id": "v184",
+   "title": "Kizuato",
+   "alttitle": "痕",
+   "platforms": [
+    "win",
+    "mac",
+    "gba",
+    "gbc",
+    "p98"
+   ],
+   "released": "1996-07-26"
+  }
+ },
+ {
+  "dir": "黎明圣记",
+  "midi": 31,
+  "exts": {
+   ".mid": 31,
+   ".wav": 2,
+   ".vgz": 56,
+   ".png": 4,
+   ".m3u": 2,
+   ".txt": 2
+  },
+  "vndb": null
+ }
+]
