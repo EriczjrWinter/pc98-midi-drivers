@@ -180,7 +180,7 @@ tools/           download, triage, clustering, cross-reference, conversion
 - [x] The `MDRV98.COM` / `BGMDRV.COM` shell route — closed: 4 GS/GM `.MUS` titles exported (64 files / 50 tracks), FM packs passed on; `.MDT` already statically parsed (19 packs / 507 tracks)
 - [x] `MV2x` (DOR series, 23 titles) — confirmed FM-only, no MIDI output
 - [ ] `FUGAM_98` (53 titles) — **generation A delivered: 70 files** (Amaranth II GS 36 + MT-32 34, slope 1.000 against HOOT captures); **generation B (`FMD.EXE` family) closed 2026-11-23**: for undisclosed reasons the exported performance does not match HOOT (pitch-sequence similarity 0.008, 6 vs 9 drum pitches, event density 1/2.3), the driver is far harder than the others and further reverse engineering is not worth the cost ([FMD.md](drivers/fugam/docs/FMD.md))
-- [x] `MSDRV4` — driver runs; 7 packs / 129 MIDIs exported (GS / SC-88)
+- [x] `MSDRV4` — driver runs; 7 packs / 129 MIDIs exported (GS / SC-88, calibrated on the OPNA Timer B). Two packs remain: `stjan2` (`.BM0/1/2`, three buffers) and `rekiai` (`.MF` container) ([MS-FORMAT.md](drivers/msdrv/docs/MS-FORMAT.md))
 - [ ] The long tail: 204 one-off drivers
 
 ## References

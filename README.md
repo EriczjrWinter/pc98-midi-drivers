@@ -173,7 +173,7 @@ tools/           下载、分诊、聚类、对照、转换
 - [x] `MDRV98` 的 `MDRV98.COM` / `BGMDRV.COM` + 小壳路线 —— 收口：`.MUS` 4 部 GS/GM 已导（64 文件 / 50 首），FM 包 PASS；`.MDT` 已静态解析（19 包 507 首）
 - [x] `MV2x`（DOR 系列，23 部）—— 确认是纯 FM 驱动，没有 MIDI 输出
 - [ ] `FUGAM_98`（53 部）—— **A 代已交付 70 个文件**（Amaranth II GS 36 + MT-32 34，HOOT 逐事件对齐斜率 1.000）；**B 代（`FMD.EXE` 系）2026-11-23 结案归档**：受限于未公开的未知原因，导出的演奏结构与 HOOT 不符（音高序列相似度 0.008、鼓音高 6/9 种、事件密度仅 1/2.3），该驱动难度远高于其它驱动、继续逆向成本不现实（[FMD.md](drivers/fugam/docs/FMD.md)）
-- [ ] `MSDRV4` —— 需要更完整的 DOS 环境仿真
+- [x] `MSDRV4` —— 运行驱动成功，导出 **7 个包 / 129 个 MIDI**（82 首 × GS/SC-88，按 OPNA Timer B 校准）；剩 `stjan2`（`.BM0/1/2` 三块缓冲）与 `rekiai`（`.MF` 容器）两个包未解（[MS-FORMAT.md](drivers/msdrv/docs/MS-FORMAT.md)）
 - [ ] 长尾：204 个一对一驱动
 
 ## 参考
