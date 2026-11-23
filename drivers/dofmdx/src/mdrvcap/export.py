@@ -67,14 +67,30 @@ def vlq(v):
     return bytes(out)
 
 
+def _msg_ok(m):
+    """只保留长度和取值范围都合法的通道消息。"""
+    if not m:
+        return False
+    s = m[0]
+    if s >= 0xF0:
+        return False
+    need = 1 if 0xC0 <= s < 0xE0 else 2
+    if len(m) != need + 1:
+        return False
+    return all(b < 0x80 for b in m[1:])
+
+
 def build(msgs, ppq, tempo_us, tick_ms):
     midi_ticks_per_sec = ppq * 1e6 / tempo_us
     events = []
     for t, m in msgs:
+        if not m:
+            continue
         mt = int(round(t * (tick_ms / 1000.0) * midi_ticks_per_sec))
-        if 0x90 <= m[0] < 0xA0 and m[2] > 0:
+        if len(m) >= 3 and 0x90 <= m[0] < 0xA0 and m[2] > 0:
             prio = 1
-        elif (0x90 <= m[0] < 0xA0 and m[2] == 0) or 0x80 <= m[0] < 0x90:
+        elif len(m) >= 3 and ((0x90 <= m[0] < 0xA0 and m[2] == 0)
+                              or 0x80 <= m[0] < 0x90):
             prio = 0
         else:
             prio = 0
@@ -83,6 +99,8 @@ def build(msgs, ppq, tempo_us, tick_ms):
     # 结尾补 note-off：抓包在循环点截断，会有几个音挂着
     active = set()
     for mt, _p, m in events:
+        if not _msg_ok(m):
+            continue
         if 0x90 <= m[0] < 0xA0 and m[2] > 0:
             active.add((m[0] & 0x0F, m[1]))
         elif 0x80 <= m[0] < 0x90 or (0x90 <= m[0] < 0xA0 and m[2] == 0):
@@ -93,6 +111,8 @@ def build(msgs, ppq, tempo_us, tick_ms):
     track = bytearray(b'\x00\xff\x51\x03' + int(tempo_us).to_bytes(3, 'big'))
     last = 0
     for mt, _p, m in events:
+        if not _msg_ok(m):             # 残缺/越界的消息不写
+            continue
         track += vlq(max(0, mt - last)) + m
         last = mt
     track += b'\x00\xff\x2f\x00'
@@ -115,15 +135,36 @@ def export_track(pack, name, out_path, ref_path=None, tick_ms=TICK_MS,
     return {'ticks': n, 'msgs': len(msgs), 'seconds': ticks * tick_ms / 1000.0}
 
 
+def export_loop(pack, name, out_path, tick_ms=TICK_MS, cap_ticks=120000):
+    """没有参考 MIDI 时，用自相似估一个循环的长度再导出。
+
+    只保证事件与音色，长度是近似的（段落重复可能被当成整首循环）。
+    """
+    from . import loop
+    t = loop.estimate_ticks(loop.note_seq(pack, name, ticks=cap_ticks))
+    if t is None:
+        t = int(240000 / tick_ms)
+    return export_track(pack, name, out_path, None, tick_ms,
+                        max_seconds=t * tick_ms / 1000.0)
+
+
 if __name__ == '__main__':
-    pack = sys.argv[1] if len(sys.argv) > 1 else 'cl_98'
-    name = sys.argv[2] if len(sys.argv) > 2 else 'CR001C.FMD'
-    out = sys.argv[3] if len(sys.argv) > 3 else os.path.join(os.getcwd(), 'out.mid')
+    argv = [a for a in sys.argv[1:] if not a.startswith('--')]
+    use_loop = '--loop' in sys.argv[1:]
+    pack = argv[0] if len(argv) > 0 else 'cl_98'
+    name = argv[1] if len(argv) > 1 else 'CR001C.FMD'
+    out = argv[2] if len(argv) > 2 else os.path.join(os.getcwd(), 'out.mid')
+    if use_loop:
+        info = export_loop(pack, name, out)
+        print('%s/%s -> %s  %s  (--loop)' % (pack, name, out, info))
+        sys.exit(0)
     base = os.path.splitext(os.path.basename(name))[0]      # CR001C
     num = base[:-1] if base and base[-1] in 'CFG' else base
     rd = ref_dir_for(pack)
     ref = os.path.join(rd, num + '.MID') if rd else None
     if ref and not os.path.exists(ref):
         ref = None
+    if ref is None:
+        print('（没有参考 MIDI，长度按 430 秒导出；要按循环估长加 --loop）')
     info = export_track(pack, name, out, ref)
     print('%s/%s -> %s  %s' % (pack, name, out, info))

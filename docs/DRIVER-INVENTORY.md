@@ -37,6 +37,11 @@
 | `da3da3a89429` | 6 | 22499 | COM-跳转 | `FMP3.COM` |
 | `59e64f42f05c` | 5 | 7057 | COM-跳转 | `MMD.COM` |
 
+> **`FMD.EXE`（风雅）这一行要单列一类**：它**必须用 MIDI 板高仿真才能跑**，不能像 MMD 那样
+> 静态解析——驱动自己不算时间，节奏全靠板子的 `$C2`(timebase) / `$E0`(tempo) /
+> `$E7`(时钟分割) / `$95`(时钟输出) 和每个时钟回送的 `$FD`。详见
+> [`drivers/fugam/docs/FMD.md`](../drivers/fugam/docs/FMD.md) 的「〇、必须靠 MIDI 板高仿真」一节。
+
 ## 两个重要发现
 
 ### ① MMD 不止 3 个构建
@@ -129,7 +134,8 @@ zatuon_21      → zatuon_98
 
 1. `ARTDI_98`（12 部，Artdink）—— 桩 + 大 BIN
 2. `DOFMDX98`（12 个包 → 79 部作品）—— `.FMD` 明文
-3. `FMD.EXE`（7 部，FUGAM）—— 数据疑似加密
+3. `FMD.EXE`（7 部，FUGAM）—— ⛔ **B 代结案**：A 代已交付 70 文件；B 代表演结构无法复现
+   （音高相似度 0.008、鼓 6/9 种），未公开原因 + 成本不现实，见 [`FMD.md`](../drivers/fugam/docs/FMD.md)
 4. `FMP3.COM`（6 部）
 
 **`DOFMDX98` 仍然是首选**：79 部作品、数据是明文 `.FMD`（有 `68V2` 签名和偏移表）、

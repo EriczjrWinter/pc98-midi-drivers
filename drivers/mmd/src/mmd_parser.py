@@ -33,6 +33,7 @@ https://gist.github.com/devinacker/bdc58cfdba6a1ee80449
 """
 import os
 import struct
+from collections import Counter
 
 TPQ = 48                      # MMD 原生分辨率
 MAX_LOOP = 64
@@ -79,6 +80,7 @@ def parse_track(data, off, key, transpose, bpm, max_cmds=200000):
     stray_done = False
     n = len(data)
     guard = 0
+    seen_note = False
 
     def flush(upto):
         keep = []
@@ -131,8 +133,13 @@ def parse_track(data, off, key, transpose, bpm, max_cmds=200000):
 
         if c0 < 0x80:                       # 音符
             flush(t)
+            if buf[2] == 0 or buf[3] == 0:
+                # 驱动只对“长度!=0 且 力度!=0”的音符发 note-on（0x58E / 0x594），
+                # 0 长度的是休止/初始化数据
+                delay = buf[1]
+                continue
             note = (c0 + key + transpose) & 0x7F
-            length = buf[2] if buf[2] > 0 else 1
+            length = buf[2]
             # 同音连打：不重新触发，而是延长正在响的那个音（与参考实现一致）
             extended = False
             for i, (end, pn) in enumerate(pending):
@@ -148,22 +155,76 @@ def parse_track(data, off, key, transpose, bpm, max_cmds=200000):
         elif c0 == 0xE7:                    # 变速
             flush(t)
             if buf[2]:
-                us = int(64 * 60000000 / (bpm * buf[2])) if bpm else 500000
-                tempos.append((t, us))
+                # 有效 BPM = 头部 bpm * buf[2] / 64；>250 视为 0xFF 之类的哨兵值，忽略
+                act = bpm * buf[2] / 64.0 if bpm else 0
+                if act <= 250:
+                    us = int(64 * 60000000 / (bpm * buf[2])) if bpm else 500000
+                    tempos.append((t, us))
+                else:
+                    warnings.append('t=%d 忽略异常 tempo 值 %d（%.0f BPM）'
+                                    % (t, buf[2], act))
             if buf[3]:
                 warnings.append('t=%d 有 tempo 渐变（未支持）' % t)
             delay = buf[1]
-        elif (c0 & 0xF8) in (0xE8, 0xD8):   # 其它 MIDI 消息
+        elif c0 == 0x98:                    # 内嵌 SysEx：数据流里直接跟着 GS/GM 消息体
             flush(t)
-            kind = c0 & 0x0F
-            if kind > 0xE:
-                warnings.append('t=%d 未知消息 %02X（已跳过）' % (t, c0))
-                continue
-            if kind in (0xC, 0xD):
-                events.append((t, 'msg', (kind << 4), buf[2] & 0x7F))
-            else:
-                events.append((t, 'msg', (kind << 4),
-                               (buf[2] & 0x7F, buf[3] & 0x7F)))
+            body = bytearray()
+            while pos < n:
+                b = data[pos]
+                pos += 1
+                if b < 0x80:
+                    body.append(b)
+                elif b == 0xF7:
+                    break
+                elif b == 0x80:
+                    body.append(buf[1] & 0x7F)
+                elif b == 0x81:
+                    body.append(buf[3] & 0x7F)
+                elif b == 0x82:
+                    body.append((key + transpose) & 0x7F)
+                elif b == 0x83:
+                    body = bytearray()          # 校验和清零
+                elif b == 0x84:
+                    body.append((-sum(body)) & 0x7F)   # 校验和
+                else:
+                    body.append(b & 0x7F)
+            events.append((t, 'sysex', bytes(body), 0))
+            delay = buf[1]
+        elif 0x90 <= c0 <= 0x97:            # 预置 SysEx（GS reset 等），无数据体
+            flush(t)
+            delay = buf[1]
+        elif 0x99 <= c0 <= 0xBF:            # 驱动里是空操作
+            flush(t)
+            delay = buf[1]
+        elif c0 == 0xE2:                    # 每轨一个音色号（ukiukiis / akasui / GAO3 部分曲）
+            flush(t)
+            events.append((t, 'msg', 0xC0, buf[2] & 0x7F))
+            delay = buf[1]
+        elif 0xD8 <= c0 <= 0xDF:            # 驱动里是 SysEx 参数/触发，不发声
+            flush(t)
+            delay = buf[1]
+        elif c0 == 0xEB:                    # 控制变更（CC 号=buf[2]，值=buf[3]）
+            flush(t)
+            events.append((t, 'msg', 0xB0, (buf[2] & 0x7F, buf[3] & 0x7F)))
+            delay = buf[1]
+        elif c0 == 0xEC:                    # 音色（程序号=buf[2]）
+            flush(t)
+            events.append((t, 'msg', 0xC0, buf[2] & 0x7F))
+            delay = buf[1]
+        elif c0 == 0xED:                    # 复音触后
+            flush(t)
+            events.append((t, 'msg', 0xA0, (buf[2] & 0x7F, buf[3] & 0x7F)))
+            delay = buf[1]
+        elif c0 == 0xEA:                    # 通道触后（只有一个数据字节）
+            flush(t)
+            events.append((t, 'msg', 0xD0, buf[2] & 0x7F))
+            delay = buf[1]
+        elif c0 == 0xEE:                    # 弯音轮
+            flush(t)
+            events.append((t, 'msg', 0xE0, (buf[2] & 0x7F, buf[3] & 0x7F)))
+            delay = buf[1]
+        elif c0 in (0xE8, 0xE9, 0xEF):      # 驱动里是空操作
+            flush(t)
             delay = buf[1]
         elif c0 == 0xF9:                    # 循环开始
             loop_stack.append((pos, None, 0))
@@ -176,8 +237,9 @@ def parse_track(data, off, key, transpose, bpm, max_cmds=200000):
                 continue
             ret, target, done = loop_stack[-1]
             count = buf[1]
-            if count == 0:
-                # 无限循环：再走一遍，让结尾完整（驱动会一直重复，录音只是按 CD 长度截断）
+            if count == 0 or count >= 16:
+                # 0 或超大次数都按“无限循环”处理：只走一遍
+                # （BGM 在游戏里会一直重复，官方的 CD/参考版只放一遍）
                 if INFINITE_EXTRA_PASS and not infinite_done:
                     infinite_done = True
                     pos = ret
@@ -217,6 +279,7 @@ def build_smf(mm, verbose=False):
 
     chan_events = {}
     all_tempos = []
+    sysex_events = []
     warnings = []
     for idx, tr in enumerate(mm.tracks):
         if tr['ch'] >= 16:
@@ -232,12 +295,30 @@ def build_smf(mm, verbose=False):
                 bucket.append((tick, bytes([0x90 | ch, a, b]), 2))
             elif kind == 'off':
                 bucket.append((tick, bytes([0x80 | ch, a, 0]), 0))
+            elif kind == 'sysex':
+                sysex_events.append((tick, a))
             else:                           # msg
                 st = a | ch
                 if isinstance(b, tuple):
                     bucket.append((tick, bytes([st, b[0], b[1]]), 1))
                 else:
                     bucket.append((tick, bytes([st, b]), 1))
+
+    # 初始化块清理：同一 tick、同音高、同力度同时出现在 >=6 个通道上——
+    # 这是驱动的初始化块被当成音符（GAO4 每条轨道开头都有 3 个这样的“和弦”）
+    uniq = Counter()
+    for evs in chan_events.values():
+        for tick, raw, prio in evs:
+            if len(raw) == 3 and (raw[0] & 0xF0) == 0x90 and raw[2] > 0:
+                uniq[(tick, raw[1], raw[2])] += 1
+    drop = {k for k, v in uniq.items() if v >= 6}
+    if drop:
+        for ch in list(chan_events):
+            chan_events[ch] = [
+                e for e in chan_events[ch]
+                if not (len(e[1]) == 3 and (e[1][0] & 0xF0) == 0x90 and e[1][2] > 0
+                        and (e[0], e[1][1], e[1][2]) in drop)]
+        warnings.append('清理初始化块音符 %d 组' % len(drop))
 
     all_tempos.sort()
     last = 0
@@ -252,6 +333,18 @@ def build_smf(mm, verbose=False):
         last = 0
         for tick, raw, prio in sorted(chan_events[ch], key=lambda x: (x[0], x[2])):
             body += vlq(tick - last) + raw
+            last = tick
+        body += b'\x00\xFF\x2F\x00'
+        tracks.append(bytes(body))
+
+    if sysex_events:
+        body = bytearray()
+        last = 0
+        for tick, payload in sorted(sysex_events, key=lambda x: x[0]):
+            if tick < last:
+                tick = last
+            body += vlq(tick - last)
+            body += b'\xF0' + vlq(len(payload) + 1) + payload + b'\xF7'
             last = tick
         body += b'\x00\xFF\x2F\x00'
         tracks.append(bytes(body))

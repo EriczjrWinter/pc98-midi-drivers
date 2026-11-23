@@ -66,6 +66,7 @@ python tools/hoot_download.py --go       # 下载缺的
 |---|---|---|---|
 | クリスタルリナール 逢魔の迷宮 | `D:\music\90S Galgame music\水晶迷宫-逢魔的迷宫\` | 46 | cl_98 / you4_98 定长与校对 |
 | 雑音領域 | `D:\music\90S Galgame music\杂音领域\` | 17 | zatuon_98 定长与校对 |
+| RINGOUT | `D:\music\90S Galgame music\RINGOUT\` | 11（`RIN01.MID`–`RIN11.MID`） | ringout_98 定长与校对 |
 | DOR 系列 | `D:\music\90S Galgame music\DOR\` | 34 MIDI + 3 VGM | DOR1/2/3 对照（**不全**，见下） |
 | TORIKO2（虜2） | `D:\music\90S Galgame music\TORIKO2\` | 36 | 对照用；**HOOT 库里没有这个包** |
 
