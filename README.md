@@ -20,16 +20,23 @@ PC-98 的游戏音乐，很多是「**数据 + 驱动**」的结构：数据只�
 |---|---|---|---|---|
 | [**MMDR**](companies/leaf/) | LEAF | 运行驱动 | 雫 / 痕 | ✅ **51 首**，两源验证 |
 | [**MS.COM**](drivers/mscom/) | LEAF | 运行驱动 | 雀鬼 / Filsnown | ✅ **61 首** |
-| [**MMD**](drivers/mmd/) | KAJA（跨 23 家） | 静态解析 | 94 部 | ✅ **35 首**（1 部验证） |
-| [**MSDRV4**](drivers/msdrv/) | 黒パッケージ | 静态（部分） | 殻の中の小鳥 | ⚠ 格式七成，仿真卡在 DOS 环境 |
-| [**MDRV98**](drivers/dofmdx/) | D.O. / ZyX | 运行驱动 + 抓包 | 独立驱动 6 包 | ✅ **117 首**（GS / MT-32 各一套） |
+| [**MMD**](drivers/mmd/) | KAJA（跨 23 家） | 静态解析 | 36 部 / 40 包 | ✅ **756 首**（GAL 460 / 非GAL 296） |
+| [**MDRV98**](drivers/dofmdx/) | D.O. / ZyX | 运行驱动 + 抓包 | 独立驱动 6 包 + B 路线 11 包 + C 路线 4 部 | ✅ **117 首**（GS / MT-32）+ **678 首**（B 路线）+ **50 首**（C 路线 `.MUS`）+ **507 首**（.MDT 转录） |
+| [**MSDRV4**](drivers/msdrv/) | 黒パッケージ | 运行驱动 + 抓包 | 7 个包（共 9 个） | ✅ **129 个 MIDI**（82 首 × GS/SC-88 变体） |
+| [**FMP / 音痴君**](drivers/fmp/) | TGL / 戯画 / 夢幻 | 运行驱动 + 抓包 | 19 包 | ✅ **574 个 MIDI**（405 首，GS/SC88/MT-32/SC-55） |
 | [**Alice Soft**](companies/alicesoft/) | Alice Soft | 跑引擎 | 二律背反 | ✅ 21 首（Windows 侧） |
 
-**合计 285 首 MIDI**，加上驱动分析文档。
+**合计 1493 首完整曲目 + 678 首 B 路线片段 + 50 首 C 路线片段 + 507 首 .MDT 转录**
+（51 + 61 + 756 + 117 + 21 + 82 + 405），加上驱动分析文档。
 
-> **MDRV98 只覆盖了一小部分。** 同一个驱动家族有三种打包方式：
-> 独立驱动（`DOFMD_98.BIN` + `MDRV98`/`ZYXMD`）只有 **6 个包**，已经跑通（117 首）；
-> `DOFMDX98.COM` + 游戏 EXE 的 **32 部**、`MDRV98.COM` + `mlp_hoot` 的 **28 包**都还没解。
+> **MDRV98 家族的覆盖情况。** 同一个驱动家族有四种打包方式：
+> 独立驱动（`DOFMD_98.BIN` + `MDRV98`/`ZYXMD`）**6 个包**，已跑通（117 首）；
+> `DOFMDX98.COM` + 游戏 EXE 的 **32 部**已解（11 包 766 个文件 / 678 首，其余 FM / MMD / 缺包）；
+> `MDRV98.COM` / `BGMDRV.COM` + 小壳的 **28 包**：`.MUS` 里 HOOT 挂 GS/GM 的 4 部已导
+> （64 个文件 / 50 首），其余 `BGM.COM` 包是纯 FM（只写 OPNA，直接 PASS）；
+> `MV2x`（DOR 系列，23 部）是纯 FM，没有 MIDI。
+> `.MDT` 的 19 包也是 FM/SSG 演奏数据，已用静态解析转录成 507 首 MIDI
+> （[`src/mdt/`](drivers/dofmdx/src/mdt/)）。
 > 详见 [drivers/dofmdx](drivers/dofmdx/)。
 
 > Alice Soft 那条不是 PC-98 驱动——它的 MIDI 出口在 Windows 版 exe 里，
@@ -127,12 +134,15 @@ companies/
 drivers/
   mmd/           KAJA 的 MMD —— 静态解析，跨 23 家会社
   mscom/         LEAF 的 MS.COM —— 运行驱动
-  msdrv/         黒パッケージ MSDRV4 —— 格式分析 + 部分仿真
+  msdrv/         黒パッケージ MSDRV4 —— 格式分析 + 运行驱动导出
   dofmdx/        D.O. MDRV98 —— 逆向文档 + mdrvcap（抓包 / 导出）
 docs/
+  HANDOFF.md            交接指南（本地维护，不随上传版发布）
   DRIVER-INVENTORY.md   246 个驱动的全清单
   CATALOG.md            A/B/C/D 分类方案
   MATERIALS.md          素材从哪来
+  NEXT.md               当前进度与下一步（本地维护）
+  PIPELINE.md           流水线化方案（本地维护）
 catalog/
   games.json     4411 部作品（全平台）
   win95.json     414 部 PC-98 MIDI + VNDB 平台信息
@@ -152,15 +162,17 @@ tools/           下载、分诊、聚类、对照、转换
 | `vndb_win95.py` | 查 VNDB 判断有没有 Windows 版 |
 | `scan_collection.py` | 清点本地收藏 |
 | `triage2.py` | 给每个包找出真正的驱动文件 |
+| `mdrv98_routes.py` | 统计 MDRV98 家族的打包路线 + 32 字节签名扫描 |
+| `make_upload.py` | 生成不含游戏数据的上传版（只含 git 跟踪文件） |
 | `drivers/dofmdx/src/mdrvcap/` | MDRV98 抓包导出（表 B + Timer B → SMF） |
 
 ## 下一步
 
-- [ ] `MDRV98` 的 `DOFMDX98.COM` 路线（32 部，D.O. 18 / ZyX 5 / FOSTER 8 / 姫屋 1）——
-      774 字节 DOS 装载器 + 游戏 EXE，驱动在 EXE 里，未解
-- [ ] `MDRV98` 的 `MDRV98.COM` + `mlp_hoot` 路线（28 包，`.MUS` 数据），未解
-- [ ] 独立驱动路线还剩 3 个 ZyX 包（`gbakuten_98` / `kyouiku_98` / `laidi1_98`）没导
-- [ ] `FUGAM_98`（53 部）—— 数据疑似加密
+- [x] `MDRV98` 的 `DOFMDX98.COM` 路线（32 部）—— 11 包 766 个文件（678 首）已导，FM 4 部跳过、MMD 8 部另走、7 包缺失
+- [x] **MMD 批量** —— 36 部 / 756 首，按作品归档（GAL 460 / 非GAL 296）
+- [x] `MDRV98` 的 `MDRV98.COM` / `BGMDRV.COM` + 小壳路线 —— 收口：`.MUS` 4 部 GS/GM 已导（64 文件 / 50 首），FM 包 PASS；`.MDT` 已静态解析（19 包 507 首）
+- [x] `MV2x`（DOR 系列，23 部）—— 确认是纯 FM 驱动，没有 MIDI 输出
+- [ ] `FUGAM_98`（53 部）—— **A 代已交付 70 个文件**（Amaranth II GS 36 + MT-32 34，HOOT 逐事件对齐斜率 1.000）；**B 代（`FMD.EXE` 系）2026-11-23 结案归档**：受限于未公开的未知原因，导出的演奏结构与 HOOT 不符（音高序列相似度 0.008、鼓音高 6/9 种、事件密度仅 1/2.3），该驱动难度远高于其它驱动、继续逆向成本不现实（[FMD.md](drivers/fugam/docs/FMD.md)）
 - [ ] `MSDRV4` —— 需要更完整的 DOS 环境仿真
 - [ ] 长尾：204 个一对一驱动
 

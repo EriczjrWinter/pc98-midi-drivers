@@ -11,6 +11,7 @@
 """
 import argparse
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -22,10 +23,18 @@ OK_EXT = {'.py', '.md', '.json', '.csv', '.txt', '.yml', '.yaml', '.cfg',
           '.toml', '.gitignore', '.gitattributes', '.png', '.jpg'}
 
 # 上传时排除的文件（只在本地维护，不适合公开）
-# - docs/NEXT.md 是给下一个会话看的交接文档，时效性强，会很快过时
+# - docs/NEXT.md / HANDOFF.md：给下一个会话看的交接文档，时效性强，且含会话协作细节
+# - docs/PIPELINE.md：含“运营协议 / 开会话省钱”这类内部工作流程
 SKIP = {
     'docs/NEXT.md',
+    'docs/HANDOFF.md',
+    'docs/PIPELINE.md',
+    'docs/REVIEW-CHECKLIST.md',
+    'build/mdt/HANDOFF.md',
 }
+
+# 内部用语：上传版里不该出现（出现就人工清理）
+INTERNAL = re.compile(r'本会话|下一个会话|另一个会话|这次会话|开会话|烧了|这笔钱')
 
 
 def tracked():
@@ -79,6 +88,26 @@ def main():
             bare.append(f)          # 无扩展名的文件：只提示，不拦
         elif e not in OK_EXT:
             bad.append(f)
+    # 内部用语扫描（只对将要上传的文本文件）
+    hits = []
+    for f in files:
+        if f == 'tools/make_upload.py':
+            continue
+        if not f.lower().endswith(('.md', '.txt', '.py', '.csv')):
+            continue
+        try:
+            t = open(os.path.join(ROOT, f), encoding='utf-8', errors='ignore').read()
+        except Exception:                                   # noqa: BLE001
+            continue
+        for m in INTERNAL.finditer(t):
+            line = t[:m.start()].count('\n') + 1
+            hits.append((f, line, m.group(0)))
+    if hits:
+        print('\n！上传版里出现内部用语（建议改写，或把整份文件加入 SKIP）:')
+        for f, line, word in hits[:20]:
+            print('   %s:%d  %s' % (f, line, word))
+        print('   共 %d 处。' % len(hits))
+
     if bare:
         print('\n无扩展名的跟踪文件（确认不是驱动本体）:')
         for f in bare:
