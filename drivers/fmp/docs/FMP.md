@@ -9,6 +9,10 @@ PC-98 上由 **TGL / 戯画 / 夢幻** 三家共用的 MIDI 驱动，数据扩�
 ```
 tglfmp.com / tglfmp2.com   ← HOOT 的壳（127 / 90 字节），按 TGL 命名
 FMP2.COM / FMP3.COM        ← 真身驱动，自报「ＦＭ＆ＭＩＤＩ音源バスター 音痴君。version 3.04月 (C)戯画」
+
+> **例外**：TGL 的 `EDGE` / `SWORD DANCER 増刊号'93` 两个包里的 `FMP2.COM` 自报
+> **`FFMP ver1`**，不是音痴君——INT D2 入口、AL 分派表、播放流程都不一样。
+> 详见 `docs/HANDOFF.md` 的「TGL 的 FMP 壳」一节（2026-11-24 追加）。
 ```
 
 壳的流程（`tglfmp2.com` 反汇编）：

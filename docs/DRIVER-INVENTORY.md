@@ -135,7 +135,7 @@ zatuon_21      → zatuon_98
 1. `ARTDI_98`（12 部，Artdink）—— 桩 + 大 BIN
 2. `DOFMDX98`（12 个包 → 79 部作品）—— `.FMD` 明文
 3. `FMD.EXE`（7 部，FUGAM）—— ⛔ **B 代结案**：A 代已交付 70 文件；B 代表演结构无法复现
-   （音高相似度 0.008、鼓 6/9 种），未公开原因 + 成本不现实，见 [`FMD.md`](../drivers/fugam/docs/FMD.md)
+   （音高相似度 0.008、鼓 6/9 种），音源槽/通道分配未复刻（§36.3） + 成本不现实，见 [`FMD.md`](../drivers/fugam/docs/FMD.md)
 4. `FMP3.COM`（6 部）
 
 **`DOFMDX98` 仍然是首选**：79 部作品、数据是明文 `.FMD`（有 `68V2` 签名和偏移表）、
@@ -148,3 +148,30 @@ zatuon_21      → zatuon_98
   → 所以下载时**不靠映射，直接全下**
 - HOOT 的 rom 名有时是内部编号（`000_BOOT`、`MT32_ROM`），不是真实文件名
 - 同名驱动的不同构建必须按哈希区分
+
+## 长尾的分层（2026-11-24 重跑 triage）
+
+`tools/triage.py` → `triage2.py` → `driver_clusters.py` 重跑后（`build/driver_clusters.json`），
+把 204 个「一对一驱动」按形态和大小分了层：
+
+| 层 | 数量 | 例子 |
+|---|---|---|
+| **已知家族名** | 69 | `FMD.EXE`、`FMD13.EXE`、`MMD.COM`、`MSDRV.EXE`、`FMP3.COM`、`MUSIC.COM`、`PMD`、`MDRV`、`FMX.COM`、`IBGM.EXE` |
+| **小壳（<2KB）** | 34 | `7COLM_98.COM`(400B)、`INT7C.COM`(1188B)、`BUNKA_98.COM`(510B)、`G3M.COM`(736B) |
+| **中等未知（2–100KB）** | 71 | `MOTV21.EXE`(89KB)、`HTRON.EXE`(86KB)、`NADL.EXE`(82KB)、`AD.EXE`×3、`MIRAGE.EXE` |
+| **疑似游戏 EXE（>100KB）** | 30 | `A1.EXE`、`A4.EXE`、`LUNA.EXE`、`BR2_98.EXE`、`HSB3.EXE` |
+
+**结论**：真正“从零逆向”的核心约 **100 个**（71 中等 + 30 游戏 EXE），不是 204。
+其中：
+
+- 69 个已知家族大概率可**复用现有解析器**（MMD/FMD/MSDRV/FMP 系），只需小适配；
+- 34 个小壳**跑一下看它调哪个驱动**即可分类；
+- 30 个游戏 EXE 是驱动嵌在游戏里，最费劲，**压到最后**。
+
+**建议顺序**：先跑 69 个已知家族（复用现有解析器，最便宜），再扫 34 个小壳（看它调谁），
+71 个中等未知按 HOOT 标签里有没有 `GS`/`GM`/`MT-32` 过滤（FM 一律 PASS），最后动 30 个游戏 EXE。
+**先建共用 `loop_detect`**，否则每个驱动都要重写一遍循环判定。
+
+**复现**：`python tools/triage.py && python tools/triage2.py && python tools/driver_clusters.py`，
+分层统计脚本见 `build/_lead_triage_layers.py`（临时脚本，未入库）。
+
