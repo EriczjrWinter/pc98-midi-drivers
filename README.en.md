@@ -27,10 +27,11 @@ and get the music out.
 | [**MDRV98**](drivers/dofmdx/) | D.O. / ZyX | Run driver + capture | 6 standalone packs + 11 B-route packs + 4 C-route titles | ✅ **117 tracks** (GS / MT-32) + **678** (B route) + **50** (C-route `.MUS`) + **507** (.MDT transcriptions) |
 | [**MSDRV4**](drivers/msdrv/) | Black Package | Run driver + capture | 7 packs (of 9) | ✅ **129 MIDIs** (82 tracks × GS / SC-88) |
 | [**FMP (Onchikun)**](drivers/fmp/) | TGL / GIGA / Mugen | Run driver + capture | 19 packs | ✅ **574 MIDIs** (405 tracks, GS/SC-88/MT-32/SC-55) |
+| [**FUGA / FMD**](drivers/fugam/) | Fuga System et al. | Run driver + static sequencing | 34 packs / 8 branches | ✅ **448 tracks** (A 100 + B 263 + FMD13 34 + FMD5 32 + FMD5248 10 + FMD7 9) |
 | [**Alice Soft**](companies/alicesoft/) | Alice Soft | Run engine | AmbivalenZ | ✅ 21 tracks (Windows side) |
 
-**1,493 full tracks + 678 B-route excerpts + 50 C-route excerpts + 507 .MDT transcriptions**
-(51 + 61 + 756 + 117 + 21 + 82 + 405), plus the driver analysis documents.
+**1,941 full tracks + 678 B-route excerpts + 50 C-route excerpts + 507 .MDT transcriptions**
+(51 + 61 + 756 + 117 + 21 + 82 + 405 + 448), plus the driver analysis documents.
 
 > **MDRV98 family coverage.** The same driver family ships in four forms:
 > standalone driver (`DOFMD_98.BIN` + `MDRV98`/`ZYXMD`) in **6 packs** — solved, 117 tracks;
@@ -179,7 +180,6 @@ tools/           download, triage, clustering, cross-reference, conversion
 - [x] **MMD batch** — 36 titles / 756 tracks, archived by title (GAL 460 / non-GAL 296)
 - [x] The `MDRV98.COM` / `BGMDRV.COM` shell route — closed: 4 GS/GM `.MUS` titles exported (64 files / 50 tracks), FM packs passed on; `.MDT` already statically parsed (19 packs / 507 tracks)
 - [x] `MV2x` (DOR series, 23 titles) — confirmed FM-only, no MIDI output
-- [x] `FUGAM_98` (53 titles) — **closed**: 448 tracks delivered (A 100 / B 263 / FMD5 32 / FMD13 34 / FMD7 9 / FMD5248 10), full static/runtime closure; output in `build/hootcap/fmd-collection/` ([FMD.md](drivers/fugam/docs/FMD.md), [FMD-FINAL-NOTES.md](drivers/fugam/docs/FMD-FINAL-NOTES.md))
 - [x] `MSDRV4` — driver runs; 7 packs / 129 MIDIs exported (GS / SC-88, calibrated on the OPNA Timer B). The `stjan2` (`.BM2`) and `rekiai` (`.MF` tail) containers are resolved; 23 tracks await loop detection ([MS-FORMAT.md](drivers/msdrv/docs/MS-FORMAT.md))
 - [ ] The long tail: 204 one-off drivers
 
