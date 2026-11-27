@@ -33,6 +33,7 @@ SKIP = {
     'docs/WORKS-RECONCILE.md',
     'docs/WORKS-TARGETS.md',
     'build/mdt/HANDOFF.md',
+	'drivers/fmp/docs/TGL-FFMP-HANDOFF.md'
 }
 
 # 内部用语：上传版里不该出现（出现就人工清理）

@@ -23,7 +23,7 @@ PC-98 的游戏音乐，很多是「**数据 + 驱动**」的结构：数据只�
 | [**MMD**](drivers/mmd/) | KAJA（跨 23 家） | 静态解析 | 36 部 / 40 包 | ✅ **756 首**（GAL 460 / 非GAL 296） |
 | [**MDRV98**](drivers/dofmdx/) | D.O. / ZyX | 运行驱动 + 抓包 | 独立驱动 6 包 + B 路线 11 包 + C 路线 4 部 | ✅ **117 首**（GS / MT-32）+ **678 首**（B 路线）+ **50 首**（C 路线 `.MUS`）+ **507 首**（.MDT 转录） |
 | [**MSDRV4**](drivers/msdrv/) | 黒パッケージ | 运行驱动 + 抓包 | 7 个包（共 9 个） | ✅ **129 个 MIDI**（82 首 × GS/SC-88 变体） |
-| [**FMP / 音痴君**](drivers/fmp/) | TGL / 戯画 / 夢幻 | 运行驱动 + 抓包 | 19 包 | ✅ **574 个 MIDI**（405 首，GS/SC88/MT-32/SC-55） |
+| [**FMP**](drivers/fmp/) | TGL / 戯画 / 夢幻 | 运行驱动 + 抓包 | 21 包（音痴君 19 + FFMP ver1 2） | ✅ **573 个 MIDI**（443 首，GS/SC88/MT-32/SC-55） |
 | [**FUGA / FMD**](drivers/fugam/) | 風雅システム ほか | 运行驱动 + 静态音序 | 34 包 / 8 分支 | ✅ **420 首**（A 72 + B 263 + FMD13 34 + FMD5 32 + FMD5248 10 + FMD7 9） |
 | [**Alice Soft**](companies/alicesoft/) | Alice Soft | 跑引擎 | 二律背反 | ✅ 21 首（Windows 侧） |
 
