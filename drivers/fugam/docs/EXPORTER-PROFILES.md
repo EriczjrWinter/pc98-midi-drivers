@@ -23,31 +23,42 @@
 
 ---
 
-## 二、档案表
+## 二、档案表（2026-11-27 收口）
 
-| driver | size | 包 | df | tempo | end | src | verified |
-|---|---|---|---|---|---|---|---|
-| `FMD9.EXE` | 4774 | ama2_98 / ama2s_98 | N | `$E0` | `fe,pass` | `.GMD`=GS / `.MMD`=MT-32 | ✅ |
-| `FMD7.EXE` | 4998 | marple98 | `?` | `?` | `?` | 只有 `.MMD` | ❌ 导出仅 2–6 秒 |
-| `FMD13.EXE` | 5301 | ama2m_98 | `?` | `?` | `?` | `?` | ❌ 未分析 |
-| `FMD.EXE` | 4773 | ama3_98 | `?` | `?` | `?` | `.GMD`/`.MMD` 双源 | ✅ GS 已出；MT-32 待确认 |
-| `FMD.EXE` | 4969 | ama4_98 / amakh_98 / deadfc98 | Y | `$E0+$E1` | `fe,pass,loop` | 单源 `.GMD` | ✅ |
-| `FMD.EXE` | 4857 | farce/hiragi/momoko | Y | `$E0+$E1` | 同 4969 | 单源 | ✅（引擎与 4969 逐字节相同） |
-| `FMD.EXE` | 5248 | image1_98 / image2_98 / p_club_98 | `?` | `?` | `?` | `?` | `?` |
-| `FMD.EXE` | 5365 | bonnou3_98 / mug-r_98 | `?` | `?` | `?` | `?` | ✅ 已导（未单独验） |
-| `FMD.EXE` | 4601 | venus_98 | `?` | `?` | `?` | `?` | ✅ 已导（未单独验） |
-| `FMD.EXE` | 4341 | oerstd98 | `?` | `?` | `fe,pass` | `?` | ✅ 验收通过（原 end=cap 已解） |
-| `FMD14.EXE` | 4341 | sanina_98 | `?` | `?` | `?` | `?` | ⚠️ 与上一条同大小，先比哈希 |
-| `FMD5.EXE` | 4485 | fgsel1c / fgsel1m | `?` | `?` | `?` | `?` | 🔄 重导中 |
+轨道表地址均为**实测 dump**（线性地址见备注：`fix_table_base()` 返回的就是线性地址，不要再加 `CB`）。
+
+| driver | size | 轨道表 | 包 | 曲数 | end 判据 | 状态 |
+|---|---|---|---|---|---|---|
+| `FMD9.EXE` | 4774 | `0x0E64` | ama2_98 / ama2s_98 | 72 | `fe,pass` | ✅ |
+| `FMD7.EXE` | 4998 | `0x0E09` | marple98 | 9 | `fe,pass,loop` | ✅ |
+| `FMD13.EXE` | 5301 | `0x0F0F` | ama2m_98 | 34 | `fe,pass,loop` | ✅ |
+| `FMD.EXE` | 4773 | `0x0C9E` | ama3_98 / ama3s_98 | 48 | `fe,pass,loop` | ✅ GS+MT-32 |
+| `FMD.EXE` | 4969 | `0x0EBC` | ama4_98 / amakh_98 / deadfc98 | 56 | `fe,pass,loop` | ✅ |
+| `FMD.EXE` | 4857 | `0x0EBC` | farce / hiragi / momoko / papa / reno / tlove12 / yumecol | 89 | 同 4969 | ✅（引擎与 4969 逐字节相同） |
+| `FMD.EXE` | 5248 | `0x0E70` | image1_98 / image2_98 / p_club_98 | 24 | `fe,pass` + 全轨向量周期 | ✅ |
+| `FMD.EXE` | 5365 | `0xD18`（mug-r） | bonnou3_98 / mug-r_98 | 18 | `fe,pass,loop` | ✅ |
+| `FMD.EXE` | 4601 | `0x0CB8` | venus_98 | 17 | `fe,pass,loop` | ✅ |
+| `FMD.EXE` | 4341 | `0x0CD0` | oerstd98 | 21 | `fe,pass,cycle` | ✅ |
+| `FMD14.EXE` | 4341 | `0x0CD2` | sanina_98 | 12 | `fe,pass,loop` | ✅（与 FMD.EXE 4341 同大小、不同 build） |
+| `FMD5.EXE` | 4485 | `0x0D1A` | fgsel1c / fgsel1m | 32 | `fe,pass,loop` | ✅ |
+
+**合计 420 首**（与仓库 README 的完成清单一致）。
+
+> `image2_98` / `venus_98` 曾在 A、B 两个静态管线里各出一份（音乐一致、编码细节不同）；
+> 现只保留 B 分支那一份，A 的副本已删除。
 
 ---
 
-## 三、填表顺序（省力）
+## 三、收口记录
 
-1. **先比哈希/逐字节 diff**：`4341 vs 4341`、`4773 vs 4969`、`5248 vs 5365`——
-   相同的合并成一行，待办立刻少一半；
-2. **再按"已导出但没验"的补 `verified`**：5365 / 4601 / 5248 各抽一首对 HOOT；
-3. **最后攻未知**：FMD7（唯一已知坏）、FMD13（全新）、4773 的 MT-32 源。
+```text
+2026-11-26  按 build 建档，标记各 build 的 df/tempo/end/src 待查项
+2026-11-27  逐 build 实测轨道表地址；FMD7/FMD13/FMD5/FMD5248 全部跑通
+            FC 链掩码差异：A/B 代 & 0xFFFC，5248 为 0x00FC
+            周期口径最终改为「全轨状态向量连续三段一致」（见 FMD-LOOP-F8F9 §35）
+```
+
+新增 build 时只需：测一次轨道表地址 → 填一行 → 用 §四 的四条规则验一遍。
 
 ---
 

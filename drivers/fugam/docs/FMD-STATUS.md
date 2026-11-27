@@ -1,6 +1,6 @@
-# FMD 正式结档总表（2026-11-26）
+# FMD 正式结档总表（2026-11-27）
 
-> ✅ **已结档**：FMD 线完成并冻结。最终汇总 `build/hootcap/fmd-collection/`（445 个 MIDI）。
+> ✅ **已结档**：FMD 线完成并冻结。最终汇总 `build/hootcap/fmd-collection/`（**420 个 MIDI**，去重后）。
 
 ## 已导出/验收
 
@@ -11,9 +11,9 @@
 | FMD.EXE 4857 | farce/hiragi/momoko/papa/reno/tlove12/yumecol | `fuga-b` | B 批量 |
 | FMD.EXE 4773 | ama3_98 | `fuga-b/ama3_98` + `ama3s_98` | MT + GS 各 24 |
 | FMD.EXE 5365 a/b | bonnou3 / mug-r | `fuga-b` | 两 hash 分开 |
-| FMD.EXE 4601 | venus_98 | `fuga-a`/`fuga-b` | A/B 都通过 |
+| FMD.EXE 4601 | venus_98 | `fuga-b` | ✅（A 分支重复副本已删） |
 | FMD.EXE 4341 | oerstd98 | `fuga-b` | cycle |
-| FMD.EXE 5248 | image2_98 | `fuga-a`/`fuga-b` | A/B 都通过 |
+| FMD.EXE 5248 | image2_98 | `fuga-b` | ✅（A 分支重复副本已删） |
 | FMD.EXE 5248 | image1_98 / p_club_98 | `fmd5248` | 全轨向量周期；TITLE 195/3264/3459；DORA 784/8832/9616 |
 | FMD13 5301 | ama2m_98 | `fmd13/ama2m_98` | P1 legacy-A，34 首 loop29/pass5 |
 | FMD14 4341 | sanina_98 | `fuga-b` | max40000 + cycle off |
