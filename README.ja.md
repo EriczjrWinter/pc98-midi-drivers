@@ -145,12 +145,12 @@ drivers/
   msdrv/         黒パッケージ MSDRV4 —— 形式解析 + ドライバ実行
   dofmdx/        D.O. MDRV98 —— 解析記録 + mdrvcap（取り出し / エクスポート）
 docs/
-  HANDOFF.md            次セッションの開始ガイド（現状 + 次の作業 + レビュー項目）
+  引き継ぎメモ（公開版には含めない）            次セッションの開始ガイド（現状 + 次の作業 + レビュー項目）
   DRIVER-INVENTORY.md   246 個のドライバ一覧
   CATALOG.md            A/B/C/D 分類の考え方
   MATERIALS.md          素材の入手方法
-  NEXT.md               現在の進捗と次の作業
-  PIPELINE.md           パイプライン化の方針（コア + ドライバ別 profile）
+  進捗メモ（公開版には含めない）               現在の進捗と次の作業
+  パイプライン方針（公開版には含めない）           パイプライン化の方針（コア + ドライバ別 profile）
 catalog/
   games.json     4411 作品（全機種）
   win95.json     414 の PC-98 MIDI 作品 + VNDB の機種情報
@@ -180,8 +180,8 @@ tools/           ダウンロード、分類、クラスタリング、照合、
 - [x] **MMD 一括** —— 36 作品 / 756 曲を作品別にアーカイブ（GAL 460 / 非GAL 296）
 - [x] `MDRV98.COM` / `BGMDRV.COM` + 小型シェルルート —— 収束：`.MUS` の GS/GM 4 作品を導出済み（64 ファイル / 50 曲）、FM パックは対象外。`.MDT` は静的解析済み（19 パック / 507 曲）
 - [x] `MV2x`（DOR シリーズ、23 作品）—— 純 FM ドライバで MIDI 出力なしと確認
-- [ ] `FUGAM_98`（53 作品）—— **A 世代は納品済み：70 ファイル**（Amaranth II GS 36 + MT-32 34、HOOT とのイベント対応で傾き 1.000）；**B 世代（`FMD.EXE` 系）は 2026-11-23 に結案・保管**：原因は「音源スロット／チャンネル割り当て」の未実装に収束（FMD-BUILDS.md §36.3）、書き出した演奏構造が HOOT と一致しない（音高列の類似度 0.008、ドラム音高 6 種 vs 9 種、イベント密度 1/2.3）。このドライバは他より難度が極めて高く、これ以上のリバースエンジニアリングは費用対効果が合わない（[FMD.md](drivers/fugam/docs/FMD.md)）
-- [x] `MSDRV4` —— ドライバ実行に成功、7 パック / 129 MIDI を導出（GS / SC-88、OPNA Timer B で校正）。残りは `stjan2`（`.BM0/1/2` の三バッファ）と `rekiai`（`.MF` コンテナ）の 2 パック（[MS-FORMAT.md](drivers/msdrv/docs/MS-FORMAT.md)）
+- [x] `FUGAM_98`（53 作品）—— **収束**：448 曲を納品（A 100 / B 263 / FMD5 32 / FMD13 34 / FMD7 9 / FMD5248 10）、静的/実行時の検証を完了。生成物は `build/hootcap/fmd-collection/`（[FMD.md](drivers/fugam/docs/FMD.md)、[FMD-FINAL-NOTES.md](drivers/fugam/docs/FMD-FINAL-NOTES.md)）
+- [x] `MSDRV4` —— ドライバ実行に成功、7 パック / 129 MIDI を導出（GS / SC-88、OPNA Timer B で校正）。`stjan2`（`.BM2`）と `rekiai`（`.MF` 末尾）のコンテナは解決済み、23 曲はループ検出待ち（[MS-FORMAT.md](drivers/msdrv/docs/MS-FORMAT.md)）
 - [ ] ロングテール：1 作品専用のドライバ 204 個
 
 ## 参考

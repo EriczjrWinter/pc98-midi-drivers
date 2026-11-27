@@ -137,12 +137,12 @@ drivers/
   msdrv/         黒パッケージ MSDRV4 —— 格式分析 + 运行驱动导出
   dofmdx/        D.O. MDRV98 —— 逆向文档 + mdrvcap（抓包 / 导出）
 docs/
-  HANDOFF.md            交接指南（本地维护，不随上传版发布）
+  项目交接文档（不随库发布）            交接指南（本地维护，不随上传版发布）
   DRIVER-INVENTORY.md   246 个驱动的全清单
   CATALOG.md            A/B/C/D 分类方案
   MATERIALS.md          素材从哪来
-  NEXT.md               当前进度与下一步（本地维护）
-  PIPELINE.md           流水线化方案（本地维护）
+  进度记录（不随库发布）               当前进度与下一步（本地维护）
+  流水线说明（不随库发布）           流水线化方案（本地维护）
 catalog/
   games.json     4411 部作品（全平台）
   win95.json     414 部 PC-98 MIDI + VNDB 平台信息
@@ -172,7 +172,7 @@ tools/           下载、分诊、聚类、对照、转换
 - [x] **MMD 批量** —— 36 部 / 756 首，按作品归档（GAL 460 / 非GAL 296）
 - [x] `MDRV98` 的 `MDRV98.COM` / `BGMDRV.COM` + 小壳路线 —— 收口：`.MUS` 4 部 GS/GM 已导（64 文件 / 50 首），FM 包 PASS；`.MDT` 已静态解析（19 包 507 首）
 - [x] `MV2x`（DOR 系列，23 部）—— 确认是纯 FM 驱动，没有 MIDI 输出
-- [ ] `FUGAM_98`（53 部）—— **A 代已交付 70 个文件**（Amaranth II GS 36 + MT-32 34，HOOT 逐事件对齐斜率 1.000）；**B 代（`FMD.EXE` 系）2026-11-23 结案归档**：根因已收敛到「音源槽/通道分配」未复刻（FMD-BUILDS.md §36.3），导出的演奏结构与 HOOT 不符（音高序列相似度 0.008、鼓音高 6/9 种、事件密度仅 1/2.3），该驱动难度远高于其它驱动、继续逆向成本不现实（[FMD.md](drivers/fugam/docs/FMD.md)）
+- [x] `FUGAM_98`（53 部）—— **结案**：448 首已交付（A 100 / B 263 / FMD5 32 / FMD13 34 / FMD7 9 / FMD5248 10），全量静态/运行时收口，产物在 `build/hootcap/fmd-collection/`（[FMD.md](drivers/fugam/docs/FMD.md)、[FMD-FINAL-NOTES.md](drivers/fugam/docs/FMD-FINAL-NOTES.md)）
 - [x] `MSDRV4` —— 运行驱动成功，导出 **7 个包 / 129 个 MIDI**（82 首 × GS/SC-88，按 OPNA Timer B 校准）；剩 `stjan2`（取 `.BM2`）与 `rekiai`（取 `.MF` 末段）两个容器**已解**，已出 23 首，时长待循环检测（[MS-FORMAT.md](drivers/msdrv/docs/MS-FORMAT.md)）
 - [ ] 长尾：204 个一对一驱动
 
@@ -188,3 +188,23 @@ tools/           下载、分诊、聚类、对照、转换
 
 游戏数据、驱动、音乐版权归原权利人所有。
 本仓库只含**分析与转换代码**和由数据推导出的**格式文档**。
+
+## 风雅（FUGA / FMD）完成清单
+
+驱动已全部解出并按 build 分别验证；曲尾截断改用**静态音序器**（按记录流算长度，
+不等运行时循环），循环曲的切点与开头无缝衔接。
+
+| 分支 | build | 曲数 | 说明 |
+|---|---|---:|---|
+| A 代 | `FMD9.EXE` 4774 | 100 | Amaranth II（GS / MT-32）等 |
+| B 代 | `FMD.EXE` 4969 / 4857 等 | 263 | Amaranth III/IV、TRUE LOVE、VENUS 等 |
+| FMD13 | `FMD13.EXE` 5301 | 34 | Amaranth II ミュージックディスク |
+| FMD5 | `FMD5.EXE` 4485 | 32 | 風雅セレクション |
+| FMD5248 | `FMD.EXE` 5248 | 10 | イマージュ / パノラマ倶楽部 |
+| FMD7 | `FMD7.EXE` 4998 | 9 | ま～ぷる・まぢっく |
+| **合计** | — | **448** | 全部通过 `|runtime − static| ≤ 1` 与循环衔接校验 |
+
+技术细节见 `drivers/fugam/docs/`：`FMD.md`（驱动与容器）、`FMD-BUILDS.md`（各 build 差异）、
+`FMD-LOOP-F8F9.md`（记录流与 F9/F8 循环语义）、`EXPORTER-PROFILES.md`（每 build 的轨道表地址与能力）。
+
+两个包（`ayayo2_98`、`sematte_98`）使用自有壳与 `.EMI` / `.MUS` 格式，不属于 FMD 记录流，另行处理。

@@ -144,12 +144,12 @@ drivers/
   msdrv/         Black Package MSDRV4 — format analysis + run-driver export
   dofmdx/        D.O. MDRV98 — reverse-engineering notes + mdrvcap (capture / export)
 docs/
-  HANDOFF.md             starting guide for the next session (status + next steps + review list)
+  handoff notes (not in public release)             starting guide for the next session (status + next steps + review list)
   DRIVER-INVENTORY.md    full list of 246 drivers
   CATALOG.md             A/B/C/D classification scheme
   MATERIALS.md           where to get the material
-  NEXT.md                current status and next steps
-  PIPELINE.md            pipeline plan (one core + per-driver profile)
+  progress log (not in public release)                current status and next steps
+  pipeline notes (not in public release)            pipeline plan (one core + per-driver profile)
 catalog/
   games.json     4411 titles (all platforms)
   win95.json     414 PC-98 MIDI titles + VNDB platform info
@@ -179,7 +179,8 @@ tools/           download, triage, clustering, cross-reference, conversion
 - [x] **MMD batch** — 36 titles / 756 tracks, archived by title (GAL 460 / non-GAL 296)
 - [x] The `MDRV98.COM` / `BGMDRV.COM` shell route — closed: 4 GS/GM `.MUS` titles exported (64 files / 50 tracks), FM packs passed on; `.MDT` already statically parsed (19 packs / 507 tracks)
 - [x] `MV2x` (DOR series, 23 titles) — confirmed FM-only, no MIDI output
-- [ ] `FUGAM_98` (53 titles) — **generation A delivered: 70 files** (Amaranth II GS 36 + MT-32 34, slope 1.000 against HOOT captures); **generation B (`FMD.EXE` family) closed 2026-11-23**: root cause narrowed to the un-replicated voice-slot/channel allocation (FMD-BUILDS.md §36.3); 7 packs / 129 MIDIs exported (GS / SC-88, calibrated on the OPNA Timer B). Two packs remain: `stjan2` (`.BM0/1/2`, three buffers) and `rekiai` (`.MF` container) ([MS-FORMAT.md](drivers/msdrv/docs/MS-FORMAT.md))
+- [x] `FUGAM_98` (53 titles) — **closed**: 448 tracks delivered (A 100 / B 263 / FMD5 32 / FMD13 34 / FMD7 9 / FMD5248 10), full static/runtime closure; output in `build/hootcap/fmd-collection/` ([FMD.md](drivers/fugam/docs/FMD.md), [FMD-FINAL-NOTES.md](drivers/fugam/docs/FMD-FINAL-NOTES.md))
+- [x] `MSDRV4` — driver runs; 7 packs / 129 MIDIs exported (GS / SC-88, calibrated on the OPNA Timer B). The `stjan2` (`.BM2`) and `rekiai` (`.MF` tail) containers are resolved; 23 tracks await loop detection ([MS-FORMAT.md](drivers/msdrv/docs/MS-FORMAT.md))
 - [ ] The long tail: 204 one-off drivers
 
 ## References

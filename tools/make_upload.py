@@ -30,6 +30,8 @@ SKIP = {
     'docs/HANDOFF.md',
     'docs/PIPELINE.md',
     'docs/REVIEW-CHECKLIST.md',
+    'docs/WORKS-RECONCILE.md',
+    'docs/WORKS-TARGETS.md',
     'build/mdt/HANDOFF.md',
 }
 
