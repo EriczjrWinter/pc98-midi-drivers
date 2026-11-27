@@ -12,9 +12,14 @@ PC-98 上 TGL / 戯画 / 夢幻 三家共用的 MIDI 驱动。运行时自报：
 
 ## 现状
 
-戯画 5 包已导出 **184 个 MIDI**（约 109 首，GS + SC-88 双版本），
-曲名取自 HOOT `<titlelist>`，节拍按 `tick = (256 − TimerB) × 0.2991 ms`。
+**21 个包全部跑通：573 个 MIDI（443 首不重复）**（GS / SC-88 / MT-32 / SC-55 变体），
+曲名取自 HOOT `<titlelist>`。节拍按驱动分两套：
 
-TGL 12 包、夢幻 2 包待跑（同驱动同格式）。
+- 音痴君 19 包 522 个：`tick = (256 − TimerB) × 0.2991 ms`（INT 14h）；
+- **FFMP ver1** 2 包 51 个（EDGE 25 首、SWORD DANCER 増刊号'93 13 首 × GS/MT-32）：
+  `tick = 2 × [0x6EF] × [0x6F3] / 2457.6 ms`（**INT 08h + 8253 ch0**），
+  见 [docs/TGL-FFMP-HANDOFF.md](docs/TGL-FFMP-HANDOFF.md)。
+
+FM 版（`.M` / `.MFM`）按政策 PASS。
 
 详见 [docs/FMP.md](docs/FMP.md)。

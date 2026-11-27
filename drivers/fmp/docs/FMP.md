@@ -10,9 +10,10 @@ PC-98 上由 **TGL / 戯画 / 夢幻** 三家共用的 MIDI 驱动，数据扩�
 tglfmp.com / tglfmp2.com   ← HOOT 的壳（127 / 90 字节），按 TGL 命名
 FMP2.COM / FMP3.COM        ← 真身驱动，自报「ＦＭ＆ＭＩＤＩ音源バスター 音痴君。version 3.04月 (C)戯画」
 
-> **例外**：TGL 的 `EDGE` / `SWORD DANCER 増刊号'93` 两个包里的 `FMP2.COM` 自报
-> **`FFMP ver1`**，不是音痴君——INT D2 入口、AL 分派表、播放流程都不一样。
-> 详见 项目交接文档（不随库发布） 的「TGL 的 FMP 壳」一节（2026-11-24 追加）。
+> **例外**：TGL 的 `EDGE` / `SWORD DANCER 増刊号'93` 两个包里的 `FMP2.COM` 是
+> **FFMP ver1**（`0x102` 有 `FFMP ver1` 签名，横幅 `ＦＭＰ ver.2.1` / `ver.2.2b`），
+> 不是音痴君——INT D2 入口、AL 分派表、**时钟中断（INT 08h 而不是 INT 14h）**都不一样。
+> 已解，见 `drivers/fmp/docs/TGL-FFMP-HANDOFF.md`。
 ```
 
 壳的流程（`tglfmp2.com` 反汇编）：
@@ -67,13 +68,19 @@ tick_ms = (256 − TimerB) × 0.2991
 `build/fmp_batch.py`：装驱动 → `AL=8 AH=2` → `AL=1` 播放 → 循环 INT 14h → 抓 `0xE0D0`，
 按 Timer B 建时间轴写 SMF。曲名取自 HOOT `<titlelist>`。
 
-19 个包全部跑通，**574 个 MIDI、405 首不重复**：
+19 个音痴君包全部跑通，**522 个 MIDI、405 首不重复**：
 
 | 会社 | 包 | 文件 |
 |---|---|---|
-| 戯画 | V.G.（21×2）、V.G.II（21×2）、BRIGANTY（19×2）、STEAM-HEART'S（19 GS + 19 MT-32 + 6 SC-88）、Harlem Blade（29×2） | 184 |
-| TGL | ファーランドストーリー 1–7（18/14/21/21/20/25/29）、EDGE（26）、あっぱれ伝（30）、機装神伝ゲンカイザー（21）、ソードダンサー 凶刃の女神（24×2）、SWORD DANCER '93（13×2） | 371 |
+| 戯画 | V.G.（21×2）、V.G.II（21×2）、BRIGANTY（19×2）、STEAM-HEART'S（19 GS + 19 MT-32 + 6 SC-88）、Harlem Blade（29×2） | 224 |
+| TGL | ファーランドストーリー 1–7（18/14/21/21/20/25/29）、あっぱれ伝（30）、機装神伝ゲンカイザー（21）、ソードダンサー 凶刃の女神（24×2） | 264 |
 | 夢幻 | Horny Sweeper（15）、Horny Sweeper2（19） | 34 |
+
+另有两个 **FFMP ver1** 包（EDGE 25、SWORD DANCER 増刊号'93 13×2 = 51），见下节；
+合计 **21 包 573 个 MIDI（443 首）**。
+
+> 旧文档写的"574 个"是**把这个 522 加上当时两个 FFMP 包的 52 个空文件**得来的
+> （26+26），不是 19 包的真实数。现在两个 FFMP 包出的是真文件，所以总数是 522+51=573。
 
 变体后缀：`.MGS`→`_GS`、`.MG2`→`_SC88`、`.MMT`→`_MT32`、`.MD`→`_SC55`。
 
@@ -135,6 +142,20 @@ FMP 驱动循环时**不回到曲首**，而是跳到数据里的另一个位置
 ## 已知问题
 
 1. `vg_98` 有 22 个 `.MGS`，只导出 21 首（有一个文件失败/跳过，待查）；
-2. TGL 12 包（fs1–7、edge、appare、genkai、sdg、sdz93）和夢幻 2 包（hs/hs2）还没跑，
-   数据是 `.MGS`/`.MD`/`.MMT`，同一套流程应通用；
-3. `.MCM`（vg_98 的 22 个）没确认是什么音源变体。
+2. `.MCM`（vg_98 的 22 个）没确认是什么音源变体。
+
+## FFMP ver1（EDGE / SWORD DANCER 増刊号'93）
+
+这两个包的 `FMP2.COM` 是另一支驱动（签名 `FFMP ver1`，横幅 `ＦＭＰ ver.2.1` / `ver.2.2b`），
+**时钟走 INT 08h + 8253 ch0**，不是音痴君的 INT 14h + OPNA Timer B：
+
+```
+tick_ms = 2 * cs:[0x6EF] * cs:[0x6F3] / 2457.6     ; 默认 13.74 ms，0x82 命令会改写两者
+```
+
+- 壳只调 `AL=0 → AL=8 AH=2 → AL=1`；`AL=8` 的 AH **必须 2** 才往 `0xE0D0` 发音符；
+- sdz93 的 ver.2.2b 还要命令行 `M`（否则 18 轨全关，装得上但 0 音）；
+- `AL=0x11` 非法（表只到 `0x0E`），`MIDIEFE.MD` 是壳喂它的音色数据，不是歌；
+- 导出器 `build/tgl_ffmp.py`，产出 `build/hootcap/fmp/EDGE/`（25 首）与
+  `build/hootcap/fmp/SWORD DANCER 増刊号'93/`（13 首 × GS/MT-32）；
+- 技术细节、地址表、循环判定：`drivers/fmp/docs/TGL-FFMP-HANDOFF.md`。
