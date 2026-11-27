@@ -134,8 +134,12 @@ zatuon_21      → zatuon_98
 
 1. `ARTDI_98`（12 部，Artdink）—— 桩 + 大 BIN
 2. `DOFMDX98`（12 个包 → 79 部作品）—— `.FMD` 明文
-3. `FMD.EXE`（7 部，FUGAM）—— ⛔ **B 代结案**：A 代已交付 70 文件；B 代表演结构无法复现
-   （音高相似度 0.008、鼓 6/9 种），音源槽/通道分配未复刻（§36.3） + 成本不现实，见 [`FMD.md`](../drivers/fugam/docs/FMD.md)
+3. `FMD.EXE`（7 部，FUGAM）—— A 代已交付 70 文件；B 代 2026-11-25 打通并批量导出 237/255 首，
+   11 首 `end=cap` 待修，TLOVE_02/08 与 FMD5 未收口；B 代产物仍 unverified，见
+   [`FMD.md`](../drivers/fugam/docs/FMD.md)、[`FMD-BUILDS.md`](../drivers/fugam/docs/FMD-BUILDS.md)
+   - **ayayo2_98 / sematte_98 已移出风雅**：分别是
+     [`EMD-98`](../drivers/emd98/README.md) + `.EMI`、
+     [`ABIKO-98`](../drivers/abiko98/README.md) + `.MUS/.ONS`
 4. `FMP3.COM`（6 部）
 
 **`DOFMDX98` 仍然是首选**：79 部作品、数据是明文 `.FMD`（有 `68V2` 签名和偏移表）、
@@ -171,6 +175,26 @@ zatuon_21      → zatuon_98
 **建议顺序**：先跑 69 个已知家族（复用现有解析器，最便宜），再扫 34 个小壳（看它调谁），
 71 个中等未知按 HOOT 标签里有没有 `GS`/`GM`/`MT-32` 过滤（FM 一律 PASS），最后动 30 个游戏 EXE。
 **先建共用 `loop_detect`**，否则每个驱动都要重写一遍循环判定。
+
+## 未做作品清单（按音源过滤，2026-11-26）
+
+见 **[`WORKS-TARGETS.md`](WORKS-TARGETS.md)**。由 `build/driver_clusters.json` 生成，
+已排除交付目录（mmd / fmd / fmd_b / cmidi7 / msdrv / fmp）里的包。
+
+**口径**：
+
+| 类别 | 包数 |
+|---|---|
+| 未做且音源明确为 MIDI（GS / GM / MT-32 / SC-55 / SC-88 / CM-64） | **306** |
+| 未做但无音源标签（需人工判断） | 19 |
+| 纯 FM（不列，直接 PASS） | 4 |
+| 驱动家族 | 234 |
+
+**音源标签取自作品标题里的括号**（如 `…(MT-32)`），不是 `driver_clusters.json` 的第三个字段——
+那个字段是**厂商**（ARTDINK / WOLFTEAM / TGL…），别搞混。
+
+**便宜优先**：38 个家族的驱动我们已经写过解析器（MMD / FMP / DOFMDX / MSDRV / FMD 系），
+共 **88 个包**——多数只需适配容器，不是从零逆向。
 
 **复现**：`python tools/triage.py && python tools/triage2.py && python tools/driver_clusters.py`，
 分层统计脚本见 `build/_lead_triage_layers.py`（临时脚本，未入库）。
